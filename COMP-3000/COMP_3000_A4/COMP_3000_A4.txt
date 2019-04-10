@@ -1,0 +1,82 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fmodern\fcharset0 Courier-Bold;
+\f3\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red26\green26\blue26;\red255\green255\blue255;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c13333\c13333\c13333;\cssrgb\c100000\c100000\c100000;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid202\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat5\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww14200\viewh15740\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf2 \expnd0\expndtw0\kerning0
+COMP 3000 A4\
+Prepared By: Imran Gabrani-Juma \
+Prepared For: Professor Anil Somayaji\
+Course: COMP 3000 \
+SN: 101036672 \
+\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f1\b\fs20 \cf3 \kerning1\expnd0\expndtw0 {\listtext	1.	}\cb4 \expnd0\expndtw0\kerning0
+[1] Does 
+\f2 alloc_pages()
+\f1  in the Linux kernel immediately allocate memory, or is memory allocated when it is accessed?
+\f3\b0 \uc0\u8232 \u8232 When applying this process \'93Alloc_pages\'94 will directly allocate the memory immediately.\u8232 \
+\ls1\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	2.	}\cb4 \expnd0\expndtw0\kerning0
+[1] Does an anonymous mmap system call allocate memory immediately, or is the memory allocated as it is accessed?
+\f3\b0 \uc0\u8232 \u8232 When this system call is put into place, the anonymous mmap will allocate the memory however this will occur as it is accessed.\
+\pard\pardeftab720\partightenfactor0
+\cf3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0
+\f1\b \cf3 \cb1 \kerning1\expnd0\expndtw0 {\listtext	3.	}\cb4 \expnd0\expndtw0\kerning0
+[2] What is one key advantage of lazy memory allocation? What is one key disadvantage?
+\f3\b0 \uc0\u8232 \u8232 The main advantage of this process is that the process does not use unnecessary resources unless they are absolutely needed, thus meaning it will not take up a specific resource unless it is required. One of the main advantages of this is that we can significantly decrease the boot time of the program that we are trying to execute, as well in some special cases we can directly eliminate the allocation completely, this is a result of it not needing it in the first place. However, on the other hand, one of the main disadvantages is that if you do require memory. Is will case the process to become a lot less efficient as the we will be running a lot slower, this happened because the program has to wait until the program has memory to allocate it before it can start to use it. \u8232 \
+\ls2\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	4.	}\cb4 \expnd0\expndtw0\kerning0
+[2] Assume we have modified the remember module so it allocates 16K (4 pages) at a time, and assume we have stored in /dev/remember 16K copies of the letter "a".\uc0\u8232 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls3\ilvl1\cf3 \cb1 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\cb4 \expnd0\expndtw0\kerning0
+As written, what will a read of /dev/remember return if we use a 4K buffer, starting at the beginning of the file?\uc0\u8232 
+\f3\b0 \uc0\u8232 When completing this task, is it best that we refer back to our tutorials that we completed. We can recall that since the buffer that we are using is only 4K and we are attempting to read 16K a\'92s the program will output the error stetting that buffer is too small. \u8232 \
+\ls3\ilvl1
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\cb4 \expnd0\expndtw0\kerning0
+What will happen if we do a second read, again with a 4K buffer (on the same open file)?
+\f3\b0 \uc0\u8232 \u8232 For this task, if we tired to reattempt the task, we would see the same result as we did from the previous attempt. This is a result due to the fact that the buffer that we currently have is not big enough to hold all of the a\'92s that we need. The error that we will receive during the second attempt will be the same error as we received in the first attempt assuming that we have not made any changes to the buffer. \u8232 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0
+\f1\b \cf3 \cb1 \kerning1\expnd0\expndtw0 {\listtext	5.	}\cb4 \expnd0\expndtw0\kerning0
+[2] When is memory dynamically allocated in the remember module? When is it freed?
+\f3\b0 \uc0\u8232 \u8232 When looking at this problem, and from the problems from the previous assignments we know that when memory is being dynamically allocated and deallocated, both tasks will occur in the write function of our process. However it is important to note that memory can also be deallocated in the exit function of the process as well, similar to the we can see that we can allocate memory will execute when we want to save the data that we have written when the system call of init_save_data is process where the alloc_page is made. Once these processes are both completed, the memory can be freed once we run the free_saved_data function in the process. \u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	6.	}\cb4 \expnd0\expndtw0\kerning0
+[2] As written, what happens when multiple write calls are made to /dev/remember? What is remembered? Why?
+\f3\b0 \uc0\u8232 \u8232 When the system calls are made to /dev/remember we will allocate the specific memory that we need and then save it, thus when the next call is made to write, and free the old memory, we will be able to allocate the new memory and then save it the same way. This allows us to remember the last call that was written and then every new call that is made will erase the previous call that we made almost in a looping method if you are to visualize it in your head. \u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	7.	}\cb4 \expnd0\expndtw0\kerning0
+[2] What system call causes getattr() in memoryll.py to be called (on files in a memoryll filesystem)? How did you verify this?
+\f3\b0 \uc0\u8232 \u8232 When observing this problem, we can see that the system call will launch getattr() in the memory.py process to be called in a form of fstat. When this process is launch in the VM I observed that the process created an strace of the entire program. \u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	8.	}\cb4 \expnd0\expndtw0\kerning0
+[2] What function in memoryll would you have to change to make it impossible to change file timestamps? Why?
+\f3\b0 \uc0\u8232 \u8232 When looking at this particular question, it is almost virtually impossible to do this kind of task, however what way that you could do it would be to change the setattr() function within the program. This allows the process to commute as when we access the file inside of the mnt process we can see that we receive a message displaying the following output, \u8232 \u8232 \cf2 \'93[setattr: 2[\'91st_atime\'92, \'91st_mtime\'92]]\'94 \uc0\u8232 \u8232 \cf3 What this message is telling us, is that the process is attempting to change the time stamp of the file in question. \uc0\u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	9.	}\cb4 \expnd0\expndtw0\kerning0
+[2] When you run fusermount via execve, what euid does fusermount's process have? What uid does it have?\uc0\u8232 
+\f3\b0 \uc0\u8232 In this particular task, when you excecute the process of fusermount, we can see that euid will contain a value of 0, this is a result of the root directory that it is referring to. As well. The we must note that the uid is also 0 in this case. \u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	10.	}\cb4 \expnd0\expndtw0\kerning0
+[2] What is a process's effective uid (euid)? Why is the euid not always equal to its uid?
+\f3\b0 \uc0\u8232 \u8232 When looking at this problem from the lecture component on the class we have been taught that they are not alway equal to the uid as a result of the kernel using the euid to determine what kind of privileges the current process will have access to, as well, this is also a factor of when analyzing the code, we can see that we have a system call of setuid or setgit, when we have these kinds of system calls pre sent we can see that the processes euid is change to whatever the executable files uid or gid, will be. An important aspect of this question is note that the uid and gid will always remain the same as it was prior to when the execve was called. \u8232 \
+\ls4\ilvl0
+\f1\b \cb1 \kerning1\expnd0\expndtw0 {\listtext	11.	}\cb4 \expnd0\expndtw0\kerning0
+[2] What system calls does memoryll make when performing file operations on behalf of the kernel? Give one concrete example showing how things work. (Hint: you won't be able to strace memoryll as a regular user.)
+\f3\b0 \uc0\u8232 \u8232 This question recalls previous knowledge from the tutorials, here we see what we do require a much higher clerance or permission to strace the program. As a result one way that we can get around this problem would be to do a \u8232 \u8232 \'93sudo strace python memoryll.py newmnt\'94, similar to how we did in the tutorials. \u8232 \u8232 After running this piece of script, we can use the command tail -f on the file, this will allow us to see the log of system calls that have been made. This will allow us to display multiple calls to read, fstat, write, openat, and the writeey members. }
