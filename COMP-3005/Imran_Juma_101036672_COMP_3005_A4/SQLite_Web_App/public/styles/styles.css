@@ -1,0 +1,58 @@
+/* Your CSS styles go in this file */
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+.search_wrapper {
+    text-align: center;
+}
+.details_wrapper {
+      display: table;
+      table-layout: fixed;
+      width: 100%;
+ }
+ .input_lable{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+    width: 20%;
+}
+.details {
+      display: table-cell;
+      vertical-align: middle;
+      text-align: left;
+      margin-left: 10px;
+      padding-left: 10px;
+      width: 80%;
+}
+
+button {
+    height: 35px;
+    color: white;
+    background-color: lightskyblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+input {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 5px;
+    font-size: large;
+}

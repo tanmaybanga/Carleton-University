@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title> {{title}} </title>
+</head>
+<body>
+   <h1>{{title}}</h1>
+<div> 
+   {{#each songEntries}} 
+      <p><a href= 'song/{{this.id}}'>{{this.id}} {{this.title}}</a></p> 
+   {{/each}} 
+</div>
+</body>
+</html>

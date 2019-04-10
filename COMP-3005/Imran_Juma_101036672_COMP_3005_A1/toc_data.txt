@@ -1,0 +1,4271 @@
+ROWID | BOOKCODE | PAGE | SONG TITLE
+
+1|RBBL|4|A Mess Of Blues
+2|RBBL|5|Afro Blue
+3|RBBL|6|All Or Nothing At All
+4|RBBL|8|After You've Gone
+5|RBBL|9|As Long As I Have You
+6|RBBL|10|As Time Goes By
+7|RBBL|11|Autumn Leaves (Les Feuilles Mortes)
+8|RBBL|12|Baby Doll
+9|RBBL|14|Back Door Man
+10|RBBL|16|Baby What You Want Me To Do?
+11|RBBL|17|Backwater Blues
+12|RBBL|18|Big Spender
+13|RBBL|20|Black Coffee
+14|RBBL|22|Behind Close Doors
+15|RBBL|23|Blue Haze
+16|RBBL|25|Blue Monk
+17|RBBL|26|Blue Train Blues (Ticket Agent Take Your Window Down)
+18|RBBL|28|Blues (From 'An American In Paris)
+19|RBBL|29|Blues Ain't Nothing
+20|RBBL|30|Blues And Booze
+21|RBBL|31|Blues Around My Bed
+22|RBBL|34|Blues My Naughty Sweetie Gives To Me
+23|RBBL|36|Blues Stay Away From Me
+24|RBBL|37|Bluesette
+25|RBBL|40|Body And Soul
+26|RBBL|41|Born To Lose
+27|RBBL|42|Bring It With You When You Come
+28|RBBL|44|Bright Lights, Big City
+29|RBBL|45|Broken Hearted Blues
+30|RBBL|46|Buddy Bolden's Blues
+31|RBBL|48|Brother, Can You Spare A Dime
+32|RBBL|49|Built For Comfort
+33|RBBL|50|Can't Help Lovin' Dat Man
+34|RBBL|51|Can't Stop Lovin'
+35|RBBL|52|Canal Street Blues
+36|RBBL|53|Careless Love
+37|RBBL|54|Chelsea Bridge
+38|RBBL|55|Come Back Baby
+39|RBBL|56|Come Sunday
+40|RBBL|58|Corrine Corrina
+41|RBBL|59|Cottonfields
+42|RBBL|60|Cotton Tail
+43|RBBL|62|Crazy Man Blues
+44|RBBL|63|Crossroad Blues
+45|RBBL|64|Cry Your Blues Away
+46|RBBL|65|Dark And Dreary
+47|RBBL|66|De Kalb Blues
+48|RBBL|67|Deep River
+49|RBBL|68|Don't Fish In My Sea
+50|RBBL|69|Don't Go To Strangers
+51|RBBL|70|Down By The Riverside
+52|RBBL|72|Down The Road A Pirce
+53|RBBL|74|Don't Sell It (Don't Give It Away)
+54|RBBL|75|Duet
+55|RBBL|76|Dust My Broom
+56|RBBL|77|Dust Pneumonia Blues
+57|RBBL|78|Early Autumn
+58|RBBL|79|Evil (Is Goin' On)
+59|RBBL|80|Feel So Bad
+60|RBBL|82|Fever
+61|RBBL|84|Fine And Mellow (My Man Don't Love Me)
+62|RBBL|86|Folsom Prison Blues
+63|RBBL|88|Five Lone Years
+64|RBBL|89|Frankie And Johhny
+65|RBBL|90|From Four Until Late
+66|RBBL|91|Go Back To Your No Good Man
+67|RBBL|92|Georgia On My Mind
+68|RBBL|94|Going Down Slow
+69|RBBL|95|Good Morning Blues
+70|RBBL|96|Good Morning Heartache
+71|RBBL|98|Goodbye Baby
+72|RBBL|99|Green River Blues
+73|RBBL|100|Hear Me Talkin' To Ya
+74|RBBL|102|Here's That Rainy Day
+75|RBBL|103|Hey Hey Pretty Mama
+76|RBBL|104|Hoochie Coochie Man
+77|RBBL|106|How Insensitive
+78|RBBL|108|How Do You Want It Done?
+79|RBBL|109|I Can't Stop Loving You
+80|RBBL|110|I Ain't Got Nobody (And There's Nobody Cares For Me)
+81|RBBL|112|I Remember Clifford
+82|RBBL|114|I Jkust Want To Make Love To You
+83|RBBL|115|I Wanna Be Around
+84|RBBL|116|I Wish I Knew How It Would Feel To Be Free
+85|RBBL|117|I'll Be Seeing You
+86|RBBL|118|I'm A King Bee
+87|RBBL|119|I'm So Glad
+88|RBBL|120|If I Had You
+89|RBBL|122|In A Sentimental Mood
+90|RBBL|123|In The Heat Of The Night
+91|RBBL|124|It Maked My Love Come Down
+92|RBBL|126|It Could Happen To You
+93|RBBL|127|It's Only A Paper Moon
+94|RBBL|128|Jailhouse Blues
+95|RBBL|129|Kindhearted Woman Blues
+96|RBBL|130|Lazy River
+97|RBBL|131|Lazybones
+98|RBBL|132|Learnin' The Blues
+99|RBBL|134|Lean Baby
+100|RBBL|135|Lemon Drop
+101|RBBL|136|Li'l Darlin'
+102|RBBL|138|Life Is Like That
+103|RBBL|139|Limehouse Blues
+104|RBBL|140|Little David Play On Your Harp
+105|RBBL|141|Little Queen Of Spades
+106|RBBL|142|Little Red Rooster
+107|RBBL|143|Long Gone Lonesome Blues
+108|RBBL|144|Love In Vain
+109|RBBL|145|Love Is Blue (L'amour Est Blue)
+110|RBBL|147|Lover Man (Oh Where Can You Be)
+111|RBBL|148|Lush Life
+112|RBBL|150|Low Down Blues
+113|RBBL|151|Make Me A Pallet On Your Floor
+114|RBBL|152|Mad About Him, Sad Without Him, How Can I Be Glad Without Him Blues
+115|RBBL|154|Matchbox Blues
+116|RBBL|155|Mean And Evil
+117|RBBL|156|Mean Old Bed Bug Blues
+118|RBBL|157|Mean To Me
+119|RBBL|158|Mean Woman Blues
+120|RBBL|159|Million Year Blues (A.K.A When My Heart Beats Like A Hammer)
+121|RBBL|160|Meditation (Meditacao)
+122|RBBL|162|Memphis Blues
+123|RBBL|164|Midnight Sun
+124|RBBL|166|Mind Your Own Business
+125|RBBL|167|Misty
+126|RBBL|168|Moonglow
+127|RBBL|169|Moonlight Becomes You
+128|RBBL|170|More Than You Know
+129|RBBL|172|My Babe
+130|RBBL|173|My Baby Left Me
+131|RBBL|174|My Handy Man Ain't Handy No More
+132|RBBL|176|My Creole Belle
+133|RBBL|177|Mystery Train
+134|RBBL|178|New York Town
+135|RBBL|179|Nightmare
+136|RBBL|180|No Mare Blues (Chega De Saudade)
+137|RBBL|182|No Matter How She Done It
+138|RBBL|183|No More Lovers
+139|RBBL|184|No Smoking
+140|RBBL|186|Nobody Knows You When You're Down And Out
+141|RBBL|188|Nobody Knows The Trouble I've Seen
+142|RBBL|189|One For My Baby (And One More For The Road)
+143|RBBL|192|Ol' Man River
+144|RBBL|194|One More River
+145|RBBL|195|Please Warm My Wiener
+146|RBBL|196|Pickpocket Blues
+147|RBBL|198|Prelude To A Kiss
+148|RBBL|200|Police Dog Blues
+149|RBBL|201|Ramblin' On My Mind
+150|RBBL|202|Quiet Night Of Quiet Stars (Corcovado)
+151|RBBL|204|Recado Bossa Nova (The Gift)
+152|RBBL|206|Richlands Woman Blues
+153|RBBL|208|Roberta
+154|RBBL|209|Rockin' Chair
+155|RBBL|210|San Francisco Bay Blues
+156|RBBL|212|Salty Dog
+157|RBBL|213|See See Rider
+158|RBBL|214|Serenade In Blue
+159|RBBL|216|Seven Eleven
+160|RBBL|219|Seventh Son (Original Version)
+161|RBBL|220|Seventh Son (Version 2)
+162|RBBL|221|Shake That Thing
+163|RBBL|222|Shake Your Money Maker
+164|RBBL|223|She Ain't Nothing But Trouble
+165|RBBL|224|Singing The Blues
+166|RBBL|226|Silver City Bound
+167|RBBL|227|Smoke Gets In Your Eyes
+168|RBBL|228|So Blue
+169|RBBL|229|Solitude
+170|RBBL|230|Someday
+171|RBBL|231|Someone To Watch Over Me
+172|RBBL|232|Sometimes I Feel Like A Motherless Child
+173|RBBL|233|Sorrowful Blues
+174|RBBL|234|Spoonful
+175|RBBL|235|Sporting Life Blues
+176|RBBL|236|Squeeze Me
+177|RBBL|238|St. James Infirmary
+178|RBBL|239|St. Louis Blues
+179|RBBL|242|Stars Fell On Alabama
+180|RBBL|243|Stella By Starlight
+181|RBBL|244|Sugar Blues
+182|RBBL|246|Summertime Blues
+183|RBBL|248|Sunny
+184|RBBL|250|Swingin' Shepherd Blues
+185|RBBL|251|Take These Chains From My Heart
+186|RBBL|252|Tenor Madness
+187|RBBL|253|Texas Blues
+188|RBBL|254|That Ole Devil Called Love
+189|RBBL|256|That's Why I'm Lonesome
+190|RBBL|257|Birth Of The Blues, The
+191|RBBL|258|Breeze (That's Bringing My Honey Back To Me), The
+192|RBBL|260|Blues Never Die, The
+193|RBBL|261|First Time I Met The Blues, The
+194|RBBL|262|Lady That Sings The Blues, The
+195|RBBL|264|Nearness Of You, The
+196|RBBL|266|Lonesome Road, The
+197|RBBL|267|Night We Called It A Day, The
+198|RBBL|268|Old Piano Roll Blues, The
+199|RBBL|269|Very Thought Of You, The
+200|RBBL|270|Woman I Love, The
+201|RBBL|271|Three Hours Past Midnight
+202|RBBL|272|These Foolish Things
+203|RBBL|274|Time On My Hands
+204|RBBL|275|Trane's Blues
+205|RBBL|276|Travelling Riverside Blues
+206|RBBL|277|Trouble In Mind
+207|RBBL|278|Tuxedo Junction
+208|RBBL|279|Unforgettable
+209|RBBL|280|Walk Right In
+210|RBBL|281|Walkin' Shoes
+211|RBBL|282|Walkin' Blues
+212|RBBL|283|Walking My Troubles Away
+213|RBBL|284|Way Down In The Mine
+214|RBBL|286|Weary Blues
+215|RBBL|288|Weeping Willow Blues
+216|RBBL|289|When The Lights Go Out
+217|RBBL|290|When Sunny Gets Blue
+218|RBBL|292|When You Got A Good Friend
+219|RBBL|293|When Your Lover Has Gone
+220|RBBL|294|Wild About That Thing
+221|RBBL|296|Willow Weep For Me
+222|RBBL|298|Worried Man Blues
+223|RBBL|299|You'll Like My Loving
+224|RBBL|300|You Can't Judge A Book By Its Cover
+225|RBBL|302|Your Cheatin' Heart
+226|RBFB|16|Abc
+227|RBFB|17|Ain't Nothing Like The Real Thing
+228|RBFB|18|After The Love Has Gone
+229|RBFB|19|Ain't Too Proud To Beg
+230|RBFB|19|Ain'too Proud To Beg
+231|RBFB|20|Ain't Got No Home
+232|RBFB|22|Ain't No Mountain High Enough
+233|RBFB|24|All Cried Out
+234|RBFB|25|All In Love Is Fair
+235|RBFB|26|All My Life
+236|RBFB|28|Alone At Last
+237|RBFB|28|Another Sad Love Song
+238|RBFB|30|Always Be My Baby
+239|RBFB|31|Anytime You Need A Friend
+240|RBFB|32|As
+241|RBFB|34|At My Front Door
+242|RBFB|34|Baby, What You Want Me To Do
+243|RBFB|35|Back In My Arams Again
+244|RBFB|35|Back In My Arms Again
+245|RBFB|36|Baby I Need Your Lovin'
+246|RBFB|36|Baby Love
+247|RBFB|38|Baby Workout
+248|RBFB|40|Ball Of Confusion (That's What The World Is Today)
+249|RBFB|40|Ball Of Confusion (That's What The Wrold Is Today)
+250|RBFB|42|Before You Walk Out Of My Life
+251|RBFB|43|Ben
+252|RBFB|44|Bemadette
+253|RBFB|44|Bernadette
+254|RBFB|46|Best Things In Life Are Free, The
+255|RBFB|48|Best Of My Love
+256|RBFB|49|Better Be Good To Me
+257|RBFB|50|Bills, Bills, Bills
+258|RBFB|51|Blueberry Hill
+259|RBFB|52|Birds And The Bees, The
+260|RBFB|52|Boom Boom (Out Go The Lights)
+261|RBFB|53|Born Under A Bad Sign
+262|RBFB|54|Boogie On Reggae Woman
+263|RBFB|54|Boogie Oogie Oogie
+264|RBFB|55|Boogie On Reggae Woman
+265|RBFB|56|Boogie Wonderland
+266|RBFB|57|Boy From New York City, The
+267|RBFB|58|Boy Is Mine, The
+268|RBFB|60|Breathe Again
+269|RBFB|61|But I Do (I Don't Know Why)
+270|RBFB|62|Brick House
+271|RBFB|64|Buffalo Stance
+272|RBFB|66|Bug A Boo
+273|RBFB|68|Born To Each Other (Friends And Lovers)
+274|RBFB|68|Both To Each Other (Friends And Lovers)
+275|RBFB|69|But It's Alight
+276|RBFB|69|But It's Alright
+277|RBFB|70|Can't Let Go
+278|RBFB|71|Chains
+279|RBFB|72|Chains Of Love
+280|RBFB|72|Chantã©'S Got A Man
+281|RBFB|74|Closer I Get To You, The
+282|RBFB|74|Cold Sweat, Pt. 1
+283|RBFB|75|Come See About Me
+284|RBFB|76|Cloud Nine
+285|RBFB|78|Count On Me
+286|RBFB|79|Dance With Me
+287|RBFB|80|Creep
+288|RBFB|81|Cruisin'
+289|RBFB|82|Cool Jerk
+290|RBFB|82|Do The Funky Chicken
+291|RBFB|84|Dedicated To The One I Love
+292|RBFB|85|Do You Know Where You're Going To?
+293|RBFB|86|Dancing In The Street
+294|RBFB|88|Devil With The Blue Dress
+295|RBFB|89|Do You Want To Dance?
+296|RBFB|90|Do You Love Me
+297|RBFB|91|Do Your Thing
+298|RBFB|92|Don't Make Me Over
+299|RBFB|93|Don't Say Nothin' Bad About My Baby
+300|RBFB|94|Don't Take It Personal (Just One Of Dem Days)
+301|RBFB|96|Don't Want To Be A Fool
+302|RBFB|98|Don't You Worry 'Bout A Thing
+303|RBFB|99|Duke Of Earl
+304|RBFB|100|Doo Wop (That Thing)
+305|RBFB|102|Dreamlover
+306|RBFB|103|Endless Love
+307|RBFB|104|Easy
+308|RBFB|105|Emotion
+309|RBFB|106|Emotions
+310|RBFB|107|Exhale (Shoop Shoop)
+311|RBFB|108|End Of The Road
+312|RBFB|109|Fingertips (Part 2)
+313|RBFB|110|Everybody Plays The Fool, Sometime
+314|RBFB|112|Everytime I Close My Eyes
+315|RBFB|114|Fantasy
+316|RBFB|115|For Your Precious Love
+317|RBFB|116|Fast Car
+318|RBFB|118|Fire
+319|RBFB|119|First Time Ever I Saw Your Face, The
+320|RBFB|120|First Night, The
+321|RBFB|121|Fools Fall In Love
+322|RBFB|122|4 Seasons Of Loneliness
+323|RBFB|124|For Once In My Life
+324|RBFB|125|Gee Whiz
+325|RBFB|126|Forever
+326|RBFB|127|Get Up (I Feel Like Being) A Sex Machine
+327|RBFB|128|Get It On Tonite
+328|RBFB|130|Get Ready
+329|RBFB|130|Give It Up Or Turnit A Loose
+330|RBFB|131|Goodnight, Sweetheart, Goodnight (Goodnight, It's Time To Go)
+331|RBFB|132|Give Me One Reason
+332|RBFB|133|Going To A Go-Go
+333|RBFB|136|Grazing In The Grass
+334|RBFB|137|Great Pretender, The
+335|RBFB|138|Green Onions
+336|RBFB|138|Groovin'
+337|RBFB|139|Hallelujah I Love Him (Her) So
+338|RBFB|140|Happy Song, The
+339|RBFB|140|Happy, Happy Birthday Baby
+340|RBFB|141|He Don't Love You (Like I Love You)
+341|RBFB|142|Hard To Handle
+342|RBFB|143|He's Sure The Boy I Love
+343|RBFB|144|Heartbreak Hotel
+344|RBFB|145|Heatwave (Love Is Like A Heatwave
+345|RBFB|145|Heatwave (Love Is Like A Heatwave)
+346|RBFB|146|Heartbreaker
+347|RBFB|148|Heaven Help Us All
+348|RBFB|150|Here And Now
+349|RBFB|152|Hero
+350|RBFB|153|(Your Love Keeps Lifting Me) Higher And Higher
+351|RBFB|154|Higher Ground
+352|RBFB|155|Hold On I'm Comin'
+353|RBFB|156|Honey
+354|RBFB|158|How Sweet It Is (To Be Loved By You)
+355|RBFB|159|I Can Love You Like That
+356|RBFB|160|I Believe In You And Me
+357|RBFB|162|I Can't Get Next To You
+358|RBFB|163|I Can't Stop Loving You
+359|RBFB|164|I Can't Help Myself (Sugar Pie, Honey Bunch)
+360|RBFB|165|I Got You (I Feel Good)
+361|RBFB|166|I Don't Have The Heart
+362|RBFB|167|I Don't Wanna Fight
+363|RBFB|168|I Don't Wanna Cry
+364|RBFB|170|I Get Lonely
+365|RBFB|171|I Thank You
+366|RBFB|172|I Got The Feelin'
+367|RBFB|173|I Heard It Through The Grapevine
+368|RBFB|173|I Heart It Through The Grapevine
+369|RBFB|174|I Have Nothing
+370|RBFB|176|I Hear A Symphony
+371|RBFB|177|I Say A Little Prayer
+372|RBFB|178|I Just Called To Say I Love You
+373|RBFB|180|I Just Wang To Celebrate
+374|RBFB|180|I Just Want To Celebrate
+375|RBFB|182|I Second That Emotion
+376|RBFB|183|I Want You Back
+377|RBFB|184|I Was Made To Love Her
+378|RBFB|186|I Wish
+379|RBFB|187|I'll Be Your Shelter (In Time Of Storm)
+380|RBFB|188|I'll Be Missing You
+381|RBFB|189|I'll Come Running Back To You
+382|RBFB|190|I'll Be There
+383|RBFB|191|I'll Play The Blues For You
+384|RBFB|192|I'll Make Love To You
+385|RBFB|192|I'll Take You There
+386|RBFB|194|I'm Losing You (I Know)
+387|RBFB|194|I'm Losing You(I Know)
+388|RBFB|195|I'm Still In Love With You
+389|RBFB|196|I'm So Excited
+390|RBFB|198|I'm Your Baby Tonight
+391|RBFB|200|I've Been Loving You Too Long
+392|RBFB|200|If You're Ready (Come Go With Me)
+393|RBFB|200|If You're Ready(Come Go With Me)
+394|RBFB|201|In The Midnight Hour
+395|RBFB|202|If I Were Your Woman
+396|RBFB|202|If I Were Your Women
+397|RBFB|203|In The Still Of The Nite (I'll Remember)
+398|RBFB|203|In The Still Of The Nite(I'll Remember)
+399|RBFB|204|If Loving You Is Wrong I Don't Want To Be Right
+400|RBFB|205|If You Really Love Me
+401|RBFB|206|Iko Iko
+402|RBFB|207|Isn't She Lovely
+403|RBFB|208|Inseparable
+404|RBFB|210|It's A Man's Man's Man's World
+405|RBFB|211|It's Gonna Work Out Fine
+406|RBFB|212|It's Not Right But It's Okay
+407|RBFB|214|It's So Hard To Say Goodbye To Yesterday
+408|RBFB|215|It's Same Old Song
+409|RBFB|215|It's The Same Old Song
+410|RBFB|216|It's Your Thing
+411|RBFB|217|Just My Imagination (Running Away With Me)
+412|RBFB|217|Just My Imagination(Running Away With Me)
+413|RBFB|218|Jimmy Mack
+414|RBFB|218|Just Once
+415|RBFB|220|Just Because
+416|RBFB|222|Kansas City
+417|RBFB|223|Knock On Wood
+418|RBFB|224|Kiss And Say Goodbye
+419|RBFB|224|Let's Groove
+420|RBFB|226|Lady Marmalade
+421|RBFB|227|Land Of A Thousand Dances
+422|RBFB|228|Last Night
+423|RBFB|229|Let Me In
+424|RBFB|230|Let's Get It On
+425|RBFB|232|Let's Hear It For The Boy
+426|RBFB|233|Little Egypt
+427|RBFB|234|Light In Your Eyes
+428|RBFB|236|Little Red Rooster
+429|RBFB|236|Living For The City
+430|RBFB|237|Lonely Teardrops
+431|RBFB|238|Living In America
+432|RBFB|239|Loco-Motion, The
+433|RBFB|240|Lookin' Through The Windows
+434|RBFB|241|Lowdown
+435|RBFB|242|Long Tall Sally
+436|RBFB|242|Looking For A New Love
+437|RBFB|244|Love Child
+438|RBFB|245|Love Rollercoaster
+439|RBFB|246|Love Is Like An Itching In My Heart
+440|RBFB|248|Love Takes Time
+441|RBFB|249|Love's Theme
+442|RBFB|250|Love You Save, The
+443|RBFB|252|Mama's Pearl
+444|RBFB|253|Maybe Tomorrow
+445|RBFB|254|Master Blaster
+446|RBFB|255|My Babe
+447|RBFB|256|Mercy, Mercy Me
+448|RBFB|256|Mercy, Mercy Me(The Ecology)
+449|RBFB|257|Money(That's What I Want)
+450|RBFB|258|Miracle
+451|RBFB|260|Mr. Big Stuff
+452|RBFB|261|Mustang Sally
+453|RBFB|262|More Love
+454|RBFB|263|My All
+455|RBFB|264|My Cherie Amour
+456|RBFB|264|My Cherie Armour
+457|RBFB|264|My Girl
+458|RBFB|266|My Guy
+459|RBFB|266|My Way
+460|RBFB|268|My Perogative
+461|RBFB|268|My Prerogative
+462|RBFB|270|My World Is Empty Without You
+463|RBFB|271|(You Make Me Feel Like) A Natural Woman
+464|RBFB|271|(You Make Me Feel Like)A Natural Woman
+465|RBFB|272|Nadine (Is It You)
+466|RBFB|272|Nadine(Is It You)
+467|RBFB|272|Nobody
+468|RBFB|274|Never Can Say Goodbye
+469|RBFB|274|Night
+470|RBFB|275|No Particular Place To Go
+471|RBFB|276|Never Knew Love Like This Before
+472|RBFB|277|Nightshift
+473|RBFB|278|Nowhere To Run
+474|RBFB|280|No Scrubs
+475|RBFB|281|On Broadway
+476|RBFB|282|On And On
+477|RBFB|284|One Less Bell To Answer
+478|RBFB|285|One Mint Julep
+479|RBFB|286|One Sweet Day
+480|RBFB|287|1 2 3
+481|RBFB|288|One Who Really Loves You, The
+482|RBFB|289|Ooo Baby Baby
+483|RBFB|290|Over The Mountain, Across The Sea
+484|RBFB|291|Papa Was A Rollin' Stone
+485|RBFB|291|Papa Was Rollin' Stone
+486|RBFB|292|Papa's Got A Brand New Bag
+487|RBFB|292|Playboy
+488|RBFB|294|Pain In My Heart
+489|RBFB|294|Pick Up The Pieces
+490|RBFB|296|Part Time Lover
+491|RBFB|297|A Place In The Sun
+492|RBFB|298|Please Accept My Love
+493|RBFB|299|Poison Ivy
+494|RBFB|300|Please Mr. Postman
+495|RBFB|300|Please Mr.Postman
+496|RBFB|301|A Rainy Night In Georgia
+497|RBFB|302|Raindrops
+498|RBFB|302|Reach Out And Touch (Somebody's Hand)
+499|RBFB|302|Reach Out And Touch(Somebody's Hand)
+500|RBFB|303|Respect
+501|RBFB|304|Reach Out, I'll Be There
+502|RBFB|305|Real Love
+503|RBFB|306|Respect Yourself
+504|RBFB|307|Ribbon In The Sky
+505|RBFB|308|A Rose Is Still A Rose
+506|RBFB|310|Rocket 88
+507|RBFB|310|Ruby Baby
+508|RBFB|312|Run To You
+509|RBFB|313|Runaway
+510|RBFB|314|Sail On
+511|RBFB|316|Save The Best For Last
+512|RBFB|317|Save The Last Dance For Me
+513|RBFB|318|Saving All My Love For You
+514|RBFB|319|Say It Loud (I'm Black And I'm Proud)
+515|RBFB|320|Searchin'
+516|RBFB|321|See Saw
+517|RBFB|322|Send Me Some Lovin'
+518|RBFB|323|Send One Your Love
+519|RBFB|324|September
+520|RBFB|325|She's Gone
+521|RBFB|326|Sexual Healing
+522|RBFB|328|Theme From "Shaft"
+523|RBFB|330|Shake Me, Wake Me (When It's Over)
+524|RBFB|331|Shot Gun
+525|RBFB|332|Shake You Down
+526|RBFB|333|Sign Your Name
+527|RBFB|334|Shining Star
+528|RBFB|335|Shoop Shoop Song (It's In His Kiss), The
+529|RBFB|336|Shop Around
+530|RBFB|337|Signed, Sealed, Delivered I'm Yours
+531|RBFB|338|Shout
+532|RBFB|340|Sing A Song
+533|RBFB|340|Sir Duke
+534|RBFB|341|Sir Duke
+535|RBFB|342|(Sittin' On) The Dock Of The Bay
+536|RBFB|342|So Emotional
+537|RBFB|344|Sittin' Up In My Room
+538|RBFB|345|634-5789
+539|RBFB|346|Smiling Faces Sometimes
+540|RBFB|347|Smokey Joe's Cafe
+541|RBFB|348|Somebody's Watching Me
+542|RBFB|349|Someday We'll Be Together
+543|RBFB|350|Son Of Shaft
+544|RBFB|351|Soul Finger
+545|RBFB|352|Soul Limbo
+546|RBFB|353|Soul Man
+547|RBFB|354|Stand By Me
+548|RBFB|354|Standing In The Shadows Of Love
+549|RBFB|356|Stay
+550|RBFB|356|Stop! In The Name Of Love
+551|RBFB|358|Stay In My Corner
+552|RBFB|359|Still
+553|RBFB|360|Stoned Soul Picnic (Picnic, A Green City)
+554|RBFB|361|Stop! In The Name Of Love
+555|RBFB|361|Sugar, Sugar
+556|RBFB|362|Sugar, Sugar
+557|RBFB|362|Super Freak
+558|RBFB|364|Superstition
+559|RBFB|364|Sweet Love
+560|RBFB|365|Take Me To The River
+561|RBFB|365|Teardrops
+562|RBFB|366|Super Freak
+563|RBFB|366|Superstition
+564|RBFB|367|Sweet Love
+565|RBFB|367|Take A Look Around
+566|RBFB|368|Take A Look Around
+567|RBFB|368|Take Me To The River
+568|RBFB|369|Teardrops
+569|RBFB|369|Tears Of A Clown, The
+570|RBFB|370|Tears Of A Clown, The
+571|RBFB|370|Tears On My Pillow
+572|RBFB|371|Tell It Like It Is
+573|RBFB|372|Tell Me It's Real
+574|RBFB|374|Ten Commandments Of Love
+575|RBFB|375|That Girl
+576|RBFB|376|That's The Way Of The World
+577|RBFB|377|There Goes My Baby
+578|RBFB|378|This Is For The Lover In You
+579|RBFB|378|This Is The Lover In You
+580|RBFB|379|Tired Of Being Alone
+581|RBFB|380|This Masquerade
+582|RBFB|381|This Will Be (An Everlasting Love)
+583|RBFB|382|Three Times A Lady
+584|RBFB|383|Time Is Tight
+585|RBFB|384|Time Will Reveal
+586|RBFB|385|Tonight, I Celebrate My Love
+587|RBFB|386|Together Again
+588|RBFB|388|Too Busy Thinking About My Baby
+589|RBFB|389|Tracks Of My Tears, The
+590|RBFB|390|Touch A Hand, Make A Friend
+591|RBFB|390|Tutti Frutti
+592|RBFB|391|Twist, The
+593|RBFB|392|Touch Me In The Morning
+594|RBFB|393|Walk, The
+595|RBFB|394|Unpretty
+596|RBFB|396|Up On The Roof
+597|RBFB|397|Uptight (Everything's Alright)
+598|RBFB|398|Vision Of Love
+599|RBFB|399|War
+600|RBFB|400|Walkin' The Dog
+601|RBFB|401|Way You Do The Things You Do, The
+602|RBFB|402|Watusi, The
+603|RBFB|403|Way Over There
+604|RBFB|404|Walk On By
+605|RBFB|404|What's Going On
+606|RBFB|406|We're In This Love Together
+607|RBFB|407|Wedding Bell Blues
+608|RBFB|408|When You Believe (From The Prince Of Egypt)
+609|RBFB|408|When You Believe (From The Prince Of Eygypt)
+610|RBFB|410|Where Do Broken Hearts Go
+611|RBFB|411|Workin' On A Groovy Thing
+612|RBFB|411|Workin' On A Grovy Thing
+613|RBFB|412|Why Does It Hurt So Bad
+614|RBFB|414|Wild Wild West
+615|RBFB|416|Wishing Well
+616|RBFB|417|Where Did Our Love Go
+617|RBFB|418|Working My Way Back To You
+618|RBFB|419|Wrap It Up
+619|RBFB|420|Working In The Coal Mine
+620|RBFB|420|Yester-Me, Yester-You, Yesterday
+621|RBFB|420|Yester-Me, Yester-You,Yesterday
+622|RBFB|421|Yes, I'm Ready
+623|RBFB|422|You Can't Hurry Love
+624|RBFB|423|You And I
+625|RBFB|424|You Are The Sunshine Of My Life
+626|RBFB|424|You Don't Know Like I Know
+627|RBFB|426|You Keep Me Hangin' On
+628|RBFB|428|You Mean The World To Me
+629|RBFB|430|You Haven't Done Nothin'
+630|RBFB|431|You Sexy Thing
+631|RBFB|432|You're All I Need To Get By
+632|RBFB|433|You're My Choice Tonight
+633|RBFB|434|You're Makin' Me High
+634|RBFB|435|You've Made Me So Very Happy
+635|RBFB|436|You've Really Got A Hold On Me
+636|RBFB|437|Young Blood
+637|RBIV-F|93|A Cool Shade Of Blue
+638|RBIV-F|94|Curves Ahead
+639|RBIV-F|96|Daddy
+640|RBIV-F|97|Dahomey Dance
+641|RBIV-F|98|Dance Only With Me
+642|RBIV-F|99|Day Of Wine And Roses, The
+643|RBIV-F|100|Deacon Blues
+644|RBIV-F|102|Dear Heart
+645|RBIV-F|103|Deep Purple
+646|RBIV-F|104|Devil May Care
+647|RBIV-F|106|Dexter Digs In
+648|RBIV-F|107|Dextivity
+649|RBIV-F|108|Dinner For One, Please James
+650|RBIV-F|109|Disguise, The
+651|RBIV-F|110|Djangology
+652|RBIV-F|111|Do I Love You
+653|RBIV-F|112|Doctor Jazz
+654|RBIV-F|113|Don't Be That Way
+655|RBIV-F|114|Don't You Know I Care (Or Don't You Care To Know)
+656|RBIV-F|115|Doodlin'
+657|RBIV-F|116|Down
+658|RBIV-F|117|Down Under
+659|RBIV-F|118|Down With Love
+660|RBIV-F|119|Dragonfly
+661|RBIV-F|120|Duke's Place
+662|RBIV-F|121|Earl, The
+663|RBIV-F|122|Effendi
+664|RBIV-F|124|El Hombre
+665|RBIV-F|125|Elevation
+666|RBIV-F|126|Everybody Loves My Baby (But My Baby Don't Love Nobody But Me)
+667|RBIV-F|127|Every Day I Have The Blues
+668|RBIV-F|128|Ev'rything I've Got
+669|RBIV-F|129|Festive Minor
+670|RBIV-F|130|Federico
+671|RBIV-F|132|A Felicidade
+672|RBIV-F|134|Flamingo
+673|RBIV-F|135|A Foggy Day (In London Town)
+674|RBIV-F|136|Flip, Flop And Fly
+675|RBIV-F|138|For You, For Me, For Evermore
+676|RBIV-F|139|Friends
+677|RBIV-F|140|Fuchsia Swing Song
+678|RBIV-F|141|Ginger Bread Boy
+679|RBIV-F|142|Gettin' Over The Blues
+680|RBIV-F|144|Ginza Samba
+681|RBIV-F|145|Goin' To Minton's
+682|RBIV-F|146|Girl With His Smile And My Eyes, The
+683|RBIV-F|148|Give Me The Night
+684|RBIV-F|150|Goin' Out Of My Head
+685|RBIV-F|151|Golden Earrings
+686|RBIV-F|152|Good Life, The
+687|RBIV-F|153|Goodbye
+688|RBIV-F|154|Green Haze
+689|RBIV-F|155|Guess Who I Saw Today
+690|RBIV-F|156|Gypsy, The
+691|RBIV-F|157|Gypsy Jingle-Jangle
+692|RBIV-F|158|Hallelujah I Love Him (Her) So
+693|RBIV-F|159|Happy Go Lucky Local
+694|RBIV-F|160|Happy With The Blues
+695|RBIV-F|161|Hear Ye
+696|RBIV-F|162|Heartaches
+697|RBIV-F|163|Helen's Song
+698|RBIV-F|164|Hideaway
+699|RBIV-F|166|Hindustan
+700|RBIV-F|167|Hit The Road To Dreamland
+701|RBIV-F|168|Hoe-Down
+702|RBIV-F|170|Home
+703|RBIV-F|172|A House Is Not A Home
+704|RBIV-F|173|Humpty Dumpty
+705|RBIV-F|174|How Little We Know
+706|RBIV-F|176|A Hundred Years From Today
+707|RBIV-F|177|I Can Dream, Can't I?
+708|RBIV-F|178|I Could Eat Your Words
+709|RBIV-F|180|I Didn't Know About You
+710|RBIV-F|181|I Got A Woman
+711|RBIV-F|182|I Got Rhythm
+712|RBIV-F|183|I Got You (I Feel Good)
+713|RBIV-F|184|I Guess I'll Have To Change My Plan
+714|RBIV-F|185|I Hadn't Anyone Till You
+715|RBIV-F|186|I Love You Lucy
+716|RBIV-F|187|I Love You My Baby( My Baby Loves Me)
+717|RBIV-F|188|I Remember Duke
+718|RBIV-F|189|I Saw Stars
+719|RBIV-F|190|I Say A Little Prayer
+720|RBIV-F|192|I See Your Face Before Me
+721|RBIV-F|193|I Shot The Sheriff
+722|RBIV-F|194|I Told Ya I Love Ya Now Get Out
+723|RBIV-F|196|I Walk With Music
+724|RBIV-F|197|I Wouldn't Trade You
+725|RBIV-F|198|I'd Rather Be Blue Over You
+726|RBIV-F|199|I'm A Dreamer Aren't We All
+727|RBIV-F|200|I'm Gonna Go Fishin'
+728|RBIV-F|201|I've Got My Eyes On You
+729|RBIV-F|202|I've Got Your Number
+730|RBIV-F|203|If You Could See Me Now
+731|RBIV-F|204|If Ever I Would Leave You
+732|RBIV-F|206|If I Ruled The World
+733|RBIV-F|208|If I Were Blue
+734|RBIV-F|210|If You Go
+735|RBIV-F|211|In A Silent Way
+736|RBIV-F|212|"In" Crowd, The
+737|RBIV-F|214|In The Arms Of Love
+738|RBIV-F|215|In The Blue Of Evening
+739|RBIV-F|216|Inner Space
+740|RBIV-F|218|Intermission Riff
+741|RBIV-F|219|It Was A Very Good Year
+742|RBIV-F|220|It Was Written In The Stars
+743|RBIV-F|221|It's Magic
+744|RBIV-F|222|It's A Lonesome Old Town
+745|RBIV-F|224|It's You
+746|RBIV-F|225|Ivy
+747|RBIV-F|226|Ja-Da
+748|RBIV-F|227|Jamento
+749|RBIV-F|228|Jayne
+750|RBIV-F|229|John's Bunch
+751|RBIV-F|230|Jeru
+752|RBIV-F|232|Johnny One Note
+753|RBIV-F|233|Johnny's Theme
+754|RBIV-F|234|Joint Is Jumpin', The
+755|RBIV-F|236|Jump For Joy
+756|RBIV-F|237|Just Friends
+757|RBIV-F|238|Kansas City
+758|RBIV-F|240|Key Largo
+759|RBIV-F|241|Killing Me Softly With His Song
+760|RBIV-F|242|Kim
+761|RBIV-F|243|Laurie
+762|RBIV-F|244|Ko Ko
+763|RBIV-F|246|Lament For Booker
+764|RBIV-F|248|Las Guajiras
+765|RBIV-F|250|Lean On Me
+766|RBIV-F|252|Lester Left Town
+767|RBIV-F|253|Let There Be You
+768|RBIV-F|254|Letter To Evan
+769|RBIV-F|255|Life Is Just A Bowl Of Cherries
+770|RBIV-F|256|Light As A Feather
+771|RBIV-F|258|Lilac Wine
+772|RBIV-F|259|Listen Here
+773|RBIV-F|260|Linus And Lucy
+774|RBIV-F|262|Lisa
+775|RBIV-F|264|Lollipops And Roses
+776|RBIV-F|265|Lonely Girl
+777|RBIV-F|266|Long Tall Dexter
+778|RBIV-F|267|Lost
+779|RBIV-F|268|Loose Ends
+780|RBIV-F|270|Love Wise
+781|RBIV-F|271|Lovely To Look At
+782|RBIV-F|272|Low Down And Dirty
+783|RBIV-F|273|Mad About The Boy
+784|RBIV-F|274|Mad About Him, Sad Without Him, How Can I Be Glad Without Him Blues
+785|RBIV-F|276|Make Believe
+786|RBIV-F|277|Man With The Horn, The
+787|RBIV-F|278|Manana
+788|RBIV-F|279|Maybe This Time
+789|RBIV-F|280|Manila
+790|RBIV-F|282|Maybe You’Ll Be There
+791|RBIV-F|283|Memphis In June
+792|RBIV-F|284|Minor Swing
+793|RBIV-F|285|Mirror, Mirror
+794|RBIV-F|286|Minute By Minute
+795|RBIV-F|288|Miss Fine
+796|RBIV-F|289|Mission: Impossible Theme
+797|RBIV-F|290|Mission To Moscow
+798|RBIV-F|292|Mr. Lucky
+799|RBIV-F|293|Mr. Wonderful
+800|RBIV-F|294|Moment To Moment
+801|RBIV-F|295|Moon Over Miami
+802|RBIV-F|296|Mooch, The
+803|RBIV-F|298|Moonlight Cocktail
+804|RBIV-F|299|Movin'' Along (Sid''s Twelve)
+805|RBIV-F|300|My Bells
+806|RBIV-F|301|Nagasaki
+807|RBIV-F|302|Never Never Land
+808|RBIV-F|303|Nigerian Marketplace
+809|RBIV-F|304|Night And Day
+810|RBIV-F|306|Night Lights
+811|RBIV-F|307|A Night On Bop Mountain
+812|RBIV-F|308|Nightwings
+813|RBIV-F|310|Nippon Soul
+814|RBIV-F|311|Noblesse
+815|RBIV-F|312|Not Really The Blues
+816|RBIV-F|314|Nothing Personal
+817|RBIV-F|315|O Morro Nao Tem Vez (Favela) (Somewhere In The Hills)
+818|RBIV-F|316|O Fato (The Duck)
+819|RBIV-F|317|Oh, How My Heart Beats For You
+820|RBIV-F|318|Ol'' Man River
+821|RBIV-F|319|Ole Buttermilk Spy
+822|RBIV-F|320|On Broadway
+823|RBIV-F|321|On Green Dolphin Street
+824|RBIV-F|322|On The Border
+825|RBIV-F|323|Once Upon A Summertime
+826|RBIV-F|324|One For Helen
+827|RBIV-F|325|O.P.
+828|RBIV-F|326|One Mint Julep
+829|RBIV-F|328|Only The Lonely
+830|RBIV-F|330|Open Country
+831|RBIV-F|332|Opus De Funk
+832|RBIV-F|333|Opus One
+833|RBIV-F|334|Our Day Will Come
+834|RBIV-F|335|Parker''s Mood
+835|RBIV-F|336|Outra Vez
+836|RBIV-F|338|Palladium
+837|RBIV-F|340|Paul''s Pal
+838|RBIV-F|341|Perfidia
+839|RBIV-F|342|Personality
+840|RBIV-F|343|Puttin'' On The Ritz
+841|RBIV-F|344|Peter Gunn
+842|RBIV-F|346|Pink Panther, The
+843|RBIV-F|348|Please Send Me Someone To Love
+844|RBIV-F|350|Punk Jazz
+845|RBIV-F|352|Quasimodo
+846|RBIV-F|353|Red's Good Groove
+847|RBIV-F|354|Real Love
+848|RBIV-F|356|Relaxin' At The Camarillo
+849|RBIV-F|357|Resolution (Part Ii)
+850|RBIV-F|358|A Remark You Made
+851|RBIV-F|360|Reunion Blues
+852|RBIV-F|361|River, Stay 'Way From My Door
+853|RBIV-F|362|Revelation
+854|RBIV-F|364|Ribbon In The Sky
+855|RBIV-F|366|River People
+856|RBIV-F|368|Round Up The Usual Suspects
+857|RBIV-F|369|Samba Cantina
+858|RBIV-F|370|Sabroso
+859|RBIV-F|372|Samba Song
+860|RBIV-F|374|Saturday Night (Is The Loneliest Night Of The Week)
+861|RBIV-F|375|Screamin' The Blues
+862|RBIV-F|376|Save Your Love For Me
+863|RBIV-F|378|Senor Blues
+864|RBIV-F|380|Senor Mouse
+865|RBIV-F|382|Serenade To A Bus Beat
+866|RBIV-F|383|Serengeti Walk (Slippin' In The Back Door)
+867|RBIV-F|384|Sermon, The
+868|RBIV-F|385|Settin' The Pace
+869|RBIV-F|386|Shadow Of Your Smile, The
+870|RBIV-F|387|Shivers
+871|RBIV-F|388|Short Stuff
+872|RBIV-F|389|Side By Side
+873|RBIV-F|390|Simple Samba
+874|RBIV-F|392|Sir Duke
+875|RBIV-F|394|Sir John
+876|RBIV-F|395|Skating
+877|RBIV-F|396|Six And Four
+878|RBIV-F|398|64 Bars On Wilshire
+879|RBIV-F|400|Sleep Warm
+880|RBIV-F|401|Smile
+881|RBIV-F|402|Snakes
+882|RBIV-F|404|Sneakin' Up Behind You
+883|RBIV-F|406|So Easy
+884|RBIV-F|407|So Sorry Please
+885|RBIV-F|408|Solo Flight
+886|RBIV-F|409|Some Day (You'll Want Me To Want You)
+887|RBIV-F|410|Somebody Else Is Taking My Place
+888|RBIV-F|411|Someone To Light Up My Life (Se Todos Fossem Iguais A Voce)
+889|RBIV-F|412|Somewhere Along The Way
+890|RBIV-F|413|Sonor
+891|RBIV-F|414|A Song For You
+892|RBIV-F|416|Sookie Sookie
+893|RBIV-F|418|South Of The Border (Down Mexico Way)
+894|RBIV-F|420|Spain
+895|RBIV-F|421|Theme From Spider Man
+896|RBIV-F|422|Spinning Wheel
+897|RBIV-F|423|Star Song
+898|RBIV-F|424|Step Lightly
+899|RBIV-F|426|Sticks
+900|RBIV-F|427|Strange Fruit
+901|RBIV-F|428|Straight Ahead
+902|RBIV-F|430|Street Life
+903|RBIV-F|432|Stuffy
+904|RBIV-F|433|Sugar Blues
+905|RBIV-F|434|Sultry Serenade (How Could You Do A Thing Like That To Me)
+906|RBIV-F|435|Summertime
+907|RBIV-F|436|Sunny
+908|RBIV-F|437|Sunrise Serenade
+909|RBIV-F|438|Sure Thing
+910|RBIV-F|439|Swanee
+911|RBIV-F|440|Sway (Quien Sera)
+912|RBIV-F|441|Sweetheart Tree, The
+913|RBIV-F|442|Swing 42
+914|RBIV-F|443|Swinging At The Haven
+915|RBIV-F|444|Symphony
+916|RBIV-F|445|Taking A Chance On Love
+917|RBIV-F|446|Talk To Me
+918|RBIV-F|447|Tears Inside
+919|RBIV-F|448|That's Life
+920|RBIV-F|449|That's My Desire
+921|RBIV-F|450|Them There Eyes
+922|RBIV-F|451|Theme For Jobim
+923|RBIV-F|452|There's No You
+924|RBIV-F|453|Thermo
+925|RBIV-F|454|They Say It's Spring
+926|RBIV-F|455|34 Skidoo
+927|RBIV-F|456|This Love Of Mine
+928|RBIV-F|457|To Love And Be Loved
+929|RBIV-F|458|Three Views Of A Secret
+930|RBIV-F|460|Tokyo Blues, The
+931|RBIV-F|462|Too Darn Hot
+932|RBIV-F|463|Too Young To Go Steady
+933|RBIV-F|464|Tuxedo Junction
+934|RBIV-F|465|Twelve Tone Tune
+935|RBIV-F|466|Two Bass Hit
+936|RBIV-F|468|245
+937|RBIV-F|469|Two Sleepy People
+938|RBIV-F|470|Ugetsu
+939|RBIV-F|471|Unit 7
+940|RBIV-F|472|Up With The Lark
+941|RBIV-F|474|Voyage
+942|RBIV-F|475|Wabash
+943|RBIV-F|476|Walk On By
+944|RBIV-F|477|Way Out West
+945|RBIV-F|478|Wallflower
+946|RBIV-F|480|West And Blues
+947|RBIV-F|482|Western Reunion
+948|RBIV-F|483|Whap
+949|RBIV-F|484|What A Fool Believes
+950|RBIV-F|486|What Are You Doing New Year's Eve?
+951|RBIV-F|487|What'd I Say
+952|RBIV-F|488|What You Won't Do For Love
+953|RBIV-F|490|When The Red, Red Robin Comes Bob, Bob Bobbin' Along
+954|RBIV-F|491|When The World Was Young
+955|RBIV-F|492|When Will The Blues Leave
+956|RBIV-F|493|Who?
+957|RBIV-F|494|Whistling Away The Dark
+958|RBIV-F|496|Why Can't You Behave?
+959|RBIV-F|497|Why Was I Born?
+960|RBIV-F|498|Wind, The
+961|RBIV-F|499|With The Wind And The Rain In Your Hair
+962|RBIV-F|500|A Wonderful Guy
+963|RBIV-F|501|Yes Sir, That's My Baby
+964|RBIV-F|502|You Are My Sunshine
+965|RBIV-F|503|You Are There
+966|RBIV-F|504|You Call It Madness(But I Call It Love)
+967|RBIV-F|505|You Came A Long Way From St. Louis
+968|RBIV-F|506|You're Everything
+969|RBIV-F|508|You're Looking At Me
+970|RBIV-F|509|You're The Cream In My Coffee
+971|RBIV-F|510|Young And Foolish
+972|RBK1-5ed|1|A Call For All Demons
+973|RBK1-5ed|1|Alfie
+974|RBK1-5ed|2|A Child Is Born
+975|RBK1-5ed|2|Black Monday
+976|RBK1-5ed|3|A Fine Romance
+977|RBK1-5ed|3|Contemplation
+978|RBK1-5ed|4|A Family Joy
+979|RBK1-5ed|4|Disguise, The Sphinx, The
+980|RBK1-5ed|5|Kelo
+981|RBK1-5ed|6|A Foggy Day
+982|RBK1-5ed|6|I'm Afraid
+983|RBK1-5ed|7|A Night In Tunisia
+984|RBK1-5ed|7|Mr. Jin
+985|RBK1-5ed|8|African Flower
+986|RBK1-5ed|8|Oliloqui Valley
+987|RBK1-5ed|9|Afro Blue
+988|RBK1-5ed|9|Perfect Love, Jamala
+989|RBK1-5ed|10|Afternoon In Paris
+990|RBK1-5ed|10|Plain Jane
+991|RBK1-5ed|11|Airegin
+992|RBK1-5ed|11|Reflections
+993|RBK1-5ed|12|Alice In Wonderland
+994|RBK1-5ed|12|Road Song
+995|RBK1-5ed|13|All Blues
+996|RBK1-5ed|13|Valse Hot
+997|RBK1-5ed|14|All In Love Is Fair
+998|RBK1-5ed|15|All My Tomorrows
+999|RBK1-5ed|16|All Of Me
+1000|RBK1-5ed|17|All Of You
+1001|RBK1-5ed|18|All The Things You Are
+1002|RBK1-5ed|19|Alone Together
+1003|RBK1-5ed|20|Ana Maria
+1004|RBK1-5ed|22|And Now, The Queen
+1005|RBK1-5ed|22|Around Again
+1006|RBK1-5ed|23|And On The Third Day
+1007|RBK1-5ed|24|Angel Eyes
+1008|RBK1-5ed|25|Anthropology
+1009|RBK1-5ed|26|April In Paris
+1010|RBK1-5ed|27|April Joy
+1011|RBK1-5ed|28|Arise, Her Eyes
+1012|RBK1-5ed|30|Armageddon
+1013|RBK1-5ed|31|As Time Goes By
+1014|RBK1-5ed|32|Au Privave
+1015|RBK1-5ed|33|Autumn In New York
+1016|RBK1-5ed|34|Ay, Arriba!
+1017|RBK1-5ed|36|Autumn Leaves
+1018|RBK1-5ed|37|Ballet
+1019|RBK1-5ed|38|Batterie
+1020|RBK1-5ed|38|Ictus
+1021|RBK1-5ed|39|Beautiful Love
+1022|RBK1-5ed|40|Beauty And The Beast
+1023|RBK1-5ed|41|Beneath It All
+1024|RBK1-5ed|42|Bessie's Blues
+1025|RBK1-5ed|43|Bewitched
+1026|RBK1-5ed|44|Big Nick
+1027|RBK1-5ed|45|Bitter Suite In The Ozone
+1028|RBK1-5ed|46|Black Diamond
+1029|RBK1-5ed|47|Black Narcissus
+1030|RBK1-5ed|48|Black Nile
+1031|RBK1-5ed|49|Black Orpheus
+1032|RBK1-5ed|50|Blessed Relief
+1033|RBK1-5ed|51|Blue Bossa
+1034|RBK1-5ed|52|Blue Comedy
+1035|RBK1-5ed|53|Blue In Green
+1036|RBK1-5ed|54|Blue Monk
+1037|RBK1-5ed|55|Blue Room
+1038|RBK1-5ed|56|Bluesette
+1039|RBK1-5ed|57|Blues For Alice
+1040|RBK1-5ed|58|Blue Train
+1041|RBK1-5ed|59|Body And Soul
+1042|RBK1-5ed|60|Boplicity
+1043|RBK1-5ed|61|Boston Marathon
+1044|RBK1-5ed|62|Brainville
+1045|RBK1-5ed|64|Bright Size Life
+1046|RBK1-5ed|65|Broadway Blues
+1047|RBK1-5ed|66|Brownout
+1048|RBK1-5ed|67|But Beautiful
+1049|RBK1-5ed|68|Butterfly
+1050|RBK1-5ed|70|Captain Marvel
+1051|RBK1-5ed|72|Canyon Song
+1052|RBK1-5ed|73|Ceora
+1053|RBK1-5ed|74|Chega De Saudade
+1054|RBK1-5ed|76|Chelsea Bells
+1055|RBK1-5ed|77|Chelsea Bridge
+1056|RBK1-5ed|78|Cherokee
+1057|RBK1-5ed|79|Chicken Feathers
+1058|RBK1-5ed|80|Childrens Song
+1059|RBK1-5ed|82|Colors Of Chloe
+1060|RBK1-5ed|85|Chippie
+1061|RBK1-5ed|86|Como En Vietnam
+1062|RBK1-5ed|88|Come Sunday
+1063|RBK1-5ed|89|Con Alma
+1064|RBK1-5ed|90|Conception
+1065|RBK1-5ed|91|Conference Of The Birds
+1066|RBK1-5ed|92|Confirmation
+1067|RBK1-5ed|93|Coral
+1068|RBK1-5ed|93|Moonchild
+1069|RBK1-5ed|94|Corcovado
+1070|RBK1-5ed|95|Cottontail
+1071|RBK1-5ed|96|Could It Be You
+1072|RBK1-5ed|97|Countdown
+1073|RBK1-5ed|98|Country Roads
+1074|RBK1-5ed|99|Crescent
+1075|RBK1-5ed|100|Crystal Silence
+1076|RBK1-5ed|101|Daahoud
+1077|RBK1-5ed|102|Dancing On The Ceiling
+1078|RBK1-5ed|103|Darn That Dream
+1079|RBK1-5ed|104|Days And Nights Waiting
+1080|RBK1-5ed|105|Days Of Wine And Roses, The
+1081|RBK1-5ed|106|Day Waves
+1082|RBK1-5ed|107|Dearly Beloved
+1083|RBK1-5ed|108|Dear Old Stockholm
+1084|RBK1-5ed|109|Delores
+1085|RBK1-5ed|110|De Pois De Amor O'vazio
+1086|RBK1-5ed|112|Desafinado
+1087|RBK1-5ed|114|Desert Air
+1088|RBK1-5ed|116|Deluge
+1089|RBK1-5ed|117|Dexterity
+1090|RBK1-5ed|118|Doin' The Pig
+1091|RBK1-5ed|120|Django
+1092|RBK1-5ed|121|Dolphin, The
+1093|RBK1-5ed|122|Dolphin Dance
+1094|RBK1-5ed|123|Domino Biscuit
+1095|RBK1-5ed|124|Donna Lee
+1096|RBK1-5ed|125|Don't Blame Me
+1097|RBK1-5ed|126|Don't Get Around Much Anymore
+1098|RBK1-5ed|127|Duke, The
+1099|RBK1-5ed|128|12-4 2-4/Duplicities
+1100|RBK1-5ed|129|Easy Living
+1101|RBK1-5ed|130|Easy To Love
+1102|RBK1-5ed|131|Ecclusiastics
+1103|RBK1-5ed|132|Eiderdown
+1104|RBK1-5ed|134|Eighty One
+1105|RBK1-5ed|135|El Gaucho
+1106|RBK1-5ed|136|Elizete
+1107|RBK1-5ed|137|Empathy
+1108|RBK1-5ed|138|Epistrophy
+1109|RBK1-5ed|139|Equinox
+1110|RBK1-5ed|140|Equipoise
+1111|RBK1-5ed|141|E.S.P.
+1112|RBK1-5ed|142|Exercise #3
+1113|RBK1-5ed|143|Exercise #6
+1114|RBK1-5ed|144|Fables Of Faubus
+1115|RBK1-5ed|146|Fall
+1116|RBK1-5ed|147|Falling Grace
+1117|RBK1-5ed|148|Falling In Love With Love
+1118|RBK1-5ed|149|Fee-Fi-Fo-Fum
+1119|RBK1-5ed|150|Feelings And Things
+1120|RBK1-5ed|151|Fields We Know, The
+1121|RBK1-5ed|152|Five Hundred Miles High
+1122|RBK1-5ed|153|502 Blues
+1123|RBK1-5ed|154|Follow Your Heart
+1124|RBK1-5ed|156|Central Park West
+1125|RBK1-5ed|156|Flags
+1126|RBK1-5ed|157|Footprints
+1127|RBK1-5ed|158|Forest Flower
+1128|RBK1-5ed|159|For Heaven's Sake
+1129|RBK1-5ed|160|Fortune Smiles
+1130|RBK1-5ed|161|Four
+1131|RBK1-5ed|162|Four On Six
+1132|RBK1-5ed|163|Four Winds
+1133|RBK1-5ed|164|Freddie The Freeloader
+1134|RBK1-5ed|165|Freedom Jazz Dance
+1135|RBK1-5ed|166|Gary's Waltz
+1136|RBK1-5ed|167|Gemini
+1137|RBK1-5ed|168|General Mojo's Well Laid Plan
+1138|RBK1-5ed|169|Gentle Rain
+1139|RBK1-5ed|170|Giant Steps
+1140|RBK1-5ed|171|Girl From Ipanema, The
+1141|RBK1-5ed|172|Gloria's Step
+1142|RBK1-5ed|173|God Bless The Child
+1143|RBK1-5ed|174|Golden Lady
+1144|RBK1-5ed|175|Goodbye Porkpie Hat
+1145|RBK1-5ed|176|Good Evening Mr. And Mrs. America
+1146|RBK1-5ed|176|Good Evening Mr. And Mrs. America
+1147|RBK1-5ed|178|Grand Central
+1148|RBK1-5ed|179|Green Dolphin Street
+1149|RBK1-5ed|180|Green Mountains
+1150|RBK1-5ed|181|Groovin' High
+1151|RBK1-5ed|182|Grow Your Own
+1152|RBK1-5ed|184|Half Nelson
+1153|RBK1-5ed|185|Hassan's Dream
+1154|RBK1-5ed|186|Have You Met Miss Jones
+1155|RBK1-5ed|187|Heaven
+1156|RBK1-5ed|188|Hello, Young Lovers
+1157|RBK1-5ed|190|Henninger Flats
+1158|RBK1-5ed|191|Here's That Rainy Day
+1159|RBK1-5ed|192|Herzog
+1160|RBK1-5ed|194|Hey There
+1161|RBK1-5ed|195|Hold Out Your Hand
+1162|RBK1-5ed|196|Hotel Overture
+1163|RBK1-5ed|196|Hotel Overture
+1164|RBK1-5ed|197|Hotel Vamp
+1165|RBK1-5ed|198|Hotel Hello
+1166|RBK1-5ed|200|Sweeping Up
+1167|RBK1-5ed|201|House Of Jade
+1168|RBK1-5ed|202|How High The Moon
+1169|RBK1-5ed|202|How High The Moon
+1170|RBK1-5ed|203|How Insensitive
+1171|RBK1-5ed|204|How My Heart Sings
+1172|RBK1-5ed|205|Hullo, Bolinas
+1173|RBK1-5ed|206|Icarus
+1174|RBK1-5ed|208|I Can't Get Started
+1175|RBK1-5ed|209|I Could Write A Book
+1176|RBK1-5ed|210|Ida Lupino
+1177|RBK1-5ed|212|If You Never Come To Me
+1178|RBK1-5ed|213|I Got It Bad
+1179|RBK1-5ed|214|I Let A Song Go Out Of My Heart
+1180|RBK1-5ed|215|I Love You
+1181|RBK1-5ed|216|I'm All Smiles
+1182|RBK1-5ed|218|I'll Remember April
+1183|RBK1-5ed|219|I Mean You
+1184|RBK1-5ed|220|Impressions
+1185|RBK1-5ed|221|I'm Your Pal
+1186|RBK1-5ed|222|In A Mellow Tone
+1187|RBK1-5ed|222|In A Mellow Tone
+1188|RBK1-5ed|223|In A Sentimental Mood
+1189|RBK1-5ed|224|Inchworm
+1190|RBK1-5ed|225|Indian Lady
+1191|RBK1-5ed|226|Inside In
+1192|RBK1-5ed|229|Inner Urge
+1193|RBK1-5ed|230|Interplay
+1194|RBK1-5ed|231|Intrepid Fox
+1195|RBK1-5ed|232|In Your Own Sweet Way
+1196|RBK1-5ed|233|In Your Quiet Place
+1197|RBK1-5ed|234|Invitation
+1198|RBK1-5ed|234|Invitation
+1199|RBK1-5ed|235|I Remember Clifford
+1200|RBK1-5ed|236|Iris
+1201|RBK1-5ed|237|I Should Care
+1202|RBK1-5ed|238|Isn't It Romantic?
+1203|RBK1-5ed|239|Isotope
+1204|RBK1-5ed|240|Israel
+1205|RBK1-5ed|240|Israel
+1206|RBK1-5ed|241|It Don't Mean A Thing
+1207|RBK1-5ed|242|It's A Raggy Waltz
+1208|RBK1-5ed|243|Jelly Roll
+1209|RBK1-5ed|244|Jinrikisha
+1210|RBK1-5ed|245|Jordu
+1211|RBK1-5ed|246|Journey To Recife
+1212|RBK1-5ed|247|Joy Spring
+1213|RBK1-5ed|248|Ju-Ju
+1214|RBK1-5ed|249|Just Friends
+1215|RBK1-5ed|250|Jump Monk
+1216|RBK1-5ed|252|June 15th, 1967
+1217|RBK1-5ed|254|La Fiesta
+1218|RBK1-5ed|256|Lady Bird
+1219|RBK1-5ed|257|Lament
+1220|RBK1-5ed|258|Las Vegas Tango
+1221|RBK1-5ed|259|Lazy Bird
+1222|RBK1-5ed|260|Leroy The Magician
+1223|RBK1-5ed|261|Lie Awake
+1224|RBK1-5ed|262|Like Someone In Love
+1225|RBK1-5ed|263|Limehouse Blues
+1226|RBK1-5ed|264|Litha
+1227|RBK1-5ed|266|Little B's Poem
+1228|RBK1-5ed|266|Little B's Poem
+1229|RBK1-5ed|267|Little Niles
+1230|RBK1-5ed|268|Liturgy
+1231|RBK1-5ed|270|Little Waltz
+1232|RBK1-5ed|271|Long As You Know You're Living Yours
+1233|RBK1-5ed|272|Long Ago (And Far Away)
+1234|RBK1-5ed|273|Lonnie's Lament
+1235|RBK1-5ed|274|Look To The Sky
+1236|RBK1-5ed|275|Looking Back
+1237|RBK1-5ed|276|Lucky Southern
+1238|RBK1-5ed|277|Lullaby Of Birdland
+1239|RBK1-5ed|278|Lush Life
+1240|RBK1-5ed|280|Magician In You, The
+1241|RBK1-5ed|280|Magician In You, The
+1242|RBK1-5ed|281|Maiden Voyage
+1243|RBK1-5ed|282|Mallet Man
+1244|RBK1-5ed|284|Man In The Green Shirt
+1245|RBK1-5ed|286|Mahjong
+1246|RBK1-5ed|287|May Dance
+1247|RBK1-5ed|288|Meditation
+1248|RBK1-5ed|289|Memories Of Tomorrow
+1249|RBK1-5ed|290|Mevlevia
+1250|RBK1-5ed|290|Mevlevia
+1251|RBK1-5ed|292|Michelle
+1252|RBK1-5ed|293|Midnight Mood
+1253|RBK1-5ed|294|Milano
+1254|RBK1-5ed|295|Minority
+1255|RBK1-5ed|296|Misty
+1256|RBK1-5ed|297|Miyako
+1257|RBK1-5ed|298|Molten Glass
+1258|RBK1-5ed|299|Moment's Notice
+1259|RBK1-5ed|300|Montage
+1260|RBK1-5ed|301|Mood Indigo
+1261|RBK1-5ed|302|Moon Germs
+1262|RBK1-5ed|303|More I See You, The
+1263|RBK1-5ed|303|More I See You, The
+1264|RBK1-5ed|304|Mother Of The Dead Man
+1265|RBK1-5ed|305|Memphis Underground
+1266|RBK1-5ed|305|Mr. P.C.
+1267|RBK1-5ed|306|My Favorite Things
+1268|RBK1-5ed|306|My Favorite Things
+1269|RBK1-5ed|307|My Foolish Heart
+1270|RBK1-5ed|308|My Funny Valentine
+1271|RBK1-5ed|309|My Little Boat
+1272|RBK1-5ed|310|My One And Only Love
+1273|RBK1-5ed|311|My Romance
+1274|RBK1-5ed|312|Mysterious Traveller
+1275|RBK1-5ed|314|My Ship
+1276|RBK1-5ed|315|Naima
+1277|RBK1-5ed|316|Nardis
+1278|RBK1-5ed|317|Nefertiti
+1279|RBK1-5ed|318|Never Will I Marry
+1280|RBK1-5ed|319|Nica's Dream
+1281|RBK1-5ed|319|Nica's Dream
+1282|RBK1-5ed|320|Night And Day
+1283|RBK1-5ed|321|Night Dreamer
+1284|RBK1-5ed|322|Night Has A Thousand Eyes, The
+1285|RBK1-5ed|323|Nimbus
+1286|RBK1-5ed|324|Nonsequence
+1287|RBK1-5ed|326|Nostalgia In Times Square
+1288|RBK1-5ed|327|Oleo
+1289|RBK1-5ed|328|Olhos De Gato
+1290|RBK1-5ed|329|Once I Loved
+1291|RBK1-5ed|330|One Finger Snap
+1292|RBK1-5ed|331|One Note Samba
+1293|RBK1-5ed|332|Open Your Eyes, You Can Fly
+1294|RBK1-5ed|332|Open Your Eyes, You Can Fly
+1295|RBK1-5ed|334|Orbits
+1296|RBK1-5ed|335|Ornithology
+1297|RBK1-5ed|336|Out Of Nowhere
+1298|RBK1-5ed|337|Passion Dance
+1299|RBK1-5ed|338|Peaches En Regalia
+1300|RBK1-5ed|340|Peace
+1301|RBK1-5ed|341|Pearlie's Swine
+1302|RBK1-5ed|342|Pee Wee
+1303|RBK1-5ed|343|Peggy's Blue Skylight
+1304|RBK1-5ed|343|Peggy's Blue Skylight
+1305|RBK1-5ed|344|Pensativa
+1306|RBK1-5ed|346|Pent-Up House
+1307|RBK1-5ed|346|Pent-Up House
+1308|RBK1-5ed|347|Peri's Scope
+1309|RBK1-5ed|348|Pfrancing (No Blues)
+1310|RBK1-5ed|348|Pfrancing (No Blues)
+1311|RBK1-5ed|349|Finocchio
+1312|RBK1-5ed|349|Pinocchio
+1313|RBK1-5ed|350|Pithycanthropus Erectus
+1314|RBK1-5ed|351|Played Twice
+1315|RBK1-5ed|352|Portsmouth Figurations
+1316|RBK1-5ed|353|Prelude To A Kiss
+1317|RBK1-5ed|354|Prince Of Darkness
+1318|RBK1-5ed|355|Pussy Cat Dues
+1319|RBK1-5ed|356|Quiet Now
+1320|RBK1-5ed|357|Raven, The
+1321|RBK1-5ed|358|Real Guitarist, The
+1322|RBK1-5ed|359|Recordame
+1323|RBK1-5ed|360|Reincarnation Of A Lovebird
+1324|RBK1-5ed|362|Red Clay
+1325|RBK1-5ed|363|Resolution
+1326|RBK1-5ed|364|Round Midnight
+1327|RBK1-5ed|365|Saga Of Harrison Crabfeathers
+1328|RBK1-5ed|366|Same Shame
+1329|RBK1-5ed|367|Satin Doll
+1330|RBK1-5ed|369|Scrapple From The Apple
+1331|RBK1-5ed|370|Sea Journey
+1332|RBK1-5ed|372|Self Portrait In Three Colors
+1333|RBK1-5ed|373|Semblence
+1334|RBK1-5ed|374|Senor Mouse
+1335|RBK1-5ed|377|Serenade To A Cuckoo
+1336|RBK1-5ed|378|Seven Come Eleven
+1337|RBK1-5ed|379|Seven Steps To Heaven
+1338|RBK1-5ed|380|Shades Of Light
+1339|RBK1-5ed|381|Shadow Of Your Smile
+1340|RBK1-5ed|382|Sidewinder
+1341|RBK1-5ed|383|Sing Me Softly Of The Blues
+1342|RBK1-5ed|384|Skating In Central Park
+1343|RBK1-5ed|385|Slowly Gone, Bygone
+1344|RBK1-5ed|386|Solar
+1345|RBK1-5ed|387|Solitude
+1346|RBK1-5ed|388|Someday My Prince Will Come
+1347|RBK1-5ed|389|Some Other Time
+1348|RBK1-5ed|390|Some Skunk Funk
+1349|RBK1-5ed|392|Sometime Ago
+1350|RBK1-5ed|393|Song
+1351|RBK1-5ed|394|Song For My Father
+1352|RBK1-5ed|395|Song Is You, The
+1353|RBK1-5ed|396|Son Of Mr.Green Genes
+1354|RBK1-5ed|397|Sophisticated Lady
+1355|RBK1-5ed|398|Sorcerer, The
+1356|RBK1-5ed|399|So What
+1357|RBK1-5ed|400|Space Circus Part One
+1358|RBK1-5ed|402|Space Circus Part Two
+1359|RBK1-5ed|404|Speak No Evil
+1360|RBK1-5ed|405|Spiral Dance
+1361|RBK1-5ed|406|Spring Is Here
+1362|RBK1-5ed|407|Star-Crossed Lovers
+1363|RBK1-5ed|408|Stella By Starlight
+1364|RBK1-5ed|409|Steps
+1365|RBK1-5ed|410|Stolen Moments
+1366|RBK1-5ed|411|Stompin' At The Savoy
+1367|RBK1-5ed|412|Straight, No Chaser
+1368|RBK1-5ed|413|Stuff
+1369|RBK1-5ed|414|Sugar
+1370|RBK1-5ed|415|Summer Samba
+1371|RBK1-5ed|416|Swedish Pastry
+1372|RBK1-5ed|417|Sweet Georgia Bright
+1373|RBK1-5ed|418|Sweet Henry
+1374|RBK1-5ed|419|Sweet Rain
+1375|RBK1-5ed|420|Take Five
+1376|RBK1-5ed|421|Take The "A" Train
+1377|RBK1-5ed|422|Tame Thy Pen
+1378|RBK1-5ed|423|There Is No Greater Love
+1379|RBK1-5ed|424|Tell Me A Bedtime Story
+1380|RBK1-5ed|426|There Will Never Be Another You
+1381|RBK1-5ed|427|They Can't Take That Away From Me
+1382|RBK1-5ed|428|Think On Me
+1383|RBK1-5ed|429|Three Flowers
+1384|RBK1-5ed|430|Tones For Joan's Bones
+1385|RBK1-5ed|432|Time Remembered
+1386|RBK1-5ed|433|Tough Talk
+1387|RBK1-5ed|434|Train Samba
+1388|RBK1-5ed|435|Trance
+1389|RBK1-5ed|436|Triste
+1390|RBK1-5ed|437|Tune-Up
+1391|RBK1-5ed|438|Turn Out The Stars
+1392|RBK1-5ed|439|Unquity Road
+1393|RBK1-5ed|440|Up Jumped Spring
+1394|RBK1-5ed|441|Upper Manhattan Medical Group
+1395|RBK1-5ed|442|Vashkar
+1396|RBK1-5ed|443|Very Early
+1397|RBK1-5ed|444|Virgo
+1398|RBK1-5ed|445|Wait Till You See Her
+1399|RBK1-5ed|446|Walkin'
+1400|RBK1-5ed|447|Walter L
+1401|RBK1-5ed|448|Waltz
+1402|RBK1-5ed|449|Waltz For A Lovely Wife
+1403|RBK1-5ed|450|Waltz For Debby
+1404|RBK1-5ed|451|Waltzin'
+1405|RBK1-5ed|452|Wave
+1406|RBK1-5ed|453|We'll Be Together Again
+1407|RBK1-5ed|454|Well You Needn't
+1408|RBK1-5ed|455|West Coast Blues
+1409|RBK1-5ed|456|What Am I Here For
+1410|RBK1-5ed|457|What Are You Doing The Rest Of Your Life
+1411|RBK1-5ed|458|What Was
+1412|RBK1-5ed|460|What Is This Thing Called Love
+1413|RBK1-5ed|461|When I Fall In Love
+1414|RBK1-5ed|462|When Sunny Gets Blue
+1415|RBK1-5ed|463|Where Are You
+1416|RBK1-5ed|464|Wild Flower
+1417|RBK1-5ed|466|Windows
+1418|RBK1-5ed|468|Wings Of Karma
+1419|RBK1-5ed|469|Witch Hunt
+1420|RBK1-5ed|470|Woody'n You
+1421|RBK1-5ed|471|Yes Or No
+1422|RBK1-5ed|472|Yesterday
+1423|RBK1-5ed|473|Yesterdays
+1424|RBK1-5ed|474|You Are The Sunshine Of My Life
+1425|RBK1-5ed|475|You Are Too Beautiful
+1426|RBK1-5ed|476|You Don't Know What Love Is
+1427|RBK1-5ed|477|You Took Advantage Of Me
+1428|RBK1-5ed|478|Untitled Tune
+1429|RBK1-5ed|480|Untitled Tune
+1430|RBK1-5ed|481|Untitled Tune
+1431|RBK1-5ed-F|1|A Call For All Demons
+1432|RBK1-5ed-F|1|Alfie
+1433|RBK1-5ed-F|2|A Child Is Born
+1434|RBK1-5ed-F|2|Black Monday
+1435|RBK1-5ed-F|3|A Fine Romance
+1436|RBK1-5ed-F|3|Contemplation
+1437|RBK1-5ed-F|4|A Family Joy
+1438|RBK1-5ed-F|4|Disguise, The Sphinx, The
+1439|RBK1-5ed-F|5|Kelo
+1440|RBK1-5ed-F|6|A Foggy Day
+1441|RBK1-5ed-F|6|I'm Afraid
+1442|RBK1-5ed-F|7|A Night In Tunisia
+1443|RBK1-5ed-F|7|Mr. Jin
+1444|RBK1-5ed-F|8|African Flower
+1445|RBK1-5ed-F|8|Oliloqui Valley
+1446|RBK1-5ed-F|9|Afro Blue
+1447|RBK1-5ed-F|9|Afro Blues
+1448|RBK1-5ed-F|9|Perfect Love, Jamala
+1449|RBK1-5ed-F|10|Afternoon In Paris
+1450|RBK1-5ed-F|10|Plain Jane
+1451|RBK1-5ed-F|11|Airegin
+1452|RBK1-5ed-F|11|Reflections
+1453|RBK1-5ed-F|12|Alice In Wonderland
+1454|RBK1-5ed-F|12|Road Song
+1455|RBK1-5ed-F|13|All Blues
+1456|RBK1-5ed-F|13|Valse Hot
+1457|RBK1-5ed-F|14|All In Love Is Fair
+1458|RBK1-5ed-F|15|All My Tomorrows
+1459|RBK1-5ed-F|16|All Of Me
+1460|RBK1-5ed-F|17|All Of You
+1461|RBK1-5ed-F|18|All The Things You Are
+1462|RBK1-5ed-F|19|Alone Together
+1463|RBK1-5ed-F|20|Ana Maria
+1464|RBK1-5ed-F|22|And Now, The Queen
+1465|RBK1-5ed-F|22|Around Again
+1466|RBK1-5ed-F|23|And On The Third Day
+1467|RBK1-5ed-F|24|Angel Eyes
+1468|RBK1-5ed-F|25|Anthropology
+1469|RBK1-5ed-F|26|April In Paris
+1470|RBK1-5ed-F|27|April Joy
+1471|RBK1-5ed-F|28|Arise, Her Eyes
+1472|RBK1-5ed-F|30|Armageddon
+1473|RBK1-5ed-F|31|As Time Goes By
+1474|RBK1-5ed-F|32|Au Private
+1475|RBK1-5ed-F|32|Au Privave
+1476|RBK1-5ed-F|33|Autumn In New York
+1477|RBK1-5ed-F|34|Ay, Arriba!
+1478|RBK1-5ed-F|36|Autumn Leaves
+1479|RBK1-5ed-F|37|Ballet
+1480|RBK1-5ed-F|38|Batterie
+1481|RBK1-5ed-F|39|Beautiful Love
+1482|RBK1-5ed-F|40|Beauty And The Beast
+1483|RBK1-5ed-F|41|Beneath It All
+1484|RBK1-5ed-F|42|Bessie's Blues
+1485|RBK1-5ed-F|43|Bewitched
+1486|RBK1-5ed-F|44|Big Nick
+1487|RBK1-5ed-F|45|Bitter Suite In The Ozone
+1488|RBK1-5ed-F|46|Black Diamond
+1489|RBK1-5ed-F|47|Black Narcissus
+1490|RBK1-5ed-F|48|Black Nile
+1491|RBK1-5ed-F|49|Black Orpheus
+1492|RBK1-5ed-F|50|Blessed Relief
+1493|RBK1-5ed-F|51|Blue Bossa
+1494|RBK1-5ed-F|52|Blue Comedy
+1495|RBK1-5ed-F|53|Blue In Green
+1496|RBK1-5ed-F|54|Blue Monk
+1497|RBK1-5ed-F|55|Blue Room
+1498|RBK1-5ed-F|56|Bluesette
+1499|RBK1-5ed-F|57|Blues For Alice
+1500|RBK1-5ed-F|58|Blue Train
+1501|RBK1-5ed-F|59|Body And Soul
+1502|RBK1-5ed-F|60|Boplicity
+1503|RBK1-5ed-F|61|Boston Marathon
+1504|RBK1-5ed-F|62|Brainville
+1505|RBK1-5ed-F|64|Bright Size Life
+1506|RBK1-5ed-F|65|Broadway Blues
+1507|RBK1-5ed-F|66|Brownout
+1508|RBK1-5ed-F|67|But Beautiful
+1509|RBK1-5ed-F|68|Butterfly
+1510|RBK1-5ed-F|70|Captain Marvel
+1511|RBK1-5ed-F|72|Canyon Song
+1512|RBK1-5ed-F|73|Ceora
+1513|RBK1-5ed-F|74|Chega De Saudade
+1514|RBK1-5ed-F|76|Chelsea Bells
+1515|RBK1-5ed-F|77|Chelsea Bridge
+1516|RBK1-5ed-F|78|Cherokee
+1517|RBK1-5ed-F|79|Chicken Feathers
+1518|RBK1-5ed-F|80|Children's Song
+1519|RBK1-5ed-F|82|Colors Of Chloe
+1520|RBK1-5ed-F|85|Chippie
+1521|RBK1-5ed-F|86|Como En Vietnam
+1522|RBK1-5ed-F|88|Come Sunday
+1523|RBK1-5ed-F|89|Con Alma
+1524|RBK1-5ed-F|90|Conception
+1525|RBK1-5ed-F|91|Conference Of The Birds
+1526|RBK1-5ed-F|92|Confirmation
+1527|RBK1-5ed-F|93|Coral
+1528|RBK1-5ed-F|93|Moonchild
+1529|RBK1-5ed-F|94|Corcovado
+1530|RBK1-5ed-F|96|Cottontail
+1531|RBK1-5ed-F|96|Could It Be You
+1532|RBK1-5ed-F|97|Countdown
+1533|RBK1-5ed-F|98|Country Roads
+1534|RBK1-5ed-F|99|Crescent
+1535|RBK1-5ed-F|100|Crystal Silence
+1536|RBK1-5ed-F|101|Daahound
+1537|RBK1-5ed-F|102|Dancing On The Ceiling
+1538|RBK1-5ed-F|103|Darn That Dream
+1539|RBK1-5ed-F|104|Days And Nights Waiting
+1540|RBK1-5ed-F|105|Days Of Wine And Roses, The
+1541|RBK1-5ed-F|106|Day Waves
+1542|RBK1-5ed-F|107|Dearly Beloved
+1543|RBK1-5ed-F|108|Dear Old Stockholm
+1544|RBK1-5ed-F|109|Delores
+1545|RBK1-5ed-F|110|De Pois De Amor O'vazio
+1546|RBK1-5ed-F|112|Desafinado
+1547|RBK1-5ed-F|114|Desert Air
+1548|RBK1-5ed-F|116|Deluge
+1549|RBK1-5ed-F|117|Dexterity
+1550|RBK1-5ed-F|118|Doin' The Pig
+1551|RBK1-5ed-F|120|Django
+1552|RBK1-5ed-F|121|Dolphin, The
+1553|RBK1-5ed-F|122|Dolphin Dance
+1554|RBK1-5ed-F|123|Domino Biscuit
+1555|RBK1-5ed-F|124|Donna Lee
+1556|RBK1-5ed-F|125|Don't Blame Me
+1557|RBK1-5ed-F|126|Don't Get Around Much Anymore
+1558|RBK1-5ed-F|127|Duke, The
+1559|RBK1-5ed-F|128|12-4 2-4/Duplicities
+1560|RBK1-5ed-F|129|Easy Living
+1561|RBK1-5ed-F|130|Easy To Love
+1562|RBK1-5ed-F|131|Ecclusiastics
+1563|RBK1-5ed-F|132|Eiderdown
+1564|RBK1-5ed-F|134|Eighty One
+1565|RBK1-5ed-F|135|El Gaucho
+1566|RBK1-5ed-F|136|Elizete
+1567|RBK1-5ed-F|137|Empathy
+1568|RBK1-5ed-F|138|Epistrophy
+1569|RBK1-5ed-F|139|Eqionox
+1570|RBK1-5ed-F|140|Equipoise
+1571|RBK1-5ed-F|141|E.S.P.
+1572|RBK1-5ed-F|142|Exercise #3
+1573|RBK1-5ed-F|143|Exercise #6
+1574|RBK1-5ed-F|144|Fables Of Faubus
+1575|RBK1-5ed-F|146|Fall
+1576|RBK1-5ed-F|147|Falling Grace
+1577|RBK1-5ed-F|148|Falling In Love With You
+1578|RBK1-5ed-F|149|Fee-Fi-Fo-Fum
+1579|RBK1-5ed-F|150|Feelings And Things
+1580|RBK1-5ed-F|151|Fields We Know, The
+1581|RBK1-5ed-F|152|Five Hundred Miles High
+1582|RBK1-5ed-F|153|502 Blues
+1583|RBK1-5ed-F|154|Follow Your Heart
+1584|RBK1-5ed-F|156|Central Park West
+1585|RBK1-5ed-F|156|Flags
+1586|RBK1-5ed-F|157|Footprints
+1587|RBK1-5ed-F|158|Forest Flower
+1588|RBK1-5ed-F|159|For Heaven's Sake
+1589|RBK1-5ed-F|160|Fortune Smiles
+1590|RBK1-5ed-F|161|Four
+1591|RBK1-5ed-F|162|Four On Six
+1592|RBK1-5ed-F|163|Four Winds
+1593|RBK1-5ed-F|164|Freddie The Freeloader
+1594|RBK1-5ed-F|165|Freedom Jazz Dance
+1595|RBK1-5ed-F|166|Gary's Waltz
+1596|RBK1-5ed-F|167|Gemini
+1597|RBK1-5ed-F|168|General Mojo's Well Laid Plan
+1598|RBK1-5ed-F|169|Gentle Rain
+1599|RBK1-5ed-F|170|Giant Steps
+1600|RBK1-5ed-F|171|Girl From Ipanema, The
+1601|RBK1-5ed-F|172|Gloria's Step
+1602|RBK1-5ed-F|173|God Bless The Child
+1603|RBK1-5ed-F|174|Golden Lady
+1604|RBK1-5ed-F|175|Goodbye Porkpie Hat
+1605|RBK1-5ed-F|176|Good Evening Mr. And Mrs. America
+1606|RBK1-5ed-F|200|Sweeping Up
+1607|RBK1-5ed-F|273|Loonie's Lament
+1608|RBK1-5ed-F|274|Look To The Sky
+1609|RBK1-5ed-F|275|Looking Back
+1610|RBK1-5ed-F|276|Lucky Southern
+1611|RBK1-5ed-F|277|Lullaby Of Birdland
+1612|RBK1-5ed-F|278|Lush Life
+1613|RBK1-5ed-F|280|Magician In You, The
+1614|RBK1-5ed-F|281|Maiden Voyage
+1615|RBK1-5ed-F|282|Mallet Man
+1616|RBK1-5ed-F|284|Man In The Green Shirt
+1617|RBK1-5ed-F|286|Mahjong
+1618|RBK1-5ed-F|287|May Dance
+1619|RBK1-5ed-F|288|Meditation
+1620|RBK1-5ed-F|289|Memories Of Tomorrow
+1621|RBK1-5ed-F|290|Mevlevia
+1622|RBK1-5ed-F|292|Michelle
+1623|RBK1-5ed-F|293|Midnight Mood
+1624|RBK1-5ed-F|294|Milano
+1625|RBK1-5ed-F|295|Minority
+1626|RBK1-5ed-F|296|Misty
+1627|RBK1-5ed-F|297|Miyako
+1628|RBK1-5ed-F|298|Molten Glass
+1629|RBK1-5ed-F|299|Moment's Notice
+1630|RBK1-5ed-F|300|Montage
+1631|RBK1-5ed-F|301|Mood Indigo
+1632|RBK1-5ed-F|302|Moon Germs
+1633|RBK1-5ed-F|303|More I See You, The
+1634|RBK1-5ed-F|304|Mother Of The Dead Man
+1635|RBK1-5ed-F|305|Memphis Underground
+1636|RBK1-5ed-F|305|Mr. P.C.
+1637|RBK1-5ed-F|306|My Favorite Things
+1638|RBK1-5ed-F|307|My Foolish Heart
+1639|RBK1-5ed-F|308|My Funny Valentine
+1640|RBK1-5ed-F|309|My Little Boat
+1641|RBK1-5ed-F|310|My One And Only Love
+1642|RBK1-5ed-F|311|My Romance
+1643|RBK1-5ed-F|312|Mysterious Traveller
+1644|RBK1-5ed-F|314|My Ship
+1645|RBK1-5ed-F|315|Naima
+1646|RBK1-5ed-F|316|Nardis
+1647|RBK1-5ed-F|317|Nefertiti
+1648|RBK1-5ed-F|318|Never Will I Marry
+1649|RBK1-5ed-F|319|Nica's Dream
+1650|RBK1-5ed-F|320|Night And Day
+1651|RBK1-5ed-F|321|Night Dreamer
+1652|RBK1-5ed-F|322|Night Has A Thousand Eyes, The
+1653|RBK1-5ed-F|323|Nimbus
+1654|RBK1-5ed-F|324|Nonsequece
+1655|RBK1-5ed-F|326|Nostalgia In Times Square
+1656|RBK1-5ed-F|327|Cleo
+1657|RBK1-5ed-F|328|Olhos De Gato
+1658|RBK1-5ed-F|329|Once I Loved
+1659|RBK1-5ed-F|330|One Finger Snap
+1660|RBK1-5ed-F|331|One Note Samba
+1661|RBK1-5ed-F|332|Open Your Eyes, You Can Fly
+1662|RBK1-5ed-F|334|Orbits
+1663|RBK1-5ed-F|335|Ornithology
+1664|RBK1-5ed-F|336|Out Of Nowhere
+1665|RBK1-5ed-F|337|Passion Dance
+1666|RBK1-5ed-F|338|Peaches En Regalia
+1667|RBK1-5ed-F|340|Peace
+1668|RBK1-5ed-F|341|Pearle's Swine
+1669|RBK1-5ed-F|342|Pee Wee
+1670|RBK1-5ed-F|343|Peggy's Blue Skylight
+1671|RBK1-5ed-F|344|Pensativa
+1672|RBK1-5ed-F|346|Pent-Up House
+1673|RBK1-5ed-F|347|Peri's Scope
+1674|RBK1-5ed-F|348|Pfrancing (No Blues)
+1675|RBK1-5ed-F|349|Pinocchio
+1676|RBK1-5ed-F|350|Pithycanthropus Erectus
+1677|RBK1-5ed-F|351|Played Twice
+1678|RBK1-5ed-F|352|Portsmouth Figurations
+1679|RBK1-5ed-F|353|Prelude To A Kiss
+1680|RBK1-5ed-F|353|Prince Of Darkness
+1681|RBK1-5ed-F|354|Pussy Cat Dues
+1682|RBK1-5ed-F|356|Quiet Now
+1683|RBK1-5ed-F|357|Raven, The
+1684|RBK1-5ed-F|358|Real Guitarist, The
+1685|RBK1-5ed-F|359|Recordame
+1686|RBK1-5ed-F|360|Reincarnation Of A Lovebird
+1687|RBK1-5ed-F|362|Red Clay
+1688|RBK1-5ed-F|363|Resolution
+1689|RBK1-5ed-F|364|'Round Midnight
+1690|RBK1-5ed-F|365|Saga Of Harrison Crabfeathers
+1691|RBK1-5ed-F|366|Same Shame
+1692|RBK1-5ed-F|367|Satin Doll
+1693|RBK1-5ed-F|368|Scotch 'N' Soda
+1694|RBK1-5ed-F|369|Scrapple From The Apple
+1695|RBK1-5ed-F|370|Sea Journey
+1696|RBK1-5ed-F|372|Self Portrait In 3 Colors
+1697|RBK1-5ed-F|373|Semblence
+1698|RBK1-5ed-F|374|Senor Mouse
+1699|RBK1-5ed-F|377|Serenade To A Cuckoo
+1700|RBK1-5ed-F|378|Seven Come Eleven
+1701|RBK1-5ed-F|379|Seven Steps To Heaven
+1702|RBK1-5ed-F|380|Shades Of Light
+1703|RBK1-5ed-F|381|Shadow Of Your Smile
+1704|RBK1-5ed-F|382|Sidewinder
+1705|RBK1-5ed-F|383|Sing Me Softly Of The Blues
+1706|RBK1-5ed-F|384|Skating In Central Park
+1707|RBK1-5ed-F|385|Slowly Gone, Bygone
+1708|RBK1-5ed-F|386|Solar
+1709|RBK1-5ed-F|387|Solitude
+1710|RBK1-5ed-F|388|Someday My Prince Will Come
+1711|RBK1-5ed-F|389|Some Other Time
+1712|RBK1-5ed-F|390|Some Skunk Funk
+1713|RBK1-5ed-F|392|Sometime Ago
+1714|RBK1-5ed-F|393|Song
+1715|RBK1-5ed-F|394|Song For My Father
+1716|RBK1-5ed-F|395|Song Is You, The
+1717|RBK1-5ed-F|396|Son Of Mr. Green Genes
+1718|RBK1-5ed-F|397|Sophisticated Lady
+1719|RBK1-5ed-F|398|Sorcerer, The
+1720|RBK1-5ed-F|399|So What
+1721|RBK1-5ed-F|400|Space Circus Part 1
+1722|RBK1-5ed-F|402|Space Circus Part 2
+1723|RBK1-5ed-F|404|Speak No Evil
+1724|RBK1-5ed-F|405|Spiral Dance
+1725|RBK1-5ed-F|406|Spring Is Here
+1726|RBK1-5ed-F|407|Star-Crossed Lovers
+1727|RBK1-5ed-F|408|Stella By Starlight
+1728|RBK1-5ed-F|409|Steps
+1729|RBK1-5ed-F|410|Stolen Moments
+1730|RBK1-5ed-F|411|Stompin' At The Savoy
+1731|RBK1-5ed-F|412|Straight, No Chaser
+1732|RBK1-5ed-F|413|Stuff
+1733|RBK1-5ed-F|414|Sugar
+1734|RBK1-5ed-F|415|Summer Samba
+1735|RBK1-5ed-F|416|Swedish Pastry
+1736|RBK1-5ed-F|417|Sweet Georgia Bright
+1737|RBK1-5ed-F|418|Sweet Henry
+1738|RBK1-5ed-F|419|Sweet Rain
+1739|RBK1-5ed-F|420|Take Five
+1740|RBK1-5ed-F|421|Take The "A" Train
+1741|RBK1-5ed-F|422|Tame Thy Pen
+1742|RBK1-5ed-F|423|There Is No Greater Love
+1743|RBK1-5ed-F|424|Tell Me A Bed Time Stroy
+1744|RBK1-5ed-F|424|Tell Me A Bedtime Story
+1745|RBK1-5ed-F|426|There Will Never Be Another You
+1746|RBK1-5ed-F|427|They Can't Take That Away From Me
+1747|RBK1-5ed-F|428|Think On Me
+1748|RBK1-5ed-F|429|Three Flowers
+1749|RBK1-5ed-F|430|Tones For Joan's Bones
+1750|RBK1-5ed-F|432|Time Remembered
+1751|RBK1-5ed-F|433|Tough Talk
+1752|RBK1-5ed-F|434|Train Samba
+1753|RBK1-5ed-F|435|Trance
+1754|RBK1-5ed-F|436|Triste
+1755|RBK1-5ed-F|437|Tune-Up
+1756|RBK1-5ed-F|438|Turn Out The Stars
+1757|RBK1-5ed-F|439|Unquity Road
+1758|RBK1-5ed-F|440|Up Jumped Spring
+1759|RBK1-5ed-F|441|Upper Manhattan Medical Group
+1760|RBK1-5ed-F|442|Vashkar
+1761|RBK1-5ed-F|443|Very Early
+1762|RBK1-5ed-F|444|Virgo
+1763|RBK1-5ed-F|445|Wait Till You See Her
+1764|RBK1-5ed-F|446|Walkin'
+1765|RBK1-5ed-F|447|Walter L.
+1766|RBK1-5ed-F|448|Waltz
+1767|RBK1-5ed-F|449|Waltz For A Lovely Wife
+1768|RBK1-5ed-F|450|Waltz For Debby
+1769|RBK1-5ed-F|451|Waltzin'
+1770|RBK1-5ed-F|452|Wave
+1771|RBK1-5ed-F|453|We'll Be Together Again
+1772|RBK1-5ed-F|454|Well You Needn't
+1773|RBK1-5ed-F|455|West Coast Blues
+1774|RBK1-5ed-F|456|What Am I Here For
+1775|RBK1-5ed-F|457|What Are You Doing The Rest Of Your Life
+1776|RBK1-5ed-F|458|What Was
+1777|RBK1-5ed-F|460|What Is This Thing Called Love
+1778|RBK1-5ed-F|461|When I Fall In Love
+1779|RBK1-5ed-F|462|When Sunny Gets Blue
+1780|RBK1-5ed-F|463|Where Are You
+1781|RBK1-5ed-F|464|Wild Flower
+1782|RBK1-5ed-F|466|Windows
+1783|RBK1-5ed-F|468|Wings Of Karma
+1784|RBK1-5ed-F|469|Witch Hunt
+1785|RBK1-5ed-F|470|Woody'n You
+1786|RBK1-5ed-F|471|Yes Or No
+1787|RBK1-5ed-F|472|Yesterday
+1788|RBK1-5ed-F|473|Yesterdays
+1789|RBK1-5ed-F|474|You Are The Sunshine Of My Life
+1790|RBK1-5ed-F|475|You Are Too Beautiful
+1791|RBK1-5ed-F|476|You Don't Know What Love Is
+1792|RBK1-5ed-F|477|Ou Took Advantage Of Me
+1793|RBK1-5ed-F|477|You Took Advantage Of Me
+1794|RBK1-5ed-F|478|Untitled Tune
+1795|RBK1-5ed-F|480|Untitled Tune
+1796|RBK1-5ed-F|481|Untitled Tune
+1797|RBK1-5ed-F|482|Spain
+1798|RBK1-6ed|10|African Flower
+1799|RBK1-6ed|11|Afro Blue
+1800|RBK1-6ed|12|Afternoon In Paris
+1801|RBK1-6ed|13|Airegin
+1802|RBK1-6ed|14|Agua De Beber (Water To Drink)
+1803|RBK1-6ed|16|Alfie
+1804|RBK1-6ed|17|Alice In Wonderland
+1805|RBK1-6ed|18|All Blues
+1806|RBK1-6ed|19|All By Myself
+1807|RBK1-6ed|20|All Of Me
+1808|RBK1-6ed|21|All Of You
+1809|RBK1-6ed|22|All The Things You Are
+1810|RBK1-6ed|23|Always
+1811|RBK1-6ed|24|Alright, Okay, You Win
+1812|RBK1-6ed|26|Ana Maria
+1813|RBK1-6ed|28|Angel Eyes
+1814|RBK1-6ed|29|Anthropology
+1815|RBK1-6ed|30|Apple Honey
+1816|RBK1-6ed|32|April In Paris
+1817|RBK1-6ed|33|April Joy
+1818|RBK1-6ed|34|Arise, Her Eyes
+1819|RBK1-6ed|36|Armageddon
+1820|RBK1-6ed|37|Au Privave
+1821|RBK1-6ed|38|Autumn In New York
+1822|RBK1-6ed|39|Autumn Leaves
+1823|RBK1-6ed|40|Beautiful Love
+1824|RBK1-6ed|41|Beauty And The Beast
+1825|RBK1-6ed|42|Bessie's Blues
+1826|RBK1-6ed|43|Bewitched
+1827|RBK1-6ed|44|Big Nick
+1828|RBK1-6ed|45|Black Coffee
+1829|RBK1-6ed|46|Black Diamond
+1830|RBK1-6ed|47|Black Narcissus
+1831|RBK1-6ed|48|Black Nile
+1832|RBK1-6ed|49|Black Orpheus
+1833|RBK1-6ed|50|Blue Bossa
+1834|RBK1-6ed|51|Blue In Green
+1835|RBK1-6ed|52|Blue Monk
+1836|RBK1-6ed|53|Blue Room, The
+1837|RBK1-6ed|54|Blue Train
+1838|RBK1-6ed|55|Blues For Alice
+1839|RBK1-6ed|56|Bluesette
+1840|RBK1-6ed|57|Body And Soul
+1841|RBK1-6ed|58|Boplicity
+1842|RBK1-6ed|59|Bright Size Life
+1843|RBK1-6ed|60|Broad Way Blues
+1844|RBK1-6ed|61|Broadway
+1845|RBK1-6ed|62|But Beautiful
+1846|RBK1-6ed|63|Butterfly
+1847|RBK1-6ed|64|Byrd Like
+1848|RBK1-6ed|65|C'est Si Bon (It's So Good)
+1849|RBK1-6ed|66|Call Me
+1850|RBK1-6ed|67|Call Me Irresponsible
+1851|RBK1-6ed|68|Can't Help Lovin' Dat Man
+1852|RBK1-6ed|69|Central Park West
+1853|RBK1-6ed|70|Captain Marvel
+1854|RBK1-6ed|72|Ceora
+1855|RBK1-6ed|73|Chelsea Bells
+1856|RBK1-6ed|74|Chega De Saudade (No More Blues)
+1857|RBK1-6ed|76|Chelsea Bridge
+1858|RBK1-6ed|77|Cherokee (Indian Love Song)
+1859|RBK1-6ed|78|Cherry Pink And Apple Blossom White
+1860|RBK1-6ed|79|A Child Is Born
+1861|RBK1-6ed|80|Chippie
+1862|RBK1-6ed|81|Chitlins Con Carne
+1863|RBK1-6ed|82|Come Sunday
+1864|RBK1-6ed|83|Como En Vietnam
+1865|RBK1-6ed|84|Con Alma
+1866|RBK1-6ed|86|Conception
+1867|RBK1-6ed|87|Confirmation
+1868|RBK1-6ed|88|Contemplation
+1869|RBK1-6ed|89|Coral
+1870|RBK1-6ed|90|Cotton Tail
+1871|RBK1-6ed|91|Could It Be You
+1872|RBK1-6ed|92|Countdown
+1873|RBK1-6ed|93|Crescent
+1874|RBK1-6ed|94|Crystal Silence
+1875|RBK1-6ed|95|D Natural Blues
+1876|RBK1-6ed|96|Daahoud
+1877|RBK1-6ed|98|Dancing On The Ceiling
+1878|RBK1-6ed|99|Darn That Dream
+1879|RBK1-6ed|100|Day Waves
+1880|RBK1-6ed|101|Days And Nights Waiting
+1881|RBK1-6ed|102|Dear Old Stockholm
+1882|RBK1-6ed|103|Dearly Beloved
+1883|RBK1-6ed|104|Dedicated To You
+1884|RBK1-6ed|105|Detour Ahead
+1885|RBK1-6ed|106|Deluge
+1886|RBK1-6ed|108|Desafinado
+1887|RBK1-6ed|110|Desert Air
+1888|RBK1-6ed|112|Dexterity
+1889|RBK1-6ed|113|Dizzy Atmosphere
+1890|RBK1-6ed|114|Django
+1891|RBK1-6ed|116|Doin' The Pig
+1892|RBK1-6ed|118|Dolores
+1893|RBK1-6ed|119|Dolphin Dance
+1894|RBK1-6ed|120|Domino Biscuit
+1895|RBK1-6ed|121|Don't Blame Me
+1896|RBK1-6ed|122|Don't Get Around Much Anymore
+1897|RBK1-6ed|123|Donna Lee
+1898|RBK1-6ed|124|Dream A Little Dream Of Me
+1899|RBK1-6ed|125|Dreamsville
+1900|RBK1-6ed|126|Easter Parade
+1901|RBK1-6ed|127|Easy Living
+1902|RBK1-6ed|128|Easy To Love
+1903|RBK1-6ed|129|Ecclusiastics
+1904|RBK1-6ed|130|Eighty One
+1905|RBK1-6ed|131|El Gaucho
+1906|RBK1-6ed|132|Epistrophy
+1907|RBK1-6ed|133|Equinox
+1908|RBK1-6ed|134|Equipoise
+1909|RBK1-6ed|135|E.S.P.
+1910|RBK1-6ed|136|Fall
+1911|RBK1-6ed|137|Falling Grace
+1912|RBK1-6ed|138|Falling In Love With Love
+1913|RBK1-6ed|139|Fee-Fi-Fo-Fum
+1914|RBK1-6ed|140|A Fine Romance
+1915|RBK1-6ed|141|500 Miles High
+1916|RBK1-6ed|142|502 Blues
+1917|RBK1-6ed|143|Follow Your Heart
+1918|RBK1-6ed|144|Footprints
+1919|RBK1-6ed|145|For All We Know
+1920|RBK1-6ed|146|For Heaven's Sake
+1921|RBK1-6ed|147|(I Love You) For Sentimental Reasons
+1922|RBK1-6ed|148|Forest Flower
+1923|RBK1-6ed|149|Four
+1924|RBK1-6ed|150|Four On Six
+1925|RBK1-6ed|151|Freddie Freeloader
+1926|RBK1-6ed|152|Freedom Jazz Dance
+1927|RBK1-6ed|153|Gee Baby, Ain't I Good To You
+1928|RBK1-6ed|154|Full House
+1929|RBK1-6ed|156|Gemini
+1930|RBK1-6ed|157|Giant Steps
+1931|RBK1-6ed|158|Girl From Ipanema, The
+1932|RBK1-6ed|159|Gloria's Step
+1933|RBK1-6ed|160|God Bless' The Child
+1934|RBK1-6ed|161|Golden Lady
+1935|RBK1-6ed|162|Good Evening Mr. And Mrs. America
+1936|RBK1-6ed|164|Grand Central
+1937|RBK1-6ed|165|Green Mountains, The
+1938|RBK1-6ed|166|Groovin' High
+1939|RBK1-6ed|167|Grow Your Own
+1940|RBK1-6ed|168|Guilty
+1941|RBK1-6ed|169|Gypsy In My Soul
+1942|RBK1-6ed|170|Half Nelson
+1943|RBK1-6ed|172|Have You Met Miss Jones?
+1944|RBK1-6ed|173|Heaven
+1945|RBK1-6ed|174|Heebie Jeebies
+1946|RBK1-6ed|175|Here's That Rainy Day
+1947|RBK1-6ed|176|Hello, Young Lovers
+1948|RBK1-6ed|178|Hot Toddy
+1949|RBK1-6ed|179|House Of Jade
+1950|RBK1-6ed|180|How High The Moon
+1951|RBK1-6ed|181|How Insensitive
+1952|RBK1-6ed|182|How My Heart Sings
+1953|RBK1-6ed|183|Hullo Bolinas
+1954|RBK1-6ed|184|I Can't Get Started With You
+1955|RBK1-6ed|185|I Can't Give You Anything But Love
+1956|RBK1-6ed|186|I Could Write A Book
+1957|RBK1-6ed|187|I Got It Bad And That Ain't Good
+1958|RBK1-6ed|188|I Let A Song Go Out Of My Heart
+1959|RBK1-6ed|189|I Love Paris
+1960|RBK1-6ed|190|I Love You
+1961|RBK1-6ed|191|I Mean You
+1962|RBK1-6ed|192|I Remember Clifford
+1963|RBK1-6ed|194|I Should Care
+1964|RBK1-6ed|195|I Wish I Knew How It Would Feel To Be Free
+1965|RBK1-6ed|196|I'll Never Smile Again
+1966|RBK1-6ed|197|I'll Remember April
+1967|RBK1-6ed|198|I'm All Smiles
+1968|RBK1-6ed|200|I'm Beginning To See The Light
+1969|RBK1-6ed|201|I'm Your Pal
+1970|RBK1-6ed|202|Icarus
+1971|RBK1-6ed|204|If You Never Come To Me
+1972|RBK1-6ed|205|Impressions
+1973|RBK1-6ed|206|In A Mellow Tone
+1974|RBK1-6ed|207|In A Sentimental Mood
+1975|RBK1-6ed|208|In The Mood
+1976|RBK1-6ed|210|In The Wee Small Hours Of The Morning
+1977|RBK1-6ed|211|In Your Quiet Place
+1978|RBK1-6ed|212|Inch Worm, The
+1979|RBK1-6ed|213|Indian Lady
+1980|RBK1-6ed|214|Inner Urge
+1981|RBK1-6ed|215|Interplay
+1982|RBK1-6ed|216|Intrepid Fox, The
+1983|RBK1-6ed|217|Invitation
+1984|RBK1-6ed|218|Iris
+1985|RBK1-6ed|219|Isn't It Romantic?
+1986|RBK1-6ed|220|Is You Is, Or Is You Ain't (Ma' Baby)
+1987|RBK1-6ed|222|Isotope
+1988|RBK1-6ed|223|Israel
+1989|RBK1-6ed|224|It Don't Mean A Thing (If It Ain't Got That Swing)
+1990|RBK1-6ed|225|It's Easy To Remember
+1991|RBK1-6ed|226|Jelly Roll
+1992|RBK1-6ed|227|Jordu
+1993|RBK1-6ed|228|Journey To Recife
+1994|RBK1-6ed|229|Joy Spring
+1995|RBK1-6ed|230|Juju
+1996|RBK1-6ed|231|June In January
+1997|RBK1-6ed|232|Jump Monk
+1998|RBK1-6ed|234|Just One More Chance
+1999|RBK1-6ed|235|Lady Bird
+2000|RBK1-6ed|236|Kelo
+2001|RBK1-6ed|238|Lady Sings The Blues
+2002|RBK1-6ed|239|Lament
+2003|RBK1-6ed|240|Las Vegas Tango
+2004|RBK1-6ed|241|Lazy Bird
+2005|RBK1-6ed|242|Lazy River
+2006|RBK1-6ed|243|Like Someone In Love
+2007|RBK1-6ed|244|Limehouse Blues
+2008|RBK1-6ed|245|Little Boat
+2009|RBK1-6ed|246|Lines And Spaces
+2010|RBK1-6ed|248|Litha
+2011|RBK1-6ed|250|Little Waltz
+2012|RBK1-6ed|251|Long Ago (And Far Away)
+2013|RBK1-6ed|252|Lonnie's Lament
+2014|RBK1-6ed|253|Look To The Sky
+2015|RBK1-6ed|254|Love Is The Sweetest Thing
+2016|RBK1-6ed|255|Lucky Southern
+2017|RBK1-6ed|256|Lullaby Of Birdland
+2018|RBK1-6ed|257|Magician In You, The
+2019|RBK1-6ed|258|Lush Life
+2020|RBK1-6ed|260|Mahjong
+2021|RBK1-6ed|261|Maiden Voyage
+2022|RBK1-6ed|262|A Man And A Woman
+2023|RBK1-6ed|264|Man In The Green Shirt
+2024|RBK1-6ed|266|Meditation
+2025|RBK1-6ed|267|Memories Of Tomorrow
+2026|RBK1-6ed|268|Michelle
+2027|RBK1-6ed|269|Midnight Mood
+2028|RBK1-6ed|270|Midwestern Nights Dream
+2029|RBK1-6ed|272|Milano
+2030|RBK1-6ed|273|Minority
+2031|RBK1-6ed|274|Miss Ann
+2032|RBK1-6ed|275|Missouri Uncompromised
+2033|RBK1-6ed|276|Mr. P.C.
+2034|RBK1-6ed|277|Misty
+2035|RBK1-6ed|278|Miyako
+2036|RBK1-6ed|279|Mood Indigo
+2037|RBK1-6ed|280|Moment's Notice
+2038|RBK1-6ed|282|Moonchild
+2039|RBK1-6ed|283|Most Beautiful Girl In The World, The
+2040|RBK1-6ed|284|My Buddy
+2041|RBK1-6ed|285|My Favorite Things
+2042|RBK1-6ed|286|My Foolish Heart
+2043|RBK1-6ed|287|My Funny Valentine
+2044|RBK1-6ed|288|My One And Only Love
+2045|RBK1-6ed|289|My Romance
+2046|RBK1-6ed|290|My Shining Hour
+2047|RBK1-6ed|291|My Ship
+2048|RBK1-6ed|292|My Way
+2049|RBK1-6ed|293|Naima
+2050|RBK1-6ed|294|Mysterious Traveller
+2051|RBK1-6ed|296|Nardis
+2052|RBK1-6ed|297|Nefertiti
+2053|RBK1-6ed|298|Never Will I Marry
+2054|RBK1-6ed|299|Nica's Dream
+2055|RBK1-6ed|300|Night Dreamer
+2056|RBK1-6ed|301|Night Has A Thousand Eyes, The
+2057|RBK1-6ed|302|A Night In Tunisia
+2058|RBK1-6ed|303|Nobody Knows You When You're Down And Out
+2059|RBK1-6ed|304|Night Train
+2060|RBK1-6ed|306|Nostalgia In Times Square
+2061|RBK1-6ed|307|Nuages
+2062|RBK1-6ed|308|(Old Man From) The Old Country
+2063|RBK1-6ed|309|Oleo
+2064|RBK1-6ed|310|Oliloqui Valley
+2065|RBK1-6ed|311|Once I Loved
+2066|RBK1-6ed|312|Once In Love With Amy
+2067|RBK1-6ed|313|One Finger Snap
+2068|RBK1-6ed|314|One Note Samba
+2069|RBK1-6ed|315|Only Trust Your Heart
+2070|RBK1-6ed|316|Orbits
+2071|RBK1-6ed|317|Ornithology
+2072|RBK1-6ed|318|Out Of Nowhere
+2073|RBK1-6ed|319|Paper Doll
+2074|RBK1-6ed|320|Passion Dance
+2075|RBK1-6ed|321|Passion Flower
+2076|RBK1-6ed|322|Peace
+2077|RBK1-6ed|323|Peggy'S Blue Skylight
+2078|RBK1-6ed|324|Pent Up House
+2079|RBK1-6ed|325|Penthouse Serenade
+2080|RBK1-6ed|326|Peri'S Scope
+2081|RBK1-6ed|327|Pfrancing (No Blues)
+2082|RBK1-6ed|328|Pinocchio
+2083|RBK1-6ed|329|Pithecanthropus Erectus
+2084|RBK1-6ed|330|Porthsmouth Figurations
+2085|RBK1-6ed|331|Prelude To A Kiss
+2086|RBK1-6ed|332|Prince Of Darkness
+2087|RBK1-6ed|333|P.S I Love You
+2088|RBK1-6ed|334|Pussy Cat Dues
+2089|RBK1-6ed|335|Quiet Nights Of Quiet Stars (Corcovado)
+2090|RBK1-6ed|336|Quiet Now
+2091|RBK1-6ed|337|Recorda-Me
+2092|RBK1-6ed|338|Red Clay
+2093|RBK1-6ed|340|Reflections
+2094|RBK1-6ed|341|Ring Dem Bells
+2095|RBK1-6ed|342|Reincarnation Of A Lovebird
+2096|RBK1-6ed|344|Road Song
+2097|RBK1-6ed|345|Round Midnight
+2098|RBK1-6ed|346|Ruby, My Dear
+2099|RBK1-6ed|348|Saga Of Harrison Crabfeathers, The
+2100|RBK1-6ed|349|Satin Doll
+2101|RBK1-6ed|350|Scotch And Soda
+2102|RBK1-6ed|351|Scrapple From The Apple
+2103|RBK1-6ed|352|Sea Journey
+2104|RBK1-6ed|354|Seven Come Eleven
+2105|RBK1-6ed|355|Sidewinder
+2106|RBK1-6ed|356|Seven Steps To Heaven
+2107|RBK1-6ed|358|Silver Hollow
+2108|RBK1-6ed|359|Sirabhorn
+2109|RBK1-6ed|360|Skating In Central Park
+2110|RBK1-6ed|362|So Nice (Summer Samba)
+2111|RBK1-6ed|363|Solar
+2112|RBK1-6ed|364|So What
+2113|RBK1-6ed|366|Solitude
+2114|RBK1-6ed|367|Some Day My Prince Will Come
+2115|RBK1-6ed|368|Some Other Spring
+2116|RBK1-6ed|369|Somebody Loves Me
+2117|RBK1-6ed|370|Some Skunk Funk
+2118|RBK1-6ed|372|Sometime Ago
+2119|RBK1-6ed|373|Song For My Father
+2120|RBK1-6ed|374|Song Is You, The
+2121|RBK1-6ed|376|Sophisticated Lady
+2122|RBK1-6ed|377|Sorcerer, The
+2123|RBK1-6ed|378|Speak No Evil
+2124|RBK1-6ed|379|Sphinx, The
+2125|RBK1-6ed|380|Standing On The Corner
+2126|RBK1-6ed|381|Star-Crossed Lovers, The
+2127|RBK1-6ed|382|Stella By Starlight
+2128|RBK1-6ed|383|Steps
+2129|RBK1-6ed|384|Stolen Moments
+2130|RBK1-6ed|385|Stompin' At The Savoy
+2131|RBK1-6ed|386|Straight No Chaser
+2132|RBK1-6ed|387|Sugar
+2133|RBK1-6ed|388|A String Of Pearls
+2134|RBK1-6ed|390|Stuff
+2135|RBK1-6ed|392|A Sunday King Of Love
+2136|RBK1-6ed|393|Surrey With The Fringe On Top, The
+2137|RBK1-6ed|394|Swedish Pastry
+2138|RBK1-6ed|395|Sweet Georgia Bright
+2139|RBK1-6ed|396|Sweet Henry
+2140|RBK1-6ed|397|Take Five
+2141|RBK1-6ed|398|Take The "A" Train
+2142|RBK1-6ed|399|Thanks For The Memory
+2143|RBK1-6ed|400|Tame Thy Pen
+2144|RBK1-6ed|402|Tell Me A Bedtime Story
+2145|RBK1-6ed|404|That's Amore
+2146|RBK1-6ed|406|There Is No Greater Love
+2147|RBK1-6ed|407|There Will Never Be Another You
+2148|RBK1-6ed|408|There'll Be Some Changes Made
+2149|RBK1-6ed|409|They Didn't Believe Me
+2150|RBK1-6ed|410|Think On Me
+2151|RBK1-6ed|411|Thou Swell
+2152|RBK1-6ed|412|Three Flowers
+2153|RBK1-6ed|413|Time Remembered
+2154|RBK1-6ed|414|Tones For Joan's Bones
+2155|RBK1-6ed|415|Topsy
+2156|RBK1-6ed|416|Tour De Force
+2157|RBK1-6ed|417|Triste
+2158|RBK1-6ed|418|Tune Up
+2159|RBK1-6ed|419|Turn Out The Stars
+2160|RBK1-6ed|420|Twisted Blues
+2161|RBK1-6ed|421|Uniquity Road
+2162|RBK1-6ed|422|Unchain My Heart
+2163|RBK1-6ed|424|Unity Village
+2164|RBK1-6ed|425|Up Jumped Spring
+2165|RBK1-6ed|426|Upper Manhattan Medical Group
+2166|RBK1-6ed|427|Valse Hot
+2167|RBK1-6ed|428|Very Early
+2168|RBK1-6ed|429|Virgo
+2169|RBK1-6ed|430|Wait Till You See Her
+2170|RBK1-6ed|431|Wave
+2171|RBK1-6ed|432|Waltz For Debby
+2172|RBK1-6ed|434|We'll Be Together Again
+2173|RBK1-6ed|435|Well You Needn't
+2174|RBK1-6ed|436|West Coast Blues
+2175|RBK1-6ed|437|What Am I Here For?
+2176|RBK1-6ed|438|What Was
+2177|RBK1-6ed|439|When I Fall In Love
+2178|RBK1-6ed|440|When Sunny Gets Blue
+2179|RBK1-6ed|441|When You Wish Upon A Star
+2180|RBK1-6ed|442|Whispering
+2181|RBK1-6ed|443|Windows
+2182|RBK1-6ed|444|Wild Flower
+2183|RBK1-6ed|446|Witch Hunt
+2184|RBK1-6ed|447|Woodchopper's Ball
+2185|RBK1-6ed|448|Wives And Lovers
+2186|RBK1-6ed|450|Woodyn' You
+2187|RBK1-6ed|451|World Is Waiting For The Sunrise, The
+2188|RBK1-6ed|452|Yes And No
+2189|RBK1-6ed|453|Yesterday
+2190|RBK1-6ed|454|Yesterdays
+2191|RBK1-6ed|455|You Are Too Beautiful
+2192|RBK1-6ed|456|You Are The Sunshine Of My Life
+2193|RBK1-6ed|458|You Brought A New Kind Of Love To Me
+2194|RBK1-6ed|459|You Don't Know What Love Is
+2195|RBK1-6ed|460|You Took Advantage Of Me
+2196|RBK1-6ed|461|Young At Heart
+2197|RBK1-6ed|462|You're Nobody 'Til Somebody Loves You
+2198|RBK1-6ed-F|10|African Flower
+2199|RBK1-6ed-F|11|Afro Blue
+2200|RBK1-6ed-F|12|Afternoon In Paris
+2201|RBK1-6ed-F|13|Airegin
+2202|RBK1-6ed-F|14|Agua De Beber (Water To Drink)
+2203|RBK1-6ed-F|16|Alfie
+2204|RBK1-6ed-F|17|Alice In Wonderland
+2205|RBK1-6ed-F|18|All Blues
+2206|RBK1-6ed-F|19|All By Myself
+2207|RBK1-6ed-F|20|All Of Me
+2208|RBK1-6ed-F|21|All Of You
+2209|RBK1-6ed-F|22|All The Things You Are
+2210|RBK1-6ed-F|23|Always
+2211|RBK1-6ed-F|24|Alright, Okay, You Win
+2212|RBK1-6ed-F|26|Ana Maria
+2213|RBK1-6ed-F|28|Angel Eyes
+2214|RBK1-6ed-F|29|Anthropology
+2215|RBK1-6ed-F|30|Apple Honey
+2216|RBK1-6ed-F|32|April In Paris
+2217|RBK1-6ed-F|33|April Joy
+2218|RBK1-6ed-F|34|Arise, Her Eyes
+2219|RBK1-6ed-F|36|Armageddon
+2220|RBK1-6ed-F|37|Au Privave
+2221|RBK1-6ed-F|38|Autumn In New York
+2222|RBK1-6ed-F|39|Autumn Leaves
+2223|RBK1-6ed-F|40|Beautiful Love
+2224|RBK1-6ed-F|41|Beauty And The Beast
+2225|RBK1-6ed-F|42|Bessie's Blues
+2226|RBK1-6ed-F|43|Bewitched
+2227|RBK1-6ed-F|44|Big Nick
+2228|RBK1-6ed-F|45|Black Coffee
+2229|RBK1-6ed-F|46|Black Diamond
+2230|RBK1-6ed-F|47|Black Narcissus
+2231|RBK1-6ed-F|48|Black Nile
+2232|RBK1-6ed-F|49|Black Orpheus
+2233|RBK1-6ed-F|50|Blue Bossa
+2234|RBK1-6ed-F|51|Blue In Green
+2235|RBK1-6ed-F|52|Blue Monk
+2236|RBK1-6ed-F|53|Blue Room, The
+2237|RBK1-6ed-F|54|Blue Train
+2238|RBK1-6ed-F|55|Blues For Alice
+2239|RBK1-6ed-F|56|Bluesette
+2240|RBK1-6ed-F|57|Body And Soul
+2241|RBK1-6ed-F|58|Boplicity
+2242|RBK1-6ed-F|59|Bright Size Life
+2243|RBK1-6ed-F|60|Broad Way Blues
+2244|RBK1-6ed-F|61|Broadway
+2245|RBK1-6ed-F|62|But Beautiful
+2246|RBK1-6ed-F|63|Butterfly
+2247|RBK1-6ed-F|64|Byrd Like
+2248|RBK1-6ed-F|65|C'est Si Bon (It's So Good)
+2249|RBK1-6ed-F|66|Call Me
+2250|RBK1-6ed-F|67|Call Me Irresponsible
+2251|RBK1-6ed-F|68|Can't Help Lovin' Dat Man
+2252|RBK1-6ed-F|69|Central Park West
+2253|RBK1-6ed-F|70|Captain Marvel
+2254|RBK1-6ed-F|72|Ceora
+2255|RBK1-6ed-F|73|Chelsea Bells
+2256|RBK1-6ed-F|74|Chega De Saudade (No More Blues)
+2257|RBK1-6ed-F|76|Chelsea Bridge
+2258|RBK1-6ed-F|77|Cherokee (Indian Love Song)
+2259|RBK1-6ed-F|78|Cherry Pink And Apple Blossom White
+2260|RBK1-6ed-F|79|A Child Is Born
+2261|RBK1-6ed-F|80|Chippie
+2262|RBK1-6ed-F|81|Chitlins Con Carne
+2263|RBK1-6ed-F|82|Come Sunday
+2264|RBK1-6ed-F|83|Como En Vietnam
+2265|RBK1-6ed-F|84|Con Alma
+2266|RBK1-6ed-F|86|Conception
+2267|RBK1-6ed-F|87|Confirmation
+2268|RBK1-6ed-F|88|Contemplation
+2269|RBK1-6ed-F|89|Coral
+2270|RBK1-6ed-F|90|Cotton Tail
+2271|RBK1-6ed-F|91|Could It Be You
+2272|RBK1-6ed-F|92|Countdown
+2273|RBK1-6ed-F|93|Crescent
+2274|RBK1-6ed-F|94|Crystal Silence
+2275|RBK1-6ed-F|95|D Natural Blues
+2276|RBK1-6ed-F|96|Daahoud
+2277|RBK1-6ed-F|98|Dancing On The Ceiling
+2278|RBK1-6ed-F|99|Darn That Dream
+2279|RBK1-6ed-F|100|Day Waves
+2280|RBK1-6ed-F|101|Days And Nights Waiting
+2281|RBK1-6ed-F|102|Dear Old Stockholm
+2282|RBK1-6ed-F|103|Dearly Beloved
+2283|RBK1-6ed-F|104|Dedicated To You
+2284|RBK1-6ed-F|105|Detour Ahead
+2285|RBK1-6ed-F|106|Deluge
+2286|RBK1-6ed-F|108|Desafinado
+2287|RBK1-6ed-F|110|Desert Air
+2288|RBK1-6ed-F|112|Dexterity
+2289|RBK1-6ed-F|113|Dizzy Atmosphere
+2290|RBK1-6ed-F|114|Django
+2291|RBK1-6ed-F|116|Doin' The Pig
+2292|RBK1-6ed-F|118|Dolores
+2293|RBK1-6ed-F|119|Dolphin Dance
+2294|RBK1-6ed-F|120|Domino Biscuit
+2295|RBK1-6ed-F|121|Don't Blame Me
+2296|RBK1-6ed-F|122|Don't Get Around Much Anymore
+2297|RBK1-6ed-F|123|Donna Lee
+2298|RBK1-6ed-F|124|Dream A Little Dream Of Me
+2299|RBK1-6ed-F|125|Dreamsville
+2300|RBK1-6ed-F|126|Easter Parade
+2301|RBK1-6ed-F|127|Easy Living
+2302|RBK1-6ed-F|128|Easy To Love
+2303|RBK1-6ed-F|129|Ecclusiastics
+2304|RBK1-6ed-F|130|Eighty One
+2305|RBK1-6ed-F|131|El Gaucho
+2306|RBK1-6ed-F|132|Epistrophy
+2307|RBK1-6ed-F|133|Equinox
+2308|RBK1-6ed-F|134|Equipoise
+2309|RBK1-6ed-F|135|E.S.P.
+2310|RBK1-6ed-F|136|Fall
+2311|RBK1-6ed-F|137|Falling Grace
+2312|RBK1-6ed-F|138|Falling In Love With Love
+2313|RBK1-6ed-F|139|Fee-Fi-Fo-Fum
+2314|RBK1-6ed-F|140|A Fine Romance
+2315|RBK1-6ed-F|141|500 Miles High
+2316|RBK1-6ed-F|142|502 Blues
+2317|RBK1-6ed-F|143|Follow Your Heart
+2318|RBK1-6ed-F|144|Footprints
+2319|RBK1-6ed-F|145|For All We Know
+2320|RBK1-6ed-F|146|For Heaven's Sake
+2321|RBK1-6ed-F|147|(I Love You) For Sentimental Reasons
+2322|RBK1-6ed-F|148|Forest Flower
+2323|RBK1-6ed-F|149|Four
+2324|RBK1-6ed-F|150|Four On Six
+2325|RBK1-6ed-F|151|Freddie Freeloader
+2326|RBK1-6ed-F|152|Freedom Jazz Dance
+2327|RBK1-6ed-F|153|Gee Baby, Ain't I Good To You
+2328|RBK1-6ed-F|154|Full House
+2329|RBK1-6ed-F|156|Gemini
+2330|RBK1-6ed-F|157|Giant Steps
+2331|RBK1-6ed-F|158|Girl From Ipanema, The
+2332|RBK1-6ed-F|159|Gloria's Step
+2333|RBK1-6ed-F|160|God Bless' The Child
+2334|RBK1-6ed-F|161|Golden Lady
+2335|RBK1-6ed-F|162|Good Evening Mr. And Mrs. America
+2336|RBK1-6ed-F|164|Grand Central
+2337|RBK1-6ed-F|165|Green Mountains, The
+2338|RBK1-6ed-F|166|Groovin' High
+2339|RBK1-6ed-F|167|Grow Your Own
+2340|RBK1-6ed-F|168|Guilty
+2341|RBK1-6ed-F|169|Gypsy In My Soul
+2342|RBK1-6ed-F|170|Half Nelson
+2343|RBK1-6ed-F|172|Have You Met Miss Jones?
+2344|RBK1-6ed-F|173|Heaven
+2345|RBK1-6ed-F|174|Heebie Jeebies
+2346|RBK1-6ed-F|175|Here's That Rainy Day
+2347|RBK1-6ed-F|176|Hello, Young Lovers
+2348|RBK1-6ed-F|178|Hot Toddy
+2349|RBK1-6ed-F|179|House Of Jade
+2350|RBK1-6ed-F|180|How High The Moon
+2351|RBK1-6ed-F|181|How Insensitive
+2352|RBK1-6ed-F|182|How My Heart Sings
+2353|RBK1-6ed-F|183|Hullo Bolinas
+2354|RBK1-6ed-F|184|I Can't Get Started With You
+2355|RBK1-6ed-F|185|I Can't Give You Anything But Love
+2356|RBK1-6ed-F|186|I Could Write A Book
+2357|RBK1-6ed-F|187|I Got It Bad And That Ain't Good
+2358|RBK1-6ed-F|188|I Let A Song Go Out Of My Heart
+2359|RBK1-6ed-F|189|I Love Paris
+2360|RBK1-6ed-F|190|I Love You
+2361|RBK1-6ed-F|191|I Mean You
+2362|RBK1-6ed-F|192|I Remember Clifford
+2363|RBK1-6ed-F|194|I Should Care
+2364|RBK1-6ed-F|195|I Wish I Knew How It Would Feel To Be Free
+2365|RBK1-6ed-F|196|I'll Never Smile Again
+2366|RBK1-6ed-F|197|I'll Remember April
+2367|RBK1-6ed-F|198|I'm All Smiles
+2368|RBK1-6ed-F|200|I'm Beginning To See The Light
+2369|RBK1-6ed-F|201|I'm Your Pal
+2370|RBK1-6ed-F|202|Icarus
+2371|RBK1-6ed-F|204|If You Never Come To Me
+2372|RBK1-6ed-F|205|Impressions
+2373|RBK1-6ed-F|206|In A Mellow Tone
+2374|RBK1-6ed-F|207|In A Sentimental Mood
+2375|RBK1-6ed-F|208|In The Mood
+2376|RBK1-6ed-F|210|In The Wee Small Hours Of The Morning
+2377|RBK1-6ed-F|211|In Your Quiet Place
+2378|RBK1-6ed-F|212|Inch Worm, The
+2379|RBK1-6ed-F|213|Indian Lady
+2380|RBK1-6ed-F|214|Inner Urge
+2381|RBK1-6ed-F|215|Interplay
+2382|RBK1-6ed-F|216|Intrepid Fox, The
+2383|RBK1-6ed-F|217|Invitation
+2384|RBK1-6ed-F|218|Iris
+2385|RBK1-6ed-F|219|Isn't It Romantic?
+2386|RBK1-6ed-F|220|Is You Is, Or Is You Ain't (Ma' Baby)
+2387|RBK1-6ed-F|222|Isotope
+2388|RBK1-6ed-F|223|Israel
+2389|RBK1-6ed-F|224|It Don't Mean A Thing (If It Ain't Got That Swing)
+2390|RBK1-6ed-F|225|It's Easy To Remember
+2391|RBK1-6ed-F|226|Jelly Roll
+2392|RBK1-6ed-F|227|Jordu
+2393|RBK1-6ed-F|228|Journey To Recife
+2394|RBK1-6ed-F|229|Joy Spring
+2395|RBK1-6ed-F|230|Juju
+2396|RBK1-6ed-F|231|June In January
+2397|RBK1-6ed-F|232|Jump Monk
+2398|RBK1-6ed-F|234|Just One More Chance
+2399|RBK1-6ed-F|235|Lady Bird
+2400|RBK1-6ed-F|236|Kelo
+2401|RBK1-6ed-F|238|Lady Sings The Blues
+2402|RBK1-6ed-F|239|Lament
+2403|RBK1-6ed-F|240|Las Vegas Tango
+2404|RBK1-6ed-F|241|Lazy Bird
+2405|RBK1-6ed-F|242|Lazy River
+2406|RBK1-6ed-F|243|Like Someone In Love
+2407|RBK1-6ed-F|244|Limehouse Blues
+2408|RBK1-6ed-F|245|Little Boat
+2409|RBK1-6ed-F|246|Lines And Spaces
+2410|RBK1-6ed-F|248|Litha
+2411|RBK1-6ed-F|250|Little Waltz
+2412|RBK1-6ed-F|251|Long Ago (And Far Away)
+2413|RBK1-6ed-F|252|Lonnie's Lament
+2414|RBK1-6ed-F|253|Look To The Sky
+2415|RBK1-6ed-F|254|Love Is The Sweetest Thing
+2416|RBK1-6ed-F|255|Lucky Southern
+2417|RBK1-6ed-F|256|Lullaby Of Birdland
+2418|RBK1-6ed-F|257|Magician In You, The
+2419|RBK1-6ed-F|258|Lush Life
+2420|RBK1-6ed-F|260|Mahjong
+2421|RBK1-6ed-F|261|Maiden Voyage
+2422|RBK1-6ed-F|262|A Man And A Woman
+2423|RBK1-6ed-F|264|Man In The Green Shirt
+2424|RBK1-6ed-F|266|Meditation
+2425|RBK1-6ed-F|267|Memories Of Tomorrow
+2426|RBK1-6ed-F|268|Michelle
+2427|RBK1-6ed-F|269|Midnight Mood
+2428|RBK1-6ed-F|270|Midwestern Nights Dream
+2429|RBK1-6ed-F|272|Milano
+2430|RBK1-6ed-F|273|Minority
+2431|RBK1-6ed-F|274|Miss Ann
+2432|RBK1-6ed-F|275|Missouri Uncompromised
+2433|RBK1-6ed-F|276|Mr. P.C.
+2434|RBK1-6ed-F|277|Misty
+2435|RBK1-6ed-F|278|Miyako
+2436|RBK1-6ed-F|279|Mood Indigo
+2437|RBK1-6ed-F|280|Moment's Notice
+2438|RBK1-6ed-F|282|Moonchild
+2439|RBK1-6ed-F|283|Most Beautiful Girl In The World, The
+2440|RBK1-6ed-F|284|My Buddy
+2441|RBK1-6ed-F|285|My Favorite Things
+2442|RBK1-6ed-F|286|My Foolish Heart
+2443|RBK1-6ed-F|287|My Funny Valentine
+2444|RBK1-6ed-F|288|My One And Only Love
+2445|RBK1-6ed-F|289|My Romance
+2446|RBK1-6ed-F|290|My Shining Hour
+2447|RBK1-6ed-F|291|My Ship
+2448|RBK1-6ed-F|292|My Way
+2449|RBK1-6ed-F|293|Naima
+2450|RBK1-6ed-F|294|Mysterious Traveller
+2451|RBK1-6ed-F|296|Nardis
+2452|RBK1-6ed-F|297|Nefertiti
+2453|RBK1-6ed-F|298|Never Will I Marry
+2454|RBK1-6ed-F|299|Nica's Dream
+2455|RBK1-6ed-F|300|Night Dreamer
+2456|RBK1-6ed-F|301|Night Has A Thousand Eyes, The
+2457|RBK1-6ed-F|302|A Night In Tunisia
+2458|RBK1-6ed-F|303|Nobody Knows You When You're Down And Out
+2459|RBK1-6ed-F|304|Night Train
+2460|RBK1-6ed-F|306|Nostalgia In Times Square
+2461|RBK1-6ed-F|307|Nuages
+2462|RBK1-6ed-F|308|(Old Man From) The Old Country
+2463|RBK1-6ed-F|309|Oleo
+2464|RBK1-6ed-F|310|Oliloqui Valley
+2465|RBK1-6ed-F|311|Once I Loved
+2466|RBK1-6ed-F|312|Once In Love With Amy
+2467|RBK1-6ed-F|313|One Finger Snap
+2468|RBK1-6ed-F|314|One Note Samba
+2469|RBK1-6ed-F|315|Only Trust Your Heart
+2470|RBK1-6ed-F|316|Orbits
+2471|RBK1-6ed-F|317|Ornithology
+2472|RBK1-6ed-F|318|Out Of Nowhere
+2473|RBK1-6ed-F|319|Paper Doll
+2474|RBK1-6ed-F|320|Passion Dance
+2475|RBK1-6ed-F|321|Passion Flower
+2476|RBK1-6ed-F|322|Peace
+2477|RBK1-6ed-F|323|Peggy'S Blue Skylight
+2478|RBK1-6ed-F|324|Pent Up House
+2479|RBK1-6ed-F|325|Penthouse Serenade
+2480|RBK1-6ed-F|326|Peri'S Scope
+2481|RBK1-6ed-F|327|Pfrancing (No Blues)
+2482|RBK1-6ed-F|328|Pinocchio
+2483|RBK1-6ed-F|329|Pithecanthropus Erectus
+2484|RBK1-6ed-F|330|Porthsmouth Figurations
+2485|RBK1-6ed-F|331|Prelude To A Kiss
+2486|RBK1-6ed-F|332|Prince Of Darkness
+2487|RBK1-6ed-F|333|P.S I Love You
+2488|RBK1-6ed-F|334|Pussy Cat Dues
+2489|RBK1-6ed-F|335|Quiet Nights Of Quiet Stars (Corcovado)
+2490|RBK1-6ed-F|336|Quiet Now
+2491|RBK1-6ed-F|337|Recorda-Me
+2492|RBK1-6ed-F|338|Red Clay
+2493|RBK1-6ed-F|340|Reflections
+2494|RBK1-6ed-F|341|Ring Dem Bells
+2495|RBK1-6ed-F|342|Reincarnation Of A Lovebird
+2496|RBK1-6ed-F|344|Road Song
+2497|RBK1-6ed-F|345|Round Midnight
+2498|RBK1-6ed-F|346|Ruby, My Dear
+2499|RBK1-6ed-F|348|Saga Of Harrison Crabfeathers, The
+2500|RBK1-6ed-F|349|Satin Doll
+2501|RBK1-6ed-F|350|Scotch And Soda
+2502|RBK1-6ed-F|351|Scrapple From The Apple
+2503|RBK1-6ed-F|352|Sea Journey
+2504|RBK1-6ed-F|354|Seven Come Eleven
+2505|RBK1-6ed-F|355|Sidewinder
+2506|RBK1-6ed-F|356|Seven Steps To Heaven
+2507|RBK1-6ed-F|358|Silver Hollow
+2508|RBK1-6ed-F|359|Sirabhorn
+2509|RBK1-6ed-F|360|Skating In Central Park
+2510|RBK1-6ed-F|362|So Nice (Summer Samba)
+2511|RBK1-6ed-F|363|Solar
+2512|RBK1-6ed-F|364|So What
+2513|RBK1-6ed-F|366|Solitude
+2514|RBK1-6ed-F|367|Some Day My Prince Will Come
+2515|RBK1-6ed-F|368|Some Other Spring
+2516|RBK1-6ed-F|369|Somebody Loves Me
+2517|RBK1-6ed-F|370|Some Skunk Funk
+2518|RBK1-6ed-F|372|Sometime Ago
+2519|RBK1-6ed-F|373|Song For My Father
+2520|RBK1-6ed-F|374|Song Is You, The
+2521|RBK1-6ed-F|376|Sophisticated Lady
+2522|RBK1-6ed-F|377|Sorcerer, The
+2523|RBK1-6ed-F|378|Speak No Evil
+2524|RBK1-6ed-F|379|Sphinx, The
+2525|RBK1-6ed-F|380|Standing On The Corner
+2526|RBK1-6ed-F|381|Star-Crossed Lovers, The
+2527|RBK1-6ed-F|382|Stella By Starlight
+2528|RBK1-6ed-F|383|Steps
+2529|RBK1-6ed-F|384|Stolen Moments
+2530|RBK1-6ed-F|385|Stompin' At The Savoy
+2531|RBK1-6ed-F|386|Straight No Chaser
+2532|RBK1-6ed-F|387|Sugar
+2533|RBK1-6ed-F|388|A String Of Pearls
+2534|RBK1-6ed-F|390|Stuff
+2535|RBK1-6ed-F|392|A Sunday King Of Love
+2536|RBK1-6ed-F|393|Surrey With The Fringe On Top, The
+2537|RBK1-6ed-F|394|Swedish Pastry
+2538|RBK1-6ed-F|395|Sweet Georgia Bright
+2539|RBK1-6ed-F|396|Sweet Henry
+2540|RBK1-6ed-F|397|Take Five
+2541|RBK1-6ed-F|398|Take The "A" Train
+2542|RBK1-6ed-F|399|Thanks For The Memory
+2543|RBK1-6ed-F|400|Tame Thy Pen
+2544|RBK1-6ed-F|402|Tell Me A Bedtime Story
+2545|RBK1-6ed-F|404|That's Amore
+2546|RBK1-6ed-F|406|There Is No Greater Love
+2547|RBK1-6ed-F|407|There Will Never Be Another You
+2548|RBK1-6ed-F|408|There'll Be Some Changes Made
+2549|RBK1-6ed-F|409|They Didn't Believe Me
+2550|RBK1-6ed-F|410|Think On Me
+2551|RBK1-6ed-F|411|Thou Swell
+2552|RBK1-6ed-F|412|Three Flowers
+2553|RBK1-6ed-F|413|Time Remembered
+2554|RBK1-6ed-F|414|Tones For Joan's Bones
+2555|RBK1-6ed-F|415|Topsy
+2556|RBK1-6ed-F|416|Tour De Force
+2557|RBK1-6ed-F|417|Triste
+2558|RBK1-6ed-F|418|Tune Up
+2559|RBK1-6ed-F|419|Turn Out The Stars
+2560|RBK1-6ed-F|420|Twisted Blues
+2561|RBK1-6ed-F|421|Uniquity Road
+2562|RBK1-6ed-F|422|Unchain My Heart
+2563|RBK1-6ed-F|424|Unity Village
+2564|RBK1-6ed-F|425|Up Jumped Spring
+2565|RBK1-6ed-F|426|Upper Manhattan Medical Group
+2566|RBK1-6ed-F|427|Valse Hot
+2567|RBK1-6ed-F|428|Very Early
+2568|RBK1-6ed-F|429|Virgo
+2569|RBK1-6ed-F|430|Wait Till You See Her
+2570|RBK1-6ed-F|431|Wave
+2571|RBK1-6ed-F|432|Waltz For Debby
+2572|RBK1-6ed-F|434|We'll Be Together Again
+2573|RBK1-6ed-F|435|Well You Needn't
+2574|RBK1-6ed-F|436|West Coast Blues
+2575|RBK1-6ed-F|437|What Am I Here For?
+2576|RBK1-6ed-F|438|What Was
+2577|RBK1-6ed-F|439|When I Fall In Love
+2578|RBK1-6ed-F|440|When Sunny Gets Blue
+2579|RBK1-6ed-F|441|When You Wish Upon A Star
+2580|RBK1-6ed-F|442|Whispering
+2581|RBK1-6ed-F|443|Windows
+2582|RBK1-6ed-F|444|Wild Flower
+2583|RBK1-6ed-F|446|Witch Hunt
+2584|RBK1-6ed-F|447|Woodchopper's Ball
+2585|RBK1-6ed-F|448|Wives And Lovers
+2586|RBK1-6ed-F|450|Woodyn' You
+2587|RBK1-6ed-F|451|World Is Waiting For The Sunrise, The
+2588|RBK1-6ed-F|452|Yes And No
+2589|RBK1-6ed-F|453|Yesterday
+2590|RBK1-6ed-F|454|Yesterdays
+2591|RBK1-6ed-F|455|You Are Too Beautiful
+2592|RBK1-6ed-F|456|You Are The Sunshine Of My Life
+2593|RBK1-6ed-F|458|You Brought A New Kind Of Love To Me
+2594|RBK1-6ed-F|459|You Don't Know What Love Is
+2595|RBK1-6ed-F|460|You Took Advantage Of Me
+2596|RBK1-6ed-F|461|Young At Heart
+2597|RBK1-6ed-F|462|You're Nobody 'Til Somebody Loves You
+2598|RBK2|1|Ablution
+2599|RBK2|2|Affirmation
+2600|RBK2|3|Airmail Special
+2601|RBK2|4|Alfie's Theme
+2602|RBK2|5|All Alone
+2603|RBK2|6|All God's Chillun Got Rhythm
+2604|RBK2|7|Altoitis
+2605|RBK2|8|Another Star
+2606|RBK2|9|April Skies
+2607|RBK2|10|April
+2608|RBK2|12|Ask Me Now
+2609|RBK2|13|Avalon
+2610|RBK2|14|Backstage Sally
+2611|RBK2|15|Bags And Trane
+2612|RBK2|16|Bags'groove
+2613|RBK2|17|Barbados
+2614|RBK2|18|Barbara
+2615|RBK2|19|Basin Street Blues
+2616|RBK2|20|Ba-Lue Bolivar Ba-Lues-Are
+2617|RBK2|20|Beethoven's Blue 3rd
+2618|RBK2|21|Be Bop
+2619|RBK2|22|Better Git It In Your Soul
+2620|RBK2|23|Beyond All Limits
+2621|RBK2|24|Billie's Bounce
+2622|RBK2|25|Birth Of The Blues
+2623|RBK2|26|Birdland
+2624|RBK2|28|Black And Tan Fantasy
+2625|RBK2|29|Bloondido
+2626|RBK2|30|Blue And Sentimental
+2627|RBK2|31|Blue Moon
+2628|RBK2|32|Blue A La Mode
+2629|RBK2|32|Blues Connotation
+2630|RBK2|33|Blue Seven
+2631|RBK2|33|Blues By Five
+2632|RBK2|34|Blues For Philly Joe
+2633|RBK2|34|Blues For Wood
+2634|RBK2|35|Blue Silver
+2635|RBK2|36|Blues In The Closet
+2636|RBK2|37|Birk's Work
+2637|RBK2|37|Buster Rides Again
+2638|RBK2|38|Boogie Stop Shuffle
+2639|RBK2|39|Booker's Waltz
+2640|RBK2|40|Bouncing With Bud
+2641|RBK2|41|Branilian Beat
+2642|RBK2|42|Brain's Song
+2643|RBK2|43|Bright Boy
+2644|RBK2|44|Bright Moments
+2645|RBK2|45|Brilliant Corners
+2646|RBK2|46|Brown Skin Girl
+2647|RBK2|47|Budo
+2648|RBK2|48|Bud's Bubble
+2649|RBK2|49|Bunko
+2650|RBK2|50|But Not For Me
+2651|RBK2|51|Bye Bye Blackbird
+2652|RBK2|52|Can't We Be Friends
+2653|RBK2|53|Caravan
+2654|RBK2|54|Careful
+2655|RBK2|55|"C" Jam Blues
+2656|RBK2|55|Careless Love
+2657|RBK2|56|Catch Me
+2658|RBK2|57|C'est What
+2659|RBK2|58|Chameleon
+2660|RBK2|59|Chase, The
+2661|RBK2|60|Cheese Cake
+2662|RBK2|61|Circle
+2663|RBK2|62|Chasin'the Train
+2664|RBK2|62|Cousin Mary
+2665|RBK2|63|Come Rain Or Come Shine
+2666|RBK2|64|Comin'home Baby
+2667|RBK2|64|Cool Blues
+2668|RBK2|65|Confessin (That I Love You)
+2669|RBK2|66|Cookin
+2670|RBK2|66|Core, The
+2671|RBK2|67|Crazeology
+2672|RBK2|68|Criss/Cross
+2673|RBK2|69|Cute
+2674|RBK2|70|Cork "N" Bib
+2675|RBK2|70|Duff
+2676|RBK2|71|A Day In Vienna
+2677|RBK2|72|Deep Purple
+2678|RBK2|73|Dewey Square
+2679|RBK2|74|Diane
+2680|RBK2|75|Dindi
+2681|RBK2|76|Domingo
+2682|RBK2|77|Do Nothing Till You Hear From Me
+2683|RBK2|78|Down For Double
+2684|RBK2|79|Doxy
+2685|RBK2|80|Do You Know What It Means (To Miss New Orleans)
+2686|RBK2|81|Drive, The
+2687|RBK2|82|Early Autumn
+2688|RBK2|83|Eclypso
+2689|RBK2|84|Elora
+2690|RBK2|85|Embraceable You
+2691|RBK2|86|Enchance
+2692|RBK2|87|Epilogue
+2693|RBK2|88|Evening In Concert
+2694|RBK2|89|Everything I Have Is Yours
+2695|RBK2|90|Eye Of The Hurricane
+2696|RBK2|91|Ezz-Thetic
+2697|RBK2|92|E.K.'S Blues
+2698|RBK2|92|Einbahnstrasse
+2699|RBK2|93|52nd Street Theme
+2700|RBK2|94|Feels So Good
+2701|RBK2|96|First Moves
+2702|RBK2|97|First Trip
+2703|RBK2|98|Five Brothers
+2704|RBK2|99|Flim Flam
+2705|RBK2|100|Flinstone's Theme
+2706|RBK2|101|A Flower Is A Lonesome Thing
+2707|RBK2|102|Fly By Night
+2708|RBK2|104|Five Spot After Dark
+2709|RBK2|104|Funk Dumplin
+2710|RBK2|105|Flying Home
+2711|RBK2|106|Fly Me To The Moon
+2712|RBK2|107|Fools Rush In
+2713|RBK2|108|For Minors Only
+2714|RBK2|109|Four Brothers
+2715|RBK2|110|Fox Hunt
+2716|RBK2|111|Freddie Froo
+2717|RBK2|112|Free Cell Block "F", Tis Nazi U.S.A
+2718|RBK2|114|Friday The 13th
+2719|RBK2|116|Free
+2720|RBK2|116|Funky
+2721|RBK2|117|Games People Play
+2722|RBK2|117|Gettin' It Togetha'
+2723|RBK2|118|Gentle Wind And Falling Tear
+2724|RBK2|119|Georgia
+2725|RBK2|120|Get Out Of Town
+2726|RBK2|121|A Ghost Of A Chance
+2727|RBK2|122|Gentle Rain
+2728|RBK2|122|Girl Talk
+2729|RBK2|123|Good Bait
+2730|RBK2|124|Golden Notebooks
+2731|RBK2|126|Gregory Is Here
+2732|RBK2|128|Groove Merchant
+2733|RBK2|129|Groove Yard
+2734|RBK2|130|Groovy Samba
+2735|RBK2|131|Hackensack
+2736|RBK2|132|Hallucinations
+2737|RBK2|133|Happy Little Sunbeam
+2738|RBK2|134|Havona
+2739|RBK2|136|Harlequin
+2740|RBK2|137|Head And Shoulders
+2741|RBK2|138|Here's That Sunny Day
+2742|RBK2|140|Hello
+2743|RBK2|141|Hi Beck
+2744|RBK2|142|Ho-Ba-La-La
+2745|RBK2|143|Hocus Pocus
+2746|RBK2|144|Horizon
+2747|RBK2|146|Horacescope
+2748|RBK2|147|Hummin'
+2749|RBK2|148|Humpty Dumpty
+2750|RBK2|149|Ice Cream Konitz
+2751|RBK2|150|I Believe In You
+2752|RBK2|152|I Cover The Waterfront
+2753|RBK2|153|Idol Gossip
+2754|RBK2|154|If I Loved You
+2755|RBK2|155|If I Should Lose You
+2756|RBK2|156|If I Were A Bell
+2757|RBK2|157|If You Could See Me Now
+2758|RBK2|158|I Get A Kick Out Of You
+2759|RBK2|160|I Bear A Rhapsody
+2760|RBK2|161|I'm A Fool To Want You
+2761|RBK2|162|Imagination
+2762|RBK2|163|I'm Gettin' Sentimental Over You
+2763|RBK2|164|In Case You Haven't Heard
+2764|RBK2|165|Incentive
+2765|RBK2|166|Indiana
+2766|RBK2|167|In Pursuit Of The 27th Man
+2767|RBK2|168|In Waked Bud
+2768|RBK2|169|I Remember You
+2769|RBK2|170|Island Birdie
+2770|RBK2|171|Is It Really True?
+2771|RBK2|172|It Could Happen To You
+2772|RBK2|173|It Had To Be You
+2773|RBK2|174|I Thought About You
+2774|RBK2|175|It's Only A Paper Moon
+2775|RBK2|176|It Might As Well Be Spring
+2776|RBK2|178|I've Found A New Baby
+2777|RBK2|179|I Will Wait For You
+2778|RBK2|179|Jackie
+2779|RBK2|180|Jaco
+2780|RBK2|181|Jeanine
+2781|RBK2|182|Je Ne Sais Pas
+2782|RBK2|183|Jody Grind, The
+2783|RBK2|184|Jitterbug Waltz
+2784|RBK2|186|Jorgie's
+2785|RBK2|187|Joyce's Samba
+2786|RBK2|188|Joy To The World
+2787|RBK2|188|Jumping With Symphany Sid
+2788|RBK2|189|Jump For Me
+2789|RBK2|190|Just A Few
+2790|RBK2|191|Just A-Sittin' And A-Rockin'
+2791|RBK2|192|Just In Time
+2792|RBK2|193|Just You, Just Me
+2793|RBK2|194|Just The Way You Are
+2794|RBK2|196|Kary's France
+2795|RBK2|197|Katrina Ballerina
+2796|RBK2|198|Kentucky Oysters
+2797|RBK2|198|Kicker, The
+2798|RBK2|199|Kids Are Pretty People
+2799|RBK2|200|Killer Joe
+2800|RBK2|201|Lady's Blues
+2801|RBK2|202|Lakes
+2802|RBK2|203|Laura
+2803|RBK2|204|Last Page, The
+2804|RBK2|206|La Nevada Blues
+2805|RBK2|206|Limbo
+2806|RBK2|207|Leile
+2807|RBK2|208|Lennie's Penies
+2808|RBK2|209|Lester Leaps In
+2809|RBK2|210|Let's Cook One
+2810|RBK2|211|Liberated Brother
+2811|RBK2|212|Lies
+2812|RBK2|213|Light As A Feather
+2813|RBK2|214|Like Sonny
+2814|RBK2|215|A Little Chicago Fire
+2815|RBK2|216|Little Sunflower
+2816|RBK2|217|Locomotion
+2817|RBK2|218|Lone Jack
+2818|RBK2|220|Lonely Dreams
+2819|RBK2|221|Lover
+2820|RBK2|222|Love For Sale
+2821|RBK2|224|Lover Man
+2822|RBK2|225|Love Vibrations
+2823|RBK2|226|Lydian April
+2824|RBK2|227|Lennie-Bird
+2825|RBK2|227|Mr. Clean
+2826|RBK2|228|Make Someone Happy
+2827|RBK2|229|Man I Love, The
+2828|RBK2|230|Masquerade
+2829|RBK2|231|May-Reh
+2830|RBK2|232|Mellow Mood
+2831|RBK2|233|Memories Of You
+2832|RBK2|234|Menina Flor
+2833|RBK2|234|Monk's Mood
+2834|RBK2|235|Mercy, Mercy, Mercy
+2835|RBK2|236|Miles Ahead
+2836|RBK2|237|Minor Mishap
+2837|RBK2|238|Minor Mood
+2838|RBK2|239|Moak's Shop
+2839|RBK2|240|Moanin'
+2840|RBK2|241|Modesty Blues
+2841|RBK2|243|Monk's Sphere
+2842|RBK2|243|Mystic Touch
+2843|RBK2|244|Moon Glow
+2844|RBK2|245|Moon Rays
+2845|RBK2|246|Moontrane
+2846|RBK2|247|Moose The Mooche
+2847|RBK2|248|Morning
+2848|RBK2|249|Moten's Swing
+2849|RBK2|250|Move
+2850|RBK2|251|Moving Out
+2851|RBK2|252|Mr. Broadway, Theme From
+2852|RBK2|253|Mr. Jones
+2853|RBK2|254|Mr. Magic
+2854|RBK2|255|Mr. Sims
+2855|RBK2|256|Mrs. Miniver
+2856|RBK2|257|Muezzin'
+2857|RBK2|258|My Little Suede Sheets
+2858|RBK2|259|My Old Flame
+2859|RBK2|260|Nature Boy
+2860|RBK2|261|Nearness Of You, The
+2861|RBK2|262|A New Thing
+2862|RBK2|263|No Me Esqueca
+2863|RBK2|264|No Moe
+2864|RBK2|265|Nancy Joe
+2865|RBK2|265|Now's The Time
+2866|RBK2|266|North Atlantic Run
+2867|RBK2|268|No Splice
+2868|RBK2|269|Nutville
+2869|RBK2|270|Off Minor
+2870|RBK2|270|On The Trail
+2871|RBK2|271|Oh Lady Be Good!
+2872|RBK2|272|Old Devil Moon
+2873|RBK2|273|On A Clear Day
+2874|RBK2|274|Once In Awhile
+2875|RBK2|275|One By One
+2876|RBK2|276|One Foot In The Gutter
+2877|RBK2|277|On The Stairs
+2878|RBK2|278|One For Daddy-O
+2879|RBK2|278|Opus De Funk
+2880|RBK2|279|Our Love Is Here To Stay
+2881|RBK2|280|Out Back Of The Barn
+2882|RBK2|281|Pannonica
+2883|RBK2|282|Palo-Alto
+2884|RBK2|284|Patterns
+2885|RBK2|286|Pennies From Heaven
+2886|RBK2|287|Penny Arcade
+2887|RBK2|288|Perdido
+2888|RBK2|290|Perdido Line
+2889|RBK2|292|People Will Say We're In Love
+2890|RBK2|293|Petite Fleure
+2891|RBK2|294|Petits Machins
+2892|RBK2|295|Pick Yourself Up
+2893|RBK2|296|Phase Dance
+2894|RBK2|297|Polka Dots And Moonbeams
+2895|RBK2|298|Portrait Of Jennie
+2896|RBK2|299|Pragression
+2897|RBK2|300|Preacher, The
+2898|RBK2|300|Pursuance
+2899|RBK2|301|Quicksilver
+2900|RBK2|302|Recado Bossa Nova
+2901|RBK2|303|Red Cross
+2902|RBK2|304|A Remark You Made
+2903|RBK2|306|Robbin's Nest
+2904|RBK2|307|Ramblin'
+2905|RBK2|307|Round Trip
+2906|RBK2|308|Rubberneck
+2907|RBK2|309|Rhythm-A-Ning
+2908|RBK2|310|Salt Peanuts
+2909|RBK2|311|Samba Du Bois
+2910|RBK2|312|728
+2911|RBK2|312|Sandu
+2912|RBK2|313|September In The Rain
+2913|RBK2|314|September Song
+2914|RBK2|315|Saint Thomas
+2915|RBK2|315|Serene
+2916|RBK2|316|Serenade To A Soul Sister
+2917|RBK2|317|Seventeen West
+2918|RBK2|317|Song For My Lady
+2919|RBK2|318|Shiny Stockings
+2920|RBK2|319|Serenity
+2921|RBK2|319|Some Other Blues
+2922|RBK2|320|Silver's Serenade
+2923|RBK2|321|Simone
+2924|RBK2|322|Short Stop
+2925|RBK2|322|Shutter Bug
+2926|RBK2|323|Summer Time
+2927|RBK2|323|Swingin' Shephard Blues
+2928|RBK2|324|Sister Sadie
+2929|RBK2|325|Saint James Infirmary
+2930|RBK2|325|Sippin' At Bell's
+2931|RBK2|326|Slipped Disc
+2932|RBK2|328|Slow, Hot; Wind
+2933|RBK2|329|Smoke Gets In Your Eyes
+2934|RBK2|330|Softly As A Morning Sunrise
+2935|RBK2|331|Someone To Watch Over Me
+2936|RBK2|332|Song For Bilbad
+2937|RBK2|333|Soul Eyes
+2938|RBK2|334|Soultrane
+2939|RBK2|335|Sound Lee
+2940|RBK2|336|Speak Like A Child
+2941|RBK2|337|Speak Low
+2942|RBK2|338|Spiral
+2943|RBK2|339|Spring Can Really Hang You Up The Most
+2944|RBK2|340|Stardust
+2945|RBK2|341|Star Eyes
+2946|RBK2|342|Street Louis Blues
+2947|RBK2|343|Straight Life
+2948|RBK2|344|Strayhorn 2
+2949|RBK2|345|Strode Rode
+2950|RBK2|346|Strollin'
+2951|RBK2|347|Struttin' With Some Bar-B-Q
+2952|RBK2|348|Sub-Conscious-Lee
+2953|RBK2|349|Summer In Central Park
+2954|RBK2|350|Summer Knows, The
+2955|RBK2|351|Sunshine Express
+2956|RBK2|352|Sweetest Sounds, The
+2957|RBK2|352|Theme From Mr. Broadway
+2958|RBK2|353|Sweet Georgia Brown
+2959|RBK2|354|Syeeda's Song Flute
+2960|RBK2|356|Short Riff
+2961|RBK2|356|Thumper, The
+2962|RBK2|357|Tadd's Delight
+2963|RBK2|358|Taking A Chance On Love
+2964|RBK2|359|Tangerine
+2965|RBK2|360|Tautology
+2966|RBK2|361|Teenie' Blues
+2967|RBK2|361|Twisted
+2968|RBK2|362|Tenderly
+2969|RBK2|363|Theirs Tears
+2970|RBK2|364|These Foolish Things (Remind Me Of You)
+2971|RBK2|365|Things Ain't What They Used To Be
+2972|RBK2|366|Things To Come
+2973|RBK2|367|This I Dig Of You
+2974|RBK2|368|Thriving On A Riff
+2975|RBK2|369|Tickle-Toe
+2976|RBK2|370|Till There Was You
+2977|RBK2|371|Time After Time
+2978|RBK2|372|Tippin'
+2979|RBK2|373|Tomorrow's Destiny
+2980|RBK2|374|Toad's Place
+2981|RBK2|376|Tenor Madness
+2982|RBK2|376|Trane's Blues
+2983|RBK2|377|Turn Around
+2984|RBK2|378|Two Not One
+2985|RBK2|379|Vonetta
+2986|RBK2|380|Walkin'shoes
+2987|RBK2|381|Walkin'thing,A
+2988|RBK2|382|Walk Tall
+2989|RBK2|383|Wall Street
+2990|RBK2|384|Watch What Happens
+2991|RBK2|385|Water Colors
+2992|RBK2|386|Watersign
+2993|RBK2|388|Way You Look Tonight,The
+2994|RBK2|389|Weekend Blues
+2995|RBK2|390|Wendy
+2996|RBK2|391|What's New
+2997|RBK2|392|When Lights Are Low
+2998|RBK2|393|Whisper Not
+2999|RBK2|394|Who Can I Turn To
+3000|RBK2|395|Whopper,The
+3001|RBK2|396|Willow Weep For Me
+3002|RBK2|397|Wow
+3003|RBK2|398|Wrong Is Right
+3004|RBK2|399|Work Song
+3005|RBK2|399|You Better Leave It Alone
+3006|RBK2|400|Yana Amina
+3007|RBK2|401|Yardbird Suite
+3008|RBK2|402|You Stepped Out Of A Dream
+3009|RBK2|403|Oye Como Ya
+3010|RBK2|403|You'd Be So Nice To Come Home To
+3011|RBK2|404|Big P
+3012|RBK2|405|Bills'hit Tune
+3013|RBK2|406|Bohemia After Dark
+3014|RBK2|407|Byrdlike
+3015|RBK2|407|Hi Fly
+3016|RBK2|408|Decision
+3017|RBK2|408|Luner Tune
+3018|RBK2|409|Little Rootie Tootie
+3019|RBK2|410|Manteca
+3020|RBK2|411|Scene Is Clean, The
+3021|RBK2|412|A Sleeping Bee
+3022|RBK2|413|Three Base Hit
+3023|RBK2|414|Webb City
+3024|RBK2-F|1|Ablution
+3025|RBK2-F|2|Affirmation
+3026|RBK2-F|3|Airmail Special
+3027|RBK2-F|4|Alfie's Theme
+3028|RBK2-F|5|All Alone
+3029|RBK2-F|6|All God's Chillun Got Rhythm
+3030|RBK2-F|7|Altoitis
+3031|RBK2-F|8|Another Star
+3032|RBK2-F|9|April Skies
+3033|RBK2-F|10|April
+3034|RBK2-F|12|Ask Me Now
+3035|RBK2-F|13|Avaion
+3036|RBK2-F|13|Avalon
+3037|RBK2-F|14|Backstage Sally
+3038|RBK2-F|15|Bags And Trane
+3039|RBK2-F|16|Bags' Groove
+3040|RBK2-F|17|Barbados
+3041|RBK2-F|18|Barbara
+3042|RBK2-F|19|Basin Street Blues
+3043|RBK2-F|20|Ba-Lue Bolivar Ba-Lues-Are
+3044|RBK2-F|20|Beethoven's Blue 3rd
+3045|RBK2-F|21|Be Bop
+3046|RBK2-F|22|Better Git It In Your Soul
+3047|RBK2-F|23|Beyond All Limits
+3048|RBK2-F|24|Billie's Bounce
+3049|RBK2-F|25|Birth Of The Blues
+3050|RBK2-F|26|Birdland
+3051|RBK2-F|28|Black And Tan Fantasy
+3052|RBK2-F|29|Bloomdido
+3053|RBK2-F|30|Blue And Sentimental
+3054|RBK2-F|31|Blue Moon
+3055|RBK2-F|32|Blue A La Mode
+3056|RBK2-F|32|Blue À La Mode
+3057|RBK2-F|32|Blues Connotation
+3058|RBK2-F|33|Blue Seven
+3059|RBK2-F|33|Blues By Five
+3060|RBK2-F|34|Blues For Philly Joe
+3061|RBK2-F|34|Blues For Wood
+3062|RBK2-F|35|Blue Silver
+3063|RBK2-F|36|Blues In The Closet
+3064|RBK2-F|37|Birk's Works
+3065|RBK2-F|37|Buster Rides Again
+3066|RBK2-F|38|Boogie Stop Shuffle
+3067|RBK2-F|39|Booker's Waltz
+3068|RBK2-F|40|Bouncing With Bud
+3069|RBK2-F|41|Branilian Beat
+3070|RBK2-F|42|Brian's Song
+3071|RBK2-F|43|Bright Boy
+3072|RBK2-F|44|Bright Moments
+3073|RBK2-F|45|Brilliant Corners
+3074|RBK2-F|46|Brown Skin Girl
+3075|RBK2-F|47|Budo
+3076|RBK2-F|48|Bud's Bubble
+3077|RBK2-F|49|Bunko
+3078|RBK2-F|50|But Not For Me
+3079|RBK2-F|51|Bye Bye Blackbird
+3080|RBK2-F|52|Can't We Be Friends
+3081|RBK2-F|53|Caravan
+3082|RBK2-F|54|Careful
+3083|RBK2-F|55|"C" Jam Blues
+3084|RBK2-F|55|Careless Love
+3085|RBK2-F|55|“C” Jam Blues
+3086|RBK2-F|56|Catch Me
+3087|RBK2-F|57|C'est What
+3088|RBK2-F|58|Chameleon
+3089|RBK2-F|59|Chase, The
+3090|RBK2-F|60|Cheese Cake
+3091|RBK2-F|61|Circle
+3092|RBK2-F|62|Chasin' The Train
+3093|RBK2-F|62|Chassin' The Train
+3094|RBK2-F|62|Cousin Mary
+3095|RBK2-F|63|Come Rain Or Come Shine
+3096|RBK2-F|64|Comin' Home Baby
+3097|RBK2-F|64|Cool Blues
+3098|RBK2-F|65|Confessin (That I Love You)
+3099|RBK2-F|66|Cookin'
+3100|RBK2-F|66|Core, The
+3101|RBK2-F|67|Crazeology
+3102|RBK2-F|68|Criss/Cross
+3103|RBK2-F|69|Cute
+3104|RBK2-F|70|Cork “N” Bib
+3105|RBK2-F|70|Duff
+3106|RBK2-F|71|A Day In Vienna
+3107|RBK2-F|72|Deep Purple
+3108|RBK2-F|73|Dewey Square
+3109|RBK2-F|74|Cork "N" Bib
+3110|RBK2-F|74|Diana
+3111|RBK2-F|74|Diane
+3112|RBK2-F|75|Dindi
+3113|RBK2-F|76|Domingo
+3114|RBK2-F|77|Do Nothing Till You Hear From Me
+3115|RBK2-F|78|Down For Double
+3116|RBK2-F|79|Doxy
+3117|RBK2-F|80|Do You Know What It Means (To Miss New Orleans)
+3118|RBK2-F|81|Drive, The
+3119|RBK2-F|82|Early Autumn
+3120|RBK2-F|82|Early Autumn
+3121|RBK2-F|83|Eclypso
+3122|RBK2-F|83|Eclypso.
+3123|RBK2-F|84|Elora
+3124|RBK2-F|84|Elora
+3125|RBK2-F|85|Embraceable You
+3126|RBK2-F|85|Embraceable You
+3127|RBK2-F|86|Enhance
+3128|RBK2-F|86|Enchance
+3129|RBK2-F|87|Epilogue
+3130|RBK2-F|87|Epilogue
+3131|RBK2-F|88|Evening In Concert
+3132|RBK2-F|88|Evening In Concert
+3133|RBK2-F|89|Everything I Have Is Yours
+3134|RBK2-F|89|Everything I Have Is Yours
+3135|RBK2-F|90|Eye Of The Hurricane
+3136|RBK2-F|90|Eye Of The Hurricane
+3137|RBK2-F|91|Ezz-Thetic
+3138|RBK2-F|91|Ezz-Thetic
+3139|RBK2-F|92|E.K.'S Blues
+3140|RBK2-F|92|Einbahnstrasse
+3141|RBK2-F|92|E.K.'S Blues
+3142|RBK2-F|92|Einbahnstrasse
+3143|RBK2-F|93|52nd Street Theme
+3144|RBK2-F|93|52nd Street Theme
+3145|RBK2-F|94|Feel So Good
+3146|RBK2-F|94|Feels So Good
+3147|RBK2-F|96|First Moves
+3148|RBK2-F|96|First Moves
+3149|RBK2-F|97|First Trip
+3150|RBK2-F|97|First Trip
+3151|RBK2-F|98|Five Brothers
+3152|RBK2-F|98|Five Brothers
+3153|RBK2-F|99|Flim Flam
+3154|RBK2-F|99|Flim Flam
+3155|RBK2-F|100|Flintstone's Theme
+3156|RBK2-F|100|Flinstone's Theme
+3157|RBK2-F|101|A Flower Is A Lonesome Thing
+3158|RBK2-F|101|A Flower Is A Lonesome Thing
+3159|RBK2-F|102|Fly By Night
+3160|RBK2-F|102|Fly By Night
+3161|RBK2-F|104|Five Spot After Dark
+3162|RBK2-F|104|Funk Dumplin
+3163|RBK2-F|104|Five Spot After Dark
+3164|RBK2-F|104|Funk Dumplin
+3165|RBK2-F|105|Flying Home
+3166|RBK2-F|105|Flying Home
+3167|RBK2-F|106|Fly Me To The Moon
+3168|RBK2-F|106|Fly Me To The Moon
+3169|RBK2-F|107|Fools Rush In
+3170|RBK2-F|107|Fools Rush In
+3171|RBK2-F|108|For Minors Only
+3172|RBK2-F|108|For Minors Only
+3173|RBK2-F|109|Four Brothers
+3174|RBK2-F|109|Four Brothers
+3175|RBK2-F|110|Fox Hunt
+3176|RBK2-F|110|Fox Hunt
+3177|RBK2-F|111|Freddie Froo
+3178|RBK2-F|111|Freddie Froo
+3179|RBK2-F|112|Free Cell Block "F", Tis Nazi U.S.A.
+3180|RBK2-F|112|Free Cell Block "F", Tis Nazi U.S.A
+3181|RBK2-F|114|Friday The 13th
+3182|RBK2-F|114|Friday The 13th
+3183|RBK2-F|116|Free
+3184|RBK2-F|116|Funky
+3185|RBK2-F|116|Free
+3186|RBK2-F|116|Funky
+3187|RBK2-F|117|Games People Play
+3188|RBK2-F|117|Gettin' It Togetha'
+3189|RBK2-F|117|Games People Play
+3190|RBK2-F|117|Gettin' It Togetha'
+3191|RBK2-F|118|Gentle Wind And Falling Tear
+3192|RBK2-F|118|Gentle Wind And Falling Tear
+3193|RBK2-F|119|Georgia
+3194|RBK2-F|119|Georgia
+3195|RBK2-F|120|Get Out Of Town
+3196|RBK2-F|120|Get Out Of Town
+3197|RBK2-F|121|A Ghost Of A Chance
+3198|RBK2-F|121|A Ghost Of A Chance
+3199|RBK2-F|122|Gentle Rain
+3200|RBK2-F|122|Girl Talk
+3201|RBK2-F|122|Gentle Rain
+3202|RBK2-F|122|Girl Talk
+3203|RBK2-F|123|Good Bait
+3204|RBK2-F|123|Good Bait
+3205|RBK2-F|124|Golden Notebooks
+3206|RBK2-F|124|Golden Notebooks
+3207|RBK2-F|126|Gregory Is Here
+3208|RBK2-F|126|Gregory Is Here
+3209|RBK2-F|128|Groove Merchant
+3210|RBK2-F|128|Groove Merchant
+3211|RBK2-F|129|Groove Yard
+3212|RBK2-F|129|Groove Yard
+3213|RBK2-F|130|Groovy Samba
+3214|RBK2-F|130|Groovy Samba
+3215|RBK2-F|131|Hackensack
+3216|RBK2-F|131|Hackensack
+3217|RBK2-F|132|Hallucinations
+3218|RBK2-F|132|Hallucinations
+3219|RBK2-F|133|Happy Little Sunbeam
+3220|RBK2-F|133|Happy Little Sunbeam
+3221|RBK2-F|134|Havona
+3222|RBK2-F|134|Havona
+3223|RBK2-F|136|Harlequin
+3224|RBK2-F|136|Harlequin
+3225|RBK2-F|137|Head And Shoulders
+3226|RBK2-F|137|Head And Shoulders
+3227|RBK2-F|138|Here's That Sunny Day
+3228|RBK2-F|138|Here's That Sunny Day
+3229|RBK2-F|140|Hello
+3230|RBK2-F|140|Hello
+3231|RBK2-F|141|Hi Beck
+3232|RBK2-F|141|Hi Beck
+3233|RBK2-F|142|Ho-Ba-La-La
+3234|RBK2-F|142|Ho-Ba-La-La
+3235|RBK2-F|143|Hocus Pocus
+3236|RBK2-F|143|Hocus Pocus
+3237|RBK2-F|144|Horizon
+3238|RBK2-F|144|Horizon
+3239|RBK2-F|146|Horacescope
+3240|RBK2-F|146|Horacescope
+3241|RBK2-F|147|Hummin'
+3242|RBK2-F|147|Hummin'
+3243|RBK2-F|148|Humpty Dumpty
+3244|RBK2-F|148|Humpty Dumpty
+3245|RBK2-F|149|Ice Cream Konitz
+3246|RBK2-F|149|Ice Cream Konitz
+3247|RBK2-F|150|I Believe In You
+3248|RBK2-F|150|I Believe In You
+3249|RBK2-F|152|I Cover The Waterfront
+3250|RBK2-F|152|I Cover The Waterfront
+3251|RBK2-F|153|Idol Gossip
+3252|RBK2-F|153|Idol Gossip
+3253|RBK2-F|154|If I Loved You
+3254|RBK2-F|154|If I Loved You
+3255|RBK2-F|155|If I Should Lose You
+3256|RBK2-F|155|If I Should Lose You
+3257|RBK2-F|156|If I Were A Bell
+3258|RBK2-F|156|If I Were A Bell
+3259|RBK2-F|157|If You Could See Me Now
+3260|RBK2-F|157|If You Could See Me Now
+3261|RBK2-F|158|I Get A Kick Out Of You
+3262|RBK2-F|158|I Get A Kick Out Of You
+3263|RBK2-F|160|I Hear A Rhapsody
+3264|RBK2-F|160|I Hear A Rhapsody
+3265|RBK2-F|161|I'm A Fool To Want You
+3266|RBK2-F|161|I'm A Fool To Want You
+3267|RBK2-F|162|Imagination
+3268|RBK2-F|162|Imagination
+3269|RBK2-F|163|I'm Gettin' Sentimental Over You
+3270|RBK2-F|163|I'm Gettin' Sentimental Over You
+3271|RBK2-F|164|In Case You Haven't Heard
+3272|RBK2-F|164|In Case You Haven't Heard
+3273|RBK2-F|165|Incentive
+3274|RBK2-F|165|Incentive
+3275|RBK2-F|166|Indiana
+3276|RBK2-F|166|Indiana
+3277|RBK2-F|167|In Pursuit Of The 27th Man
+3278|RBK2-F|167|In Pursuit Of The 27th Man
+3279|RBK2-F|168|In Walked Bud
+3280|RBK2-F|168|I Walked Bud
+3281|RBK2-F|169|I Remember You
+3282|RBK2-F|169|I Remember You
+3283|RBK2-F|170|Island Birdie
+3284|RBK2-F|170|Island Birdie
+3285|RBK2-F|171|Is It Really True?
+3286|RBK2-F|171|Is It Really True?
+3287|RBK2-F|172|It Could Happen To You
+3288|RBK2-F|172|It Could Happen To You
+3289|RBK2-F|173|It Had To Be You
+3290|RBK2-F|173|It Had To Be You
+3291|RBK2-F|174|I Thought About You
+3292|RBK2-F|174|I Thought About You
+3293|RBK2-F|175|It's Only A Paper Moon
+3294|RBK2-F|175|It's Only A Paper Moon
+3295|RBK2-F|176|It Might As Well Be Spring
+3296|RBK2-F|176|It Might As Well Be Spring
+3297|RBK2-F|178|I've Found A New Baby
+3298|RBK2-F|178|I've Found A New Baby
+3299|RBK2-F|179|I Will Wait For You
+3300|RBK2-F|179|Jackie
+3301|RBK2-F|179|I Will Wait For You
+3302|RBK2-F|179|Jackie
+3303|RBK2-F|180|Jaco
+3304|RBK2-F|180|Jaco
+3305|RBK2-F|181|Jeannine
+3306|RBK2-F|181|Jeannine
+3307|RBK2-F|182|Je Ne Sais Pas
+3308|RBK2-F|182|Je Ne Sais Pas
+3309|RBK2-F|183|Jody Grind, The
+3310|RBK2-F|183|Jody Grind, The
+3311|RBK2-F|184|Jitterbug Waltz
+3312|RBK2-F|184|Jitterbug Waltz
+3313|RBK2-F|186|Jorgie's
+3314|RBK2-F|186|Jorgie's
+3315|RBK2-F|187|Joyce's Samba
+3316|RBK2-F|187|Joyce's Samba
+3317|RBK2-F|188|Joy To The World
+3318|RBK2-F|188|Jumping With Symphany Sid
+3319|RBK2-F|188|Joy To The World
+3320|RBK2-F|189|Jump For Me
+3321|RBK2-F|190|Just A Few
+3322|RBK2-F|191|Just A-Sittin' And A-Ro Kin'
+3323|RBK2-F|191|Just A-Sittin' And A-Rockin'
+3324|RBK2-F|192|Just In Time
+3325|RBK2-F|193|Just You, Just Me
+3326|RBK2-F|194|Just The Way You Are
+3327|RBK2-F|196|Kary's France
+3328|RBK2-F|197|Katrina Ballerina
+3329|RBK2-F|198|Kentucky Oysters
+3330|RBK2-F|198|Kicker, The
+3331|RBK2-F|199|Kids Are Pretty People
+3332|RBK2-F|200|Killer Joe
+3333|RBK2-F|201|Lady's Blues
+3334|RBK2-F|202|Lakes
+3335|RBK2-F|203|Laura
+3336|RBK2-F|204|Last Page, The
+3337|RBK2-F|206|La Nevada Blues
+3338|RBK2-F|206|Limbo
+3339|RBK2-F|207|Leila
+3340|RBK2-F|208|Lennie's Pennies
+3341|RBK2-F|209|Lester Leaps In
+3342|RBK2-F|210|Let's Cook One
+3343|RBK2-F|211|Liberated Brother
+3344|RBK2-F|212|Lies
+3345|RBK2-F|213|Light As A Feather
+3346|RBK2-F|214|Like Sonny
+3347|RBK2-F|215|A Little Chicago Fire
+3348|RBK2-F|215|Little Chicago Fire
+3349|RBK2-F|216|Little Sunflower
+3350|RBK2-F|217|Locomotion
+3351|RBK2-F|218|Lone Jack
+3352|RBK2-F|220|Lonely Dreams
+3353|RBK2-F|221|Lover
+3354|RBK2-F|222|Love For Sale
+3355|RBK2-F|224|Lover Man
+3356|RBK2-F|225|Love Vib Ations
+3357|RBK2-F|225|Love Vibrations
+3358|RBK2-F|226|Lydian April
+3359|RBK2-F|227|Lennie-Bird
+3360|RBK2-F|227|Mr. Clean
+3361|RBK2-F|228|Make Someone Happy
+3362|RBK2-F|229|Man I Love, The
+3363|RBK2-F|230|Masquerade
+3364|RBK2-F|231|May-Reh
+3365|RBK2-F|232|Mellow Mooa
+3366|RBK2-F|232|Mellow Mood
+3367|RBK2-F|233|Memories Of You
+3368|RBK2-F|234|Menina Flor
+3369|RBK2-F|234|Monk's Mood
+3370|RBK2-F|235|Mercy, Mercy, Mercy
+3371|RBK2-F|236|Miles Ahead
+3372|RBK2-F|237|Minor Mishap
+3373|RBK2-F|238|Minor Mood
+3374|RBK2-F|239|Moak's Shop
+3375|RBK2-F|240|Moanin'
+3376|RBK2-F|240|Moarin'
+3377|RBK2-F|241|Modestry Blues
+3378|RBK2-F|241|Modesty Blues
+3379|RBK2-F|243|Monk's Sphere
+3380|RBK2-F|243|Mystic Touch
+3381|RBK2-F|244|Moon Glow
+3382|RBK2-F|245|Moon Rays
+3383|RBK2-F|246|Moontrane
+3384|RBK2-F|247|Moose The Mooche
+3385|RBK2-F|248|Morning
+3386|RBK2-F|249|Moten's Swing
+3387|RBK2-F|250|Move
+3388|RBK2-F|251|Moving Out
+3389|RBK2-F|252|Mr. Broadway, Theme From
+3390|RBK2-F|252|Theme From Mr. Broadway
+3391|RBK2-F|253|Mr. Jones
+3392|RBK2-F|254|Mr. Magic
+3393|RBK2-F|255|Mr. Sims
+3394|RBK2-F|256|Mrs. Miniver
+3395|RBK2-F|257|Muezzin'
+3396|RBK2-F|258|My Little Suede Shoes
+3397|RBK2-F|259|My Old Flame
+3398|RBK2-F|260|Nature Boy
+3399|RBK2-F|261|Nearness Of You, The
+3400|RBK2-F|262|A New Thing
+3401|RBK2-F|263|No Me Esquec
+3402|RBK2-F|263|No Me Esqueca
+3403|RBK2-F|264|No Moe
+3404|RBK2-F|265|Nacy Joe
+3405|RBK2-F|265|Nancy Joe
+3406|RBK2-F|265|Now's The Time
+3407|RBK2-F|266|North Atlantic Run
+3408|RBK2-F|268|No Splice
+3409|RBK2-F|269|Nutville
+3410|RBK2-F|270|Off Minor
+3411|RBK2-F|270|On The Trail
+3412|RBK2-F|270|One The Trail
+3413|RBK2-F|271|Oh Lady Be Good!
+3414|RBK2-F|272|Old Devil Moon
+3415|RBK2-F|273|On A Clear Day
+3416|RBK2-F|274|Once In Awhile
+3417|RBK2-F|275|One By One
+3418|RBK2-F|276|One Foot In The Gutter
+3419|RBK2-F|277|On The Stairs
+3420|RBK2-F|277|One The Stairs
+3421|RBK2-F|278|One For Daddy-O
+3422|RBK2-F|278|Opus De Funk
+3423|RBK2-F|279|Our Love Is Here To Stay
+3424|RBK2-F|280|Out Back Of The Barn
+3425|RBK2-F|281|Pannonica
+3426|RBK2-F|282|Palo-Alto
+3427|RBK2-F|284|Patterns
+3428|RBK2-F|286|Pennies From Heaven
+3429|RBK2-F|287|Penny Arcade
+3430|RBK2-F|288|Perdido
+3431|RBK2-F|290|Perdido Line
+3432|RBK2-F|292|People Weill Say We're In Love
+3433|RBK2-F|292|People Will Say We're In Love
+3434|RBK2-F|293|Petite Fleure
+3435|RBK2-F|294|Petite Machins
+3436|RBK2-F|294|Petits Machins
+3437|RBK2-F|295|Pick Yourself Up
+3438|RBK2-F|296|Phase Dance
+3439|RBK2-F|297|Polka Dots And Moonbeams
+3440|RBK2-F|298|Portrait Of Jennie
+3441|RBK2-F|299|Pragression
+3442|RBK2-F|300|Preacher, The
+3443|RBK2-F|300|Pursuance
+3444|RBK2-F|301|Quicksilver
+3445|RBK2-F|302|Recado Bossa Nova
+3446|RBK2-F|303|Red Cross
+3447|RBK2-F|304|A Remark You Made
+3448|RBK2-F|306|Robbin's Nest
+3449|RBK2-F|307|Ramblin'
+3450|RBK2-F|307|Round Trip
+3451|RBK2-F|308|Rubberneck
+3452|RBK2-F|309|Rhythm-A-Ning
+3453|RBK2-F|310|Salt Peanuts
+3454|RBK2-F|311|Samba Du Bois
+3455|RBK2-F|312|728
+3456|RBK2-F|312|Sandu
+3457|RBK2-F|313|September In The Rain
+3458|RBK2-F|314|September Song
+3459|RBK2-F|315|Saint Thomas
+3460|RBK2-F|315|Serene
+3461|RBK2-F|316|Serenade To A Soul Sister
+3462|RBK2-F|317|Seventeen West
+3463|RBK2-F|317|Song For My Lady
+3464|RBK2-F|318|Shiny Stoackings
+3465|RBK2-F|318|Shiny Stockings
+3466|RBK2-F|319|Serenity
+3467|RBK2-F|319|Some Other Blues
+3468|RBK2-F|320|Silver's Serenade
+3469|RBK2-F|321|Simone
+3470|RBK2-F|322|Short Stop
+3471|RBK2-F|322|Shutter Bug
+3472|RBK2-F|323|Summer Time
+3473|RBK2-F|323|Swingin' Shepherd Blues
+3474|RBK2-F|324|Sister Sadie
+3475|RBK2-F|325|Saint James Infirmary
+3476|RBK2-F|325|Sippin At Bell's
+3477|RBK2-F|325|Sippin' At Bell's
+3478|RBK2-F|326|Slipped Disc
+3479|RBK2-F|328|Slow, Hot; Wind
+3480|RBK2-F|329|Smoke Gets In Your Eyes
+3481|RBK2-F|330|Softly As A Morning Sunrise
+3482|RBK2-F|330|Softly As The Mornings Sunrise
+3483|RBK2-F|331|Someone To Watch Over Me
+3484|RBK2-F|332|Song For Bilbad
+3485|RBK2-F|333|Soul Eyes
+3486|RBK2-F|334|Soultrane
+3487|RBK2-F|335|Sound Lee
+3488|RBK2-F|336|Speak Like A Child
+3489|RBK2-F|336|Speek Like A Child
+3490|RBK2-F|337|Speak Low
+3491|RBK2-F|338|Spiral
+3492|RBK2-F|339|Spring Can Really Hang You Up The Most
+3493|RBK2-F|340|Stardust
+3494|RBK2-F|341|Star Eyes
+3495|RBK2-F|342|Street Louis Blues
+3496|RBK2-F|343|Straight Life
+3497|RBK2-F|344|Strayhorn 2
+3498|RBK2-F|345|Strode Rode
+3499|RBK2-F|346|Strollin'
+3500|RBK2-F|347|Struttin' With Some Bar-B-Q
+3501|RBK2-F|348|Sub-Conscious-Lee
+3502|RBK2-F|349|Summer In Central Park
+3503|RBK2-F|350|Summer Know, The
+3504|RBK2-F|350|Summer Knows, The
+3505|RBK2-F|351|Sunshine
+3506|RBK2-F|351|Sunshine Express
+3507|RBK2-F|352|Sweetest Sounds, The
+3508|RBK2-F|353|Sweet Georgia Brown
+3509|RBK2-F|354|Syeeda's Song Flute
+3510|RBK2-F|356|Short Riff
+3511|RBK2-F|356|Thumper, The
+3512|RBK2-F|357|Tadd's Delight
+3513|RBK2-F|358|Taking A Chance On Love
+3514|RBK2-F|359|Tangerine
+3515|RBK2-F|360|Tautology
+3516|RBK2-F|361|Teenie' Blues
+3517|RBK2-F|361|Twisted
+3518|RBK2-F|362|Tenderly
+3519|RBK2-F|363|Theirs Tears
+3520|RBK2-F|364|These Foolish Things (Remind Me Of You)
+3521|RBK2-F|365|Things Ain't What They Used To Be
+3522|RBK2-F|366|Things To Come
+3523|RBK2-F|367|This I Dig Of You
+3524|RBK2-F|368|Thriving On A Riff
+3525|RBK2-F|369|Tickle-Toe
+3526|RBK2-F|370|Till There Was You
+3527|RBK2-F|371|Time After Time
+3528|RBK2-F|372|Tippin'
+3529|RBK2-F|373|Tomorrow's Destiny
+3530|RBK2-F|374|Toad's Place
+3531|RBK2-F|376|Tenor Madness
+3532|RBK2-F|376|Trane's Blues
+3533|RBK2-F|377|Turn Around
+3534|RBK2-F|378|Two Not One
+3535|RBK2-F|379|Vonetta
+3536|RBK2-F|380|Walkin Shoes
+3537|RBK2-F|380|Walkin' Shoes
+3538|RBK2-F|381|A Walk'in Thing
+3539|RBK2-F|381|A Walkin' Thing
+3540|RBK2-F|381|Walk In Thing'a
+3541|RBK2-F|381|Walkin Thing'a
+3542|RBK2-F|382|Walk Tall
+3543|RBK2-F|383|Wall Street
+3544|RBK2-F|384|Watch What Happens
+3545|RBK2-F|385|Water Colors
+3546|RBK2-F|386|Watersign
+3547|RBK2-F|388|Way You Look Tonight, The
+3548|RBK2-F|389|Weekend Blues
+3549|RBK2-F|390|Wendy
+3550|RBK2-F|391|What's New
+3551|RBK2-F|391|Whats New
+3552|RBK2-F|392|When Lights Are Low
+3553|RBK2-F|393|Whisper Not
+3554|RBK2-F|394|Who Can I Turn To
+3555|RBK2-F|395|Whopper, The
+3556|RBK2-F|396|Willow Weep For Me
+3557|RBK2-F|397|Wow
+3558|RBK2-F|398|Wrong Is Right
+3559|RBK2-F|399|Work Song
+3560|RBK2-F|399|You Better Leave It Alone
+3561|RBK2-F|400|Yana Amina
+3562|RBK2-F|401|Yardbird Suite
+3563|RBK2-F|402|You Stepped Out Of A Dream
+3564|RBK2-F|403|Oye Como Ya
+3565|RBK2-F|403|You'd Be So Nice To Come Home To
+3566|RBK2-F|404|Big P
+3567|RBK2-F|405|Bills' Hit Tune
+3568|RBK2-F|406|Bohemia After Dark
+3569|RBK2-F|407|Byrdlike
+3570|RBK2-F|407|Hi Fly
+3571|RBK2-F|407|Hi Fly
+3572|RBK2-F|408|Decision
+3573|RBK2-F|408|Lunar Tune
+3574|RBK2-F|409|Little Rootie Tootie
+3575|RBK2-F|410|Manteca
+3576|RBK2-F|411|Scene In Clean, The
+3577|RBK2-F|411|Scene Is Clean, The
+3578|RBK2-F|412|A Sleeping Bee
+3579|RBK2-F|413|Three Base Hit
+3580|RBK2-F|414|Webb City
+3581|RBK3|1|After You
+3582|RBK3|2|After You've Gone
+3583|RBK3|3|Ain't Misbehavin'
+3584|RBK3|6|Alanjuneally
+3585|RBK3|7|Along Came Betty
+3586|RBK3|8|Always And Forever
+3587|RBK3|9|Angula
+3588|RBK3|10|Armando's Rhumba
+3589|RBK3|12|Autumn In 3
+3590|RBK3|13|Autumn Nocturne
+3591|RBK3|14|Avalon Place
+3592|RBK3|15|Ballad For Anita
+3593|RBK3|16|Ballad For Trane
+3594|RBK3|17|Beautiful Friendship
+3595|RBK3|18|Betty Love
+3596|RBK3|20|Beside Myself
+3597|RBK3|22|Bess, You Is My Woman Now
+3598|RBK3|24|Berrie's Tune
+3599|RBK3|25|Best Thing For You Is Me
+3600|RBK3|26|Better Girl It In Your Soul
+3601|RBK3|27|Beyond The Bluebird
+3602|RBK3|28|Blue Daniel
+3603|RBK3|29|Bluebird
+3604|RBK3|30|Blues Backstage
+3605|RBK3|31|Bolivia
+3606|RBK3|32|Bop Shop
+3607|RBK3|34|Bop Boy
+3608|RBK3|35|Born To Be Blue
+3609|RBK3|36|Bossa Rokka
+3610|RBK3|37|Boy Next Door, The
+3611|RBK3|38|Bud Powell
+3612|RBK3|40|All Or Nothing At All
+3613|RBK3|40|Bud's Blues
+3614|RBK3|41|Busch-Wacked
+3615|RBK3|42|Buzzy
+3616|RBK3|43|By Myself
+3617|RBK3|44|Bye Bye Baby
+3618|RBK3|45|Careful
+3619|RBK3|46|Celia
+3620|RBK3|48|A Certain Smile
+3621|RBK3|49|Chariots
+3622|RBK3|50|Cheek To Cheek
+3623|RBK3|53|Cheryl
+3624|RBK3|54|Close Enough For Love
+3625|RBK3|55|Compensation
+3626|RBK3|56|Cool Eyes
+3627|RBK3|58|Cry Me A River
+3628|RBK3|59|Day Dream
+3629|RBK3|60|Dacapolypso
+3630|RBK3|62|Day In, Day Out
+3631|RBK3|64|Dig
+3632|RBK3|66|Don't Ask Why
+3633|RBK3|67|Don't Ever Go Away
+3634|RBK3|68|Don't Look Back
+3635|RBK3|70|Double Clutching
+3636|RBK3|71|Dream Dancing
+3637|RBK3|72|East Of The Sun
+3638|RBK3|73|Emanon
+3639|RBK3|74|Emily
+3640|RBK3|75|End Of A Love Affair, The
+3641|RBK3|76|Endlessly
+3642|RBK3|78|Estate
+3643|RBK3|79|Eternal Triangle
+3644|RBK3|80|Every Lime We Say Good Bye
+3645|RBK3|82|Everything Happens To Me
+3646|RBK3|83|Everything I Love
+3647|RBK3|84|Father
+3648|RBK3|85|Favela
+3649|RBK3|86|Fell Uke Makin' Love
+3650|RBK3|87|For Heavens' Sake
+3651|RBK3|88|Freight Trane
+3652|RBK3|89|French Wajtz
+3653|RBK3|90|Friday The 13th
+3654|RBK3|91|From Now On
+3655|RBK3|92|From The Heart
+3656|RBK3|94|From This Moment On
+3657|RBK3|95|Full Moon And Empty Anns
+3658|RBK3|96|Funkallero
+3659|RBK3|97|Gnu Blu
+3660|RBK3|98|49 Gaviota
+3661|RBK3|100|Godchild
+3662|RBK3|101|Gone With The Wind
+3663|RBK3|102|Goodbye
+3664|RBK3|103|Got A Match?
+3665|RBK3|104|Harlem Nocturn
+3666|RBK3|106|Heartsong
+3667|RBK3|108|High Hopes
+3668|RBK3|110|High Wire The Aerialist
+3669|RBK3|112|H & H
+3670|RBK3|113|Hot House
+3671|RBK3|114|How About You
+3672|RBK3|115|How Deep Is The Ocean
+3673|RBK3|116|How Long Has This Been Going On
+3674|RBK3|117|I Didn't Know What Time It Was
+3675|RBK3|118|I Concentreate On You
+3676|RBK3|120|I Fall In Love Too Easily
+3677|RBK3|121|I Left My Heart In San Francisco
+3678|RBK3|122|I Need You Here
+3679|RBK3|124|I Wish You Love
+3680|RBK3|126|I'll Be Around
+3681|RBK3|128|I Loves You Porgy
+3682|RBK3|129|I'll Be Seeing You
+3683|RBK3|130|I'll Close My Eyes
+3684|RBK3|131|I'll Take Romance
+3685|RBK3|132|I'm Glad There Is You
+3686|RBK3|133|I'm Old Fashioned
+3687|RBK3|134|I'm Through With Love
+3688|RBK3|135|I've Got A Crush On You
+3689|RBK3|136|I've Got The World On A String
+3690|RBK3|138|I've Got You Under My Skin
+3691|RBK3|140|I've Grown Accustomed To Your Face
+3692|RBK3|141|I've Never Been In Love Before
+3693|RBK3|142|Ill Wind
+3694|RBK3|143|In A Capricornian Way
+3695|RBK3|144|In Her Family
+3696|RBK3|145|In Love In Vain
+3697|RBK3|146|In The Days Of Our Love
+3698|RBK3|148|Indian Summer
+3699|RBK3|149|Irv's At Midnight
+3700|RBK3|150|Isfahan
+3701|RBK3|151|It Never Entered My Mind
+3702|RBK3|152|It's All Right With Me
+3703|RBK3|154|It's You Or No One
+3704|RBK3|155|A Japanese Waltz
+3705|RBK3|156|Jersery Bounce
+3706|RBK3|157|Jive Samba
+3707|RBK3|158|Jitterbug Waltz
+3708|RBK3|160|Just One Of Those Things
+3709|RBK3|162|Julian
+3710|RBK3|163|Just Squeeze Me
+3711|RBK3|164|Ladies In Mercedes
+3712|RBK3|166|Lady Is A Tramp, The
+3713|RBK3|167|Lazy Afternoon
+3714|RBK3|168|Leap Of Faith
+3715|RBK3|169|Li'l Darlin'
+3716|RBK3|170|Line For Lyons
+3717|RBK3|171|Little Willie Leaps
+3718|RBK3|172|Little Face
+3719|RBK3|174|Little Girl Blue
+3720|RBK3|176|Long View, The
+3721|RBK3|178|Loop, The
+3722|RBK3|179|A Lotus On Irish Streams
+3723|RBK3|180|Loud-Zee
+3724|RBK3|181|Lovers Rain Dance
+3725|RBK3|182|Love Walked In
+3726|RBK3|184|Lullaby Of The Leaves
+3727|RBK3|185|Lulu's Back In Town
+3728|RBK3|186|Makin' Whoopee
+3729|RBK3|188|Mandala
+3730|RBK3|189|Manhattan
+3731|RBK3|190|Matrix
+3732|RBK3|191|Mayreh
+3733|RBK3|192|Meaning Of The Blues, The
+3734|RBK3|193|Milestones
+3735|RBK3|194|Mi Boj A Samba
+3736|RBK3|196|Midnight Sun
+3737|RBK3|198|Moment To Moment
+3738|RBK3|199|Moonlight In Vermont
+3739|RBK3|200|Monster & The Flower, The
+3740|RBK3|202|Moon And Sand
+3741|RBK3|204|Mountain Greenery
+3742|RBK3|205|Muezzin'
+3743|RBK3|206|My Man's Gone Now
+3744|RBK3|208|My Heart Stood Still
+3745|RBK3|209|Neal's Blues
+3746|RBK3|210|Never Let Me Go
+3747|RBK3|211|Nice 'N Easy
+3748|RBK3|212|Night We Called It A Day, The
+3749|RBK3|213|A Nightingale Sang In Berkeley Square
+3750|RBK3|214|Nobody Else But Me
+3751|RBK3|215|Now He Beats The Drum-Now He Stops
+3752|RBK3|216|Now He Sings, Now He Sobs
+3753|RBK3|217|Number 6
+3754|RBK3|218|Old Folks
+3755|RBK3|219|On A Clear Day
+3756|RBK3|220|On The Sly
+3757|RBK3|222|On The Street Where You Live
+3758|RBK3|224|Only You Know
+3759|RBK3|226|Out Of This World
+3760|RBK3|228|Our Delight
+3761|RBK3|229|Over The Rainbow
+3762|RBK3|230|Owl
+3763|RBK3|231|Party's Over, The
+3764|RBK3|232|Panhandle Hook
+3765|RBK3|234|Passport
+3766|RBK3|235|Patz Blues
+3767|RBK3|236|People
+3768|RBK3|238|Perhaps
+3769|RBK3|239|Picadilly Lilly
+3770|RBK3|240|Poinciana
+3771|RBK3|241|Point Of Return
+3772|RBK3|242|Poor Butterfly
+3773|RBK3|243|A Pretty Girl Is Like A Melody
+3774|RBK3|244|Prism
+3775|RBK3|245|Pure Imagination
+3776|RBK3|246|Rahsaan's Run
+3777|RBK3|247|Re-Re
+3778|RBK3|248|Re; Person I Knew
+3779|RBK3|249|Relaxin' At Carmarillo
+3780|RBK3|250|Rosewood
+3781|RBK3|252|Room 608
+3782|RBK3|253|Saint Thomas
+3783|RBK3|254|Samba De Orfeu
+3784|RBK3|256|Santurce
+3785|RBK3|258|Sambacide
+3786|RBK3|259|Seabrook Revisited
+3787|RBK3|260|Secret Love
+3788|RBK3|262|Seems To Me
+3789|RBK3|263|Serpent's Tooth
+3790|RBK3|264|Shaw Nuff
+3791|RBK3|266|Sister Sadie
+3792|RBK3|267|Skylark
+3793|RBK3|268|A Sleepin' Bee
+3794|RBK3|270|So In Love
+3795|RBK3|272|Some Nerve
+3796|RBK3|273|Something From Everyone
+3797|RBK3|274|Song For Sisyphus
+3798|RBK3|276|Sonnymoon For Two
+3799|RBK3|277|Soon
+3800|RBK3|278|Spirit Samba
+3801|RBK3|280|Spring Can Really Hang You Up The Most
+3802|RBK3|282|Squirrel
+3803|RBK3|283|Stablemates
+3804|RBK3|284|Star Eyes
+3805|RBK3|285|Stars Fell On Alabama
+3806|RBK3|286|Steeple Chase
+3807|RBK3|287|Stormy Weather
+3808|RBK3|288|Street Of Dreams
+3809|RBK3|289|Sunny
+3810|RBK3|290|Sunny Side Of The Street
+3811|RBK3|291|Sweet Lorraine
+3812|RBK3|292|Swing Dentz Swing
+3813|RBK3|294|Swing Shift
+3814|RBK3|295|Sy Clone
+3815|RBK3|296|T.J.R.C.
+3816|RBK3|297|Teach Me Tonight
+3817|RBK3|298|Tea For Two
+3818|RBK3|300|That Old Feeling
+3819|RBK3|301|That's All
+3820|RBK3|302|Theme From Maxine
+3821|RBK3|303|Then I'll Be Tired Of You
+3822|RBK3|304|There Goes My Heart
+3823|RBK3|306|They Say It's Wonderful
+3824|RBK3|307|Their's Tears
+3825|RBK3|308|Things Ain't What They Used To Be
+3826|RBK3|309|This Can't Be Love
+3827|RBK3|310|Three And One
+3828|RBK3|311|Thrill Is Gone, The
+3829|RBK3|312|Thyme's Time
+3830|RBK3|314|Tidal Breeze
+3831|RBK3|315|A Time For Love
+3832|RBK3|316|Times Lie
+3833|RBK3|318|Time Was
+3834|RBK3|319|Tiny Capers
+3835|RBK3|320|Tis'
+3836|RBK3|321|To Kill A Brick
+3837|RBK3|322|Too Close For Comfort
+3838|RBK3|323|Too Marvelous For Words
+3839|RBK3|324|Touch Of Your Lips, The
+3840|RBK3|325|Tricrotism
+3841|RBK3|326|Tune 88
+3842|RBK3|327|Un Poco Loco
+3843|RBK3|328|Unforgettable
+3844|RBK3|329|Very Thought Of You, The
+3845|RBK3|330|Violets For Your Furs
+3846|RBK3|331|Wail
+3847|RBK3|332|Wall-Eye Blues
+3848|RBK3|333|Watch What Happens
+3849|RBK3|334|Watermelon Man
+3850|RBK3|335|What A Difference A Day Made
+3851|RBK3|336|Wes Side Stroll
+3852|RBK3|338|What Kind Of Fool Am I
+3853|RBK3|339|When The Sun Comes Out
+3854|RBK3|340|When Your Lover Has Gone
+3855|RBK3|341|Where Or When
+3856|RBK3|342|While We're Young
+3857|RBK3|343|Who Can I Turn To
+3858|RBK3|344|Why Did I Choose You
+3859|RBK3|345|Will You Still Be Mine
+3860|RBK3|346|Witchcraft
+3861|RBK3|346|You're Everything
+3862|RBK3|347|With Every Breath I Take
+3863|RBK3|348|Wrap Your Troubles In Dreams
+3864|RBK3|349|You & The Night & The Music
+3865|RBK3|350|You Do Something To Me
+3866|RBK3|351|You Make Me Feel So Young
+3867|RBK3|352|You Go To My Head
+3868|RBK3|354|You Must Believe In Spring
+3869|RBK3|355|You've Changed
+3870|RBK3|358|Younger Than Springtime
+3871|RBK3|359|Yours Is My Heart Alone
+3872|RBV|10|An Affair To Remember (Our Love Affair)
+3873|RBV|11|After You, Who?
+3874|RBV|12|After The Love Has Gone
+3875|RBV|14|Alexander's Ragtime Band
+3876|RBV|16|All I Do Is Dream Of You
+3877|RBV|18|All My Life
+3878|RBV|20|Ain't She Sweet
+3879|RBV|21|Almost Like Being In Love
+3880|RBV|22|Alone Together
+3881|RBV|23|(There's) Always Something There To Remind Me
+3882|RBV|24|And All That Jazz
+3883|RBV|26|And So It Goes
+3884|RBV|27|Any Place I Hang My Hat Is Home
+3885|RBV|28|Anything Goes
+3886|RBV|29|Are You In The Mood
+3887|RBV|30|Aquarius
+3888|RBV|32|Autumn Nocturne
+3889|RBV|34|At Last
+3890|RBV|35|Back Bay Shuffle
+3891|RBV|36|Ballad In Blue
+3892|RBV|37|Bare Necessities, The
+3893|RBV|38|Baubles, Bangles And Beads
+3894|RBV|39|Be My Love
+3895|RBV|40|Beat Goes On, The
+3896|RBV|41|Beloved Infidel
+3897|RBV|42|Best Of Everything, The
+3898|RBV|43|Better Than Anything
+3899|RBV|44|Bidin' My Time
+3900|RBV|45|Big Noise From Winnetka
+3901|RBV|46|Billie Jean
+3902|RBV|48|Bird's Nest
+3903|RBV|49|Blah, Blah, Blah
+3904|RBV|50|Blues For Daddy O
+3905|RBV|51|Blues For Martha
+3906|RBV|52|Bob White (Watcha Gonna Swing Tonight?)
+3907|RBV|53|Bongo Bop
+3908|RBV|54|Boogies Blues
+3909|RBV|55|Boogie Woogie Bugle Boy
+3910|RBV|56|Both Sides Now
+3911|RBV|57|Boy Next Door, The
+3912|RBV|58|Breezin'
+3913|RBV|60|Breezin' Along With The Breeze
+3914|RBV|61|Bugle Call Rag
+3915|RBV|62|C'est Magnifique
+3916|RBV|63|Cab Driver
+3917|RBV|64|C.E.D.
+3918|RBV|65|Clap Yo' Hands
+3919|RBV|66|Chacarera
+3920|RBV|68|Chattanooga Choo Choo
+3921|RBV|70|Colors Of My Life, The
+3922|RBV|71|Comecar De Novo
+3923|RBV|72|Come On, Come Over
+3924|RBV|74|Connie's Blues
+3925|RBV|75|Cool
+3926|RBV|76|Country Preacher
+3927|RBV|77|Country Style
+3928|RBV|78|Cow-Cow Boogie
+3929|RBV|80|Crazy World
+3930|RBV|82|Crazy Rhythm
+3931|RBV|83|Cylinder, The
+3932|RBV|84|Day In, Day Out
+3933|RBV|86|Dance Of The Octopus
+3934|RBV|87|Deep In A Dream
+3935|RBV|88|Deep Night
+3936|RBV|89|Delauney's Dilemma
+3937|RBV|90|Dexter's Mood
+3938|RBV|91|Diamonds Are Forever
+3939|RBV|92|Diane
+3940|RBV|93|Ding-Dong! The Witch Is Dead
+3941|RBV|94|Django's Castle
+3942|RBV|95|Do It Again
+3943|RBV|96|Don't Cry Joe (Let Her Go, Let Her Go, Let Her Go)
+3944|RBV|98|Don't Smoke In Bed
+3945|RBV|99|Dragnet
+3946|RBV|100|Dream Of You
+3947|RBV|101|A Dreamer's Holiday
+3948|RBV|102|Drinking Again
+3949|RBV|103|Duke, The
+3950|RBV|104|Ease On Down The Road
+3951|RBV|106|Easy
+3952|RBV|108|Ebony Samba (Sambanegro)
+3953|RBV|110|Echoes
+3954|RBV|112|Ebb Tide
+3955|RBV|113|Elmer's Tune
+3956|RBV|114|Europa (Earth's Cry Heaven's Smile)
+3957|RBV|115|Everything But You
+3958|RBV|116|Every Breath You Take
+3959|RBV|118|Experiment In Terror
+3960|RBV|119|Fascinating Rhythm
+3961|RBV|120|Fascination (Valse Tzigane)
+3962|RBV|121|Fine And Dandy
+3963|RBV|122|Flamenco Sketches
+3964|RBV|123|Fool On The Hill, The
+3965|RBV|124|For Once In My Life
+3966|RBV|125|Forty-Second Street
+3967|RBV|126|Fried Bananas
+3968|RBV|127|From Here To Eternity
+3969|RBV|128|A Gal In Calico
+3970|RBV|129|A Garden In The Rain
+3971|RBV|130|Gentle Rain
+3972|RBV|131|Getting To Know You
+3973|RBV|132|Give Me The Simple Life
+3974|RBV|133|Golden Striker, The
+3975|RBV|134|Gonna Build A Mountain
+3976|RBV|135|Goodbye Pork Pie Hat
+3977|RBV|136|Gonna Fly Now
+3978|RBV|138|Goofus
+3979|RBV|140|Graceland
+3980|RBV|142|Greatest Love Of All, The
+3981|RBV|144|Got To Get You Into My Life
+3982|RBV|145|Green Onions
+3983|RBV|146|Guantanamera
+3984|RBV|147|Guys And Dolls
+3985|RBV|148|Hamp's Boogie Woogie
+3986|RBV|150|Have I Stayed Away Too Long
+3987|RBV|151|Hawk Talks, The
+3988|RBV|152|He Loves And She Loves
+3989|RBV|153|He Was Too Good To Me
+3990|RBV|154|He's A Tramp
+3991|RBV|155|Heigh-Ho
+3992|RBV|156|Hello, Dolly!
+3993|RBV|157|Here's To Life
+3994|RBV|158|Hernando's Hideaway
+3995|RBV|159|Hey There
+3996|RBV|160|Hey There, Good Times
+3997|RBV|162|High And Dry
+3998|RBV|163|Hill Street Blues Theme
+3999|RBV|164|Hold Me, Thrill Me, Kiss Me
+4000|RBV|165|How Am I To Know
+4001|RBV|166|How Can I Be Sure
+4002|RBV|168|Hurt
+4003|RBV|169|Hymn To Freedom
+4004|RBV|170|I Couldn't Sleep A Wink Last Night
+4005|RBV|171|I Cover The Waterfront
+4006|RBV|172|I Dream Too Much
+4007|RBV|174|I Feel A Song Comin' On
+4008|RBV|176|I Get A Kick Out Of You
+4009|RBV|178|I Feel Pretty
+4010|RBV|179|I Had The Craziest Dream
+4011|RBV|180|I Just Found Out About Love
+4012|RBV|181|I Know That You Know
+4013|RBV|182|I Love My Wife
+4014|RBV|184|I Loves You, Porgy
+4015|RBV|185|I May Be Wrong (But I Think You're Wonderful!)
+4016|RBV|186|I Never Knew
+4017|RBV|187|I Surrender, Dear
+4018|RBV|188|I Thought Of You
+4019|RBV|189|I Wanna Be Around
+4020|RBV|190|I Wanna Be Loved By You
+4021|RBV|191|I Want To Be A Sideman
+4022|RBV|192|I Want To Be Happy
+4023|RBV|193|I Will Say Goodbye
+4024|RBV|194|I'd Rather Leave While I'm In Love
+4025|RBV|195|I'll Be Easy To Find
+4026|RBV|196|I'll Build A Stairway To Paradise
+4027|RBV|197|I'll Never Say Never Again
+4028|RBV|198|I'll Never Stop Loving You
+4029|RBV|199|I'll See You In My Dreams
+4030|RBV|200|I'm A Ding Dong Daddy (From Dumas)
+4031|RBV|201|I'm An Old Cowhand (From The Rio Grande
+4032|RBV|202|I'm Coming Virginia
+4033|RBV|203|I'm Forever Blowing Bubbles
+4034|RBV|204|I'm Getting Sentimental Over You
+4035|RBV|205|I'm In The Mood For Love
+4036|RBV|206|I've Got A Crush On You
+4037|RBV|207|If I Could Be With You (One Hour Tonight)
+4038|RBV|208|I've Gotta Be Me
+4039|RBV|210|If I Had You
+4040|RBV|211|If This Isn't Love
+4041|RBV|212|In Your Own Sweet Way
+4042|RBV|213|Indian Love Call
+4043|RBV|214|Isn't This A Lovely Day (To Be Caught In The Rain?)
+4044|RBV|216|It Ain't Necessarily So
+4045|RBV|218|It Happened In Monterey
+4046|RBV|219|It's A Pity To Say Goodnight
+4047|RBV|220|It Might Be You
+4048|RBV|222|Jalousie (Jealousy)
+4049|RBV|224|It's A Raggy Waltz
+4050|RBV|225|Jambalaya (On The Bayou)
+4051|RBV|226|James Bond Theme
+4052|RBV|228|Jazzman
+4053|RBV|230|Jeep's Blues
+4054|RBV|231|Jeepers Creepers
+4055|RBV|232|Jet Song
+4056|RBV|234|Joey, Joey, Joey
+4057|RBV|235|June Night
+4058|RBV|236|K.C. Blues
+4059|RBV|237|Laird Baird
+4060|RBV|238|King Porter Stomp
+4061|RBV|240|L.A. Ronde
+4062|RBV|242|Lamp Is Low, The
+4063|RBV|243|Laugh! Clown! Laugh!
+4064|RBV|244|Lazy Sunday
+4065|RBV|246|Le Cannet
+4066|RBV|247|Leap Frog
+4067|RBV|248|Let A Smile Be Your Umbrella
+4068|RBV|249|Let Me Love You Tonight
+4069|RBV|250|Let Yourself Go
+4070|RBV|252|Let's Do It (Let's Fall In Love)
+4071|RBV|253|Let's Take An Old-Fashioned Walk
+4072|RBV|254|Like A Lover (O Cantador)
+4073|RBV|255|Lilli Marlene
+4074|RBV|256|Live And Let Die
+4075|RBV|258|Li'l Darlin'
+4076|RBV|259|Lorelei, The
+4077|RBV|260|Lost In Meditation
+4078|RBV|261|Love Is Here To Stay
+4079|RBV|262|Love Dance
+4080|RBV|264|Love Walked In
+4081|RBV|265|Lucky To Be Me
+4082|RBV|266|Lullaby In Rhythem
+4083|RBV|267|Lulu's Back In Town
+4084|RBV|268|Mack The Knife
+4085|RBV|270|Main Stem
+4086|RBV|272|Maria
+4087|RBV|273|Matchmaker
+4088|RBV|274|Maybe
+4089|RBV|275|Me And Mrs. Jones
+4090|RBV|276|Meggie's Theme
+4091|RBV|277|Mickey Mouse March
+4092|RBV|278|Midnight In Moscow
+4093|RBV|279|Milenberg Joys
+4094|RBV|280|Minnie The Moocher
+4095|RBV|283|Miss Otis Regrets (She's Unable To Lunch Today)
+4096|RBV|285|Mister Five By Five
+4097|RBV|286|Moondance
+4098|RBV|288|More Today Than Yesterday
+4099|RBV|290|Mood That I'm In
+4100|RBV|291|Music, Maestro, Please
+4101|RBV|292|Music On The Way
+4102|RBV|293|My Kind Of Girl
+4103|RBV|294|My Man's Gone Now
+4104|RBV|295|My Monday Date
+4105|RBV|296|My One And Only
+4106|RBV|297|My Own True Love
+4107|RBV|298|My Reverie
+4108|RBV|299|My Yiddishe Momme
+4109|RBV|300|Near You
+4110|RBV|301|Never My Love
+4111|RBV|302|"New York, New York", Theme From
+4112|RBV|304|Nice 'N' Easy
+4113|RBV|305|No Other Love
+4114|RBV|306|Noreen's Nocturne
+4115|RBV|308|Notorious
+4116|RBV|309|Of The I Sing
+4117|RBV|310|Oh Happy Day
+4118|RBV|312|Oh, Lady Be Good!
+4119|RBV|314|Oh, Good Grief
+4120|RBV|315|Old Master Painter, The
+4121|RBV|316|On A Little Street In Singapore
+4122|RBV|317|On The Atchison, Topeka And The Santa Fe
+4123|RBV|318|On The Other Side Of The Tracks
+4124|RBV|320|On The South Side Of Chicogo
+4125|RBV|321|Once In A While
+4126|RBV|322|One O'clock Jump
+4127|RBV|324|Oo-Shoo-Be-Doo-Be, The
+4128|RBV|326|Once Upon A Time
+4129|RBV|327|Orbit
+4130|RBV|328|Our Love Affair
+4131|RBV|329|Over The Rainbow
+4132|RBV|330|Pennsylvania 6-5000, The
+4133|RBV|331|People Get Ready
+4134|RBV|332|Piano Man
+4135|RBV|334|Perry Mason Theme
+4136|RBV|335|Pigalle
+4137|RBV|336|Playboy's Theme
+4138|RBV|338|Place St. Henri
+4139|RBV|339|Please Don't Talk About Me When I'm Gone
+4140|RBV|340|Preacher, The
+4141|RBV|341|Pyramid
+4142|RBV|342|Quality Time
+4143|RBV|344|Ragtime Cowboy Joe
+4144|RBV|345|Raindrops Keep Falling' On My Head
+4145|RBV|346|Real Live Girl
+4146|RBV|347|Remember
+4147|RBV|348|Rikki Don't Lose That Number
+4148|RBV|350|Rock-A-Bye Your Baby With A Dixie Melody
+4149|RBV|351|Rose-Marie
+4150|RBV|352|Ruby
+4151|RBV|354|Rude Old Man
+4152|RBV|355|Rum And Coca-Cola
+4153|RBV|356|Rules Of The Road
+4154|RBV|358|Send In The Clowns
+4155|RBV|359|September
+4156|RBV|360|Seventh Son, The
+4157|RBV|362|September In The Rain
+4158|RBV|363|Shadow Waltz
+4159|RBV|364|Shall We Dance?
+4160|RBV|366|She Loves Me
+4161|RBV|368|A Shot In The Dark
+4162|RBV|369|Should I?
+4163|RBV|370|Show-Type Tune (Tune For A Lyric)
+4164|RBV|372|Shuffle Off To Buffalo
+4165|RBV|373|Sing
+4166|RBV|374|Theme From The Simpsons
+4167|RBV|376|Sing, Sing, Sing
+4168|RBV|382|Sit Down You're Rockin' The Boat
+4169|RBV|383|Slap That Bass
+4170|RBV|384|Sleepy Lagoon
+4171|RBV|385|Sleepy Time Gal
+4172|RBV|386|Smack Dab In The Middle
+4173|RBV|387|Smells Like Teen Spirit
+4174|RBV|388|Smiles
+4175|RBV|389|Smooth Operator
+4176|RBV|390|So Many Stars
+4177|RBV|391|Softly As I Leave You
+4178|RBV|392|Somethin' Stupid
+4179|RBV|394|Something's Gotta Give
+4180|RBV|396|Someone To Watch Over Me
+4181|RBV|397|Somewhere
+4182|RBV|398|Sonnymoon For Two
+4183|RBV|399|Sound Of Music, The
+4184|RBV|400|Sophisticated Swing
+4185|RBV|402|Spring Is Here
+4186|RBV|403|Star Eyes
+4187|RBV|404|Stars Fell On Alabama
+4188|RBV|405|Stranger In Paradise
+4189|RBV|406|Strictly Instrumental
+4190|RBV|407|Strike Up The Band
+4191|RBV|408|Song From M*A*S*H (Suicide Is Painless)
+4192|RBV|409|Summer Knows, The
+4193|RBV|410|(Theme From) A Summer Place
+4194|RBV|411|Sunday
+4195|RBV|412|Sunrise, Sunset
+4196|RBV|413|Sweet Georgia Brown
+4197|RBV|414|Sweet Lorraine
+4198|RBV|415|Swingin' The Blues
+4199|RBV|416|Taking A Chance On Love
+4200|RBV|417|(Love Is) The Tender Trap
+4201|RBV|418|Tequila
+4202|RBV|420|That Certain Feeling
+4203|RBV|421|That Face
+4204|RBV|422|That Lucky Old Sun
+4205|RBV|423|That Ole Devil Called Love
+4206|RBV|424|That's All
+4207|RBV|425|That's The Way It Goes
+4208|RBV|426|Then Came You
+4209|RBV|427|Then I'll Be Tired Of You
+4210|RBV|428|There's No Business Like Show Business
+4211|RBV|429|They All Laughed
+4212|RBV|430|This Heart Of Mine
+4213|RBV|431|This Nearly Was Mine
+4214|RBV|432|Tickle Toe
+4215|RBV|433|Time On My Hands (You In My Arms)
+4216|RBV|434|Time Was
+4217|RBV|435|'Tis Autumn
+4218|RBV|436|Time's Lie
+4219|RBV|438|Tin Man
+4220|RBV|440|A-Tisket, A-Tasket
+4221|RBV|441|Tonight
+4222|RBV|442|Top Hat, White Tie And Tails
+4223|RBV|443|Totem Pole
+4224|RBV|444|Trolley Song, The
+4225|RBV|446|Tricrotism
+4226|RBV|447|Trust In Me
+4227|RBV|448|Try A Little Tenderness
+4228|RBV|450|Turn Your Love Around
+4229|RBV|452|Two Different Worlds
+4230|RBV|453|Two Lost Souls
+4231|RBV|454|Under Paris Skies
+4232|RBV|456|Valley Of The Dolls
+4233|RBV|458|Undecided
+4234|RBV|459|Watergate Blues, The
+4235|RBV|460|Vera Cruz
+4236|RBV|462|A View To A Kill
+4237|RBV|464|We Kiss In A Shadow
+4238|RBV|465|We're Off To See The Wizard
+4239|RBV|466|What Is There To Say
+4240|RBV|467|What Is This Thing Called Love
+4241|RBV|468|What The World Needs Now Is Love
+4242|RBV|469|When Joanna Loved Me
+4243|RBV|470|What's New Pussycat?
+4244|RBV|472|When A Man Loves A Woman
+4245|RBV|474|When I Grow Too Old To Dream
+4246|RBV|476|When My Sugar Walks Down The Street
+4247|RBV|477|When You're In Love
+4248|RBV|478|Where Is Love?
+4249|RBV|479|Who Cares? (So Long As You Care For Me)
+4250|RBV|480|Who's Sorry Now
+4251|RBV|481|Wild Is The Wind
+4252|RBV|482|Windmills Of Your Mind, The
+4253|RBV|483|A Woman Is A Sometime Thing
+4254|RBV|484|Would You Like To Take A Walk (Sump'n Good'll Come From That)
+4255|RBV|485|Yesterday When I Was Young (Heir Encore)
+4256|RBV|486|You Are My Lucky Star
+4257|RBV|487|You Couldn't Be Cuter
+4258|RBV|488|You Do Something To Me
+4259|RBV|489|You Must Believe In Spring
+4260|RBV|490|You, My Love
+4261|RBV|491|You Send Me
+4262|RBV|492|You Tell Me Your Dream,, I'll Tell You Mine
+4263|RBV|493|You Turned The Tables On Me
+4264|RBV|494|You'd Better Love Me
+4265|RBV|497|You'll Never Find Another Love Like Mine
+4266|RBV|500|You'll Never Know
+4267|RBV|501|You're The Top
+4268|RBV|502|Zigeuner
+4269|RBV|503|Zoot Suit Riot
