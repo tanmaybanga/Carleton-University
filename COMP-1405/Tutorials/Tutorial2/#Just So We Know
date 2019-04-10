@@ -1,0 +1,7 @@
+#Just So We Know 
+# One kilderkin is equivalent to 0.081830 cubic metres   
+# One sack is equivalent to 0.109106 cubic metres                 
+
+
+kilderkin = 0.081830 
+sack = 0.109106
