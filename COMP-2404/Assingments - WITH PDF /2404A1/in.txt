@@ -1,0 +1,114 @@
+1
+
+101036672
+
+1405
+12
+Robert Collier
+201610
+
+1406
+12
+Robert Collier
+201610
+
+1805
+12
+Robert Collier
+201620
+
+0
+1
+
+101036677
+
+2401
+9
+Doron Nussbaum
+201710
+
+2402
+9
+Andrew Runka
+201710
+
+2404
+9
+Christine Laurendeau
+201720
+
+
+2406
+9
+Louis Nell
+201710
+
+2804
+9
+Micheal Shmid
+201710
+
+
+0
+1
+
+101036654
+
+
+
+3000
+7
+Anil Somayaji
+201810
+
+3005
+7
+Louis Nel
+201810
+
+1601
+7
+Louis Nel
+201720
+
+2601
+7
+Louis Nel
+201720
+
+0
+1
+
+101036634
+
+1001
+5
+Imran Gabrani-Juma
+201720
+
+1002
+3
+Imran Gabrani-Juma
+201720
+
+1003
+2
+Imran Gabrani-Juma
+201720
+
+1004
+1
+Imran Gabrani-Juma
+201720
+
+
+
+
+
+
+
+
+
+
+0
+0

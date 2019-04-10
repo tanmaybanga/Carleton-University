@@ -1,0 +1,689 @@
+1
+101036672
+
+1601
+7
+Imran Juma
+201810
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+1805
+10
+Markus Brown
+201610
+
+2601
+9
+Frank Oak
+201520
+
+0
+1
+101036672
+
+1601
+7
+Imran Juma
+201810
+
+9001
+0
+Frank Oak
+201610
+
+0
+1
+173996531
+
+4011
+3
+Frank Oak
+201810
+
+3761
+3
+Billy Boy Joe
+201910
+
+0
+1
+101036671
+
+2401
+9
+Billy Boy Joe
+201810
+
+9001
+0
+Frank Oak
+201610
+
+2402
+10
+Imran Juma
+201910
+
+2404
+11
+Markus Brown
+201610
+
+2405
+12
+Frank Oak
+201610
+
+2804
+9
+Markus Brown
+201520
+
+0
+1
+101045576
+
+3000
+5
+Imran Juma
+201810
+
+9001
+0
+Frank Oak
+201610
+
+9001
+0
+Frank Oak
+201610
+
+3004
+7
+Frank Oak
+201910
+
+3005
+9
+Imran Juma
+201610
+
+3007
+11
+Markus Brown
+201610
+
+3008
+6
+Billy Boy Joe
+201520
+
+0
+1
+101083654
+
+3804
+6
+Frank Oak
+201810
+
+2517
+8
+Imran Juma
+201910
+
+2865
+10
+Billy Boy Joe
+201610
+
+3409
+12
+Imran Juma
+201610
+
+9001
+0
+Frank Oak
+201610
+
+2121
+4
+Frank Oak
+201520
+
+0
+1
+109096545
+
+4011
+3
+Frank Oak
+201810
+
+3761
+2
+Billy Boy Joe
+201910
+
+0
+1
+103678263
+
+3001
+3
+Billy Boy Joe
+201810
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+2091
+9
+Frank Oak
+201610
+
+4010
+11
+Imran Juma
+201520
+
+0
+1
+109096522
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+4009
+5
+Imran Juma
+201610
+
+5009
+8
+Billy Boy Joe
+201610
+
+4005
+6
+Imran Juma
+201520
+
+0
+1
+109096629
+
+4011
+2
+Frank Oak
+201810
+
+3761
+2
+Billy Boy Joe
+201910
+
+
+0
+1
+109096759
+
+6000
+12
+Markus Brown
+201810
+
+6001
+12
+Frank Oak
+201910
+
+9001
+0
+Frank Oak
+201610
+
+6002
+5
+Markus Brown
+201610
+
+6003
+8
+Billy Boy Joe
+201610
+
+6004
+6
+Markus Brown
+201520
+
+0
+1
+109096789
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+7004
+5
+Markus Brown
+201610
+
+7006
+8
+Imran Juma
+201610
+
+7009
+6
+Billy Boy Joe
+201520
+
+0
+1
+109096123
+
+8009
+12
+Frank Oak
+201810
+
+8007
+12
+Billy Boy Joe
+201910
+
+8005
+5
+Imran Juma
+201610
+
+8003
+8
+Markus Brown
+201610
+
+8001
+6
+Billy Boy Joe
+201520
+
+0
+1
+109096213
+
+4011
+3
+Frank Oak
+201810
+
+3761
+3
+Billy Boy Joe
+201910
+
+0
+1
+109036378
+
+9001
+12
+Frank Oak
+201810
+
+9003
+12
+Billy Boy Joe
+201910
+
+9007
+5
+Markus Brown
+201610
+
+9001
+0
+Frank Oak
+201610
+
+9008
+8
+Imran Juma
+201610
+
+9066
+6
+Billy Boy Joe
+201520
+
+0
+1
+109095345
+
+1601
+7
+Frank Oak
+201810
+
+1405
+12
+Billy Boy Joe
+201910
+
+1406
+11
+Imran Juma
+201610
+
+1805
+10
+Markus Brown
+201610
+
+2601
+9
+Billy Boy Joe
+201520
+
+0
+1
+101036672
+
+2401
+9
+Markus Brown
+201810
+
+2402
+10
+Frank Oak
+201910
+
+2404
+11
+Frank Oak
+201610
+
+9001
+0
+Frank Oak
+201610
+
+2405
+12
+Imran Juma
+201610
+
+2804
+9
+Markus Brown
+201520
+
+0
+1
+109837532
+
+4011
+1
+Frank Oak
+201810
+
+3761
+1
+Billy Boy Joe
+201910
+
+
+0
+1
+101045576
+
+3000
+5
+Billy Boy Joe
+201810
+
+3004
+7
+Frank Oak
+201910
+
+3005
+9
+Imran Juma
+201610
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+0
+1
+101083654
+
+
+3804
+6
+Billy Boy Joe
+201810
+
+2517
+8
+Imran Juma
+201910
+
+9001
+0
+Frank Oak
+201610
+
+
+2865
+10
+Markus Brown
+201610
+
+3409
+12
+Imran Juma
+201610
+
+2121
+4
+Billy Boy Joe
+201520
+
+0
+1
+107096532
+
+4011
+4
+Frank Oak
+201810
+
+3761
+1
+Billy Boy Joe
+201910
+
+0
+1
+101046532
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+9066
+4
+Imran Juma
+201520
+
+9001
+0
+Frank Oak
+201610
+
+9003
+0
+Imran Juma
+201610
+
+9066
+7
+Markus Brown
+201520
+
+0
+1
+103678263
+
+3001
+3
+Billy Boy Joe
+201810
+
+3761
+0
+Markus Brown
+201910
+
+2459
+7
+Frank Oak
+201610
+
+2091
+0
+Markus Brown
+201610
+
+4010
+11
+Billy Boy Joe
+201520
+
+0
+1
+109096532
+
+4011
+0
+Frank Oak
+201810
+
+3761
+1
+Billy Boy Joe
+201910
+
+0
+1
+109076532
+
+4011
+12
+Frank Oak
+201810
+
+3761
+12
+Billy Boy Joe
+201910
+
+4009
+10
+Markus Brown
+201610
+
+9001
+0
+Frank Oak
+201610
+
+5009
+11
+Frank Oak
+201610
+
+4005
+0
+Markus Brown
+201520
+
+0
+1
+109096345
+
+4011
+0
+Frank Oak
+201810
+
+3761
+0
+Billy Boy Joe
+201910
+
+4009
+0
+Markus Brown
+201610
+
+5009
+0
+Frank Oak
+201610
+
+4005
+0
+Markus Brown
+201520
+
+0
+0
