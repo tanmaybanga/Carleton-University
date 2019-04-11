@@ -1,0 +1,16 @@
+{
+    "name": "base_code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: No Test Have Been Complied\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3",
+        "findMe": "^2.81.0"
+    }
+}

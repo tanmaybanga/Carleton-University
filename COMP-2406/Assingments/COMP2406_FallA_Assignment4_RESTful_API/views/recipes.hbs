@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> {{title}} </title>
+  <script  src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <style>
+
+    body {
+      font-family: 'Roboto Slab', serif;
+    }
+
+    .searchArea {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .searchBar {
+      width: 80%;
+      line-height: 20px;
+    }
+
+  </style>
+</head>
+<body>
+
+   <div class="container">
+
+     <div class="searchArea">
+         <form action="/recipes" method="get">
+         <input class="searchBar" placeholder="Enter an ingredient.." type="text" name="ingredients" id="ingredients" />
+         <button type="submit"> Submit </button>
+
+       <form action="/recipes" method="get">
+         <input class="searchBar" placeholder="Enter a spice.." type="text" name="spices" id="spices" />
+         <button type="submit"> Submit </button>
+       </form>
+
+     </div>
+       {{#each Name}}
+          <p><a href = 'recipeDetails/?id={{this.id}}' target="_blank"> {{this.id}} {{this.recipe_name}}</a> </p>
+       {{/each}}
+    </div>
+  </body>
+</html>

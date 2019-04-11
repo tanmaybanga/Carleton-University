@@ -1,0 +1,234 @@
+<!DOCTYPE>
+<head>
+<title>2406 Tutorial</title>
+<link href="template.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<p class="header">COMP 2406 - Fall 2017 Tutorial #9</p>
+<p class="header subheader">Express App with SQLite Database and Handlebars</p>
+<hr/>
+<p>&copy; L.D. Nel 2017</p>
+<hr />
+<p class="red">Revisions -none yet</p>
+<hr />
+<p class="segment-header">Description:</p>
+<p>The purpose of this tutorial is to get you familiar with an Express-based server that uses an SQLite database and  uses Handlebars template rendering.</p>
+<p class="red">IMPORTANT: This tutorial is meant as a homework assignment and for you to demonstrate your results at your tutorial session. You will not be able to complete it if you only start when you come to the tutorial. You will need to read about and learn those aspects of javascript that pertain to this tutorial on your own and come up with a strategy to solve the problems.</p>
+<p>To get credit for the tutorial you must complete, or make significant progress on, the exercise problems provided and demonstrate your results to the tutorial TA before you leave the tutorial.<br />
+</p>
+<p>&nbsp;</p>
+<hr/>
+<p class="segment-header">Perliminary Instructions:<br />
+</p>
+<p> The demo code in this tutorial consists of an express.js-based server backed by a SQLite database and using the Handlebars template engine for server-side rendering of html responses. SQLite is a very popular server-less relational database. Handlebars is one of the  more popular server-side rendering templates.</p>
+<p>To run the demo code you need to install the needed npm modules by executing:</p>
+<p class="code">npm install</p>
+<p>The modules installed are listed in the dependencies section of the included <span class="code">package.json</span> file.</p>
+<p>Install the modules and then run the server by executing</p>
+<p class="code">node server_with_SQLite_and_Handlebars.js</p>
+<p>Test the code by visiting:</p>
+<p class="code">http://localhost:3000/index.html</p>
+<p>You will be promped for a user name and password. The following user: <span class="code">ldnel</span> password <span class="code">secret</span> has is added to the database when the app is launched. You can add other users if you want, either through the javascript code or by using the <span class="code">sqlite3.exe</span> command line utility for accessing sqlite databases.<a href="https://www.mongodb.com/download-center#community"></a></p>
+<p><img src="images/intro1.png" width="785" height="312"></p>
+<p>&nbsp;</p>
+<p>Visit <span class="code">http://localhost:3000/find</span> to see a page of the songs contained in the database:</p>
+<p>&nbsp;</p>
+<p><img src="images/intro2.png" width="857" height="533"></p>
+<p>Visit <span class="code">http://localhost:3000/find?title=Girl</span> to see all the songs whose title contains the substring &quot;Girl&quot;:</p>
+<p><img src="images/intro3.png" width="952" height="435"></p>
+<p>Click on one of the songs to see the songs details. The song details contains the chords of the song all in one string with the bars of the song separated by '|' or '||' bar lines. The final bar of the song is denoted by '|]'.</p>
+<p>&nbsp;</p>
+<p><img src="images/intro4.png" width="979" height="418"></p>
+<p>&nbsp;</p>
+<p>Study the code in the application (we would have gone over it in class a fair bit already) then proceed to the exerise questions.</p>
+<p>For this tutorial you will only be modifying the <span class="code">routes/index.js</span> file and the <span class="code">views.songDetails.hbs</span> file. To to this tutorial you should review how javascript string and arrays work and do some research on what  Handlebars templating is all about <span class="red">(although the intent is just to deduce what is needed based on the code already provided)</span>. Maybe start with: <a href="http://handlebarsjs.com">http://handlebarsjs.com/</a> We will be using the <span class="code">npm hbs</span> module that provides an interface to handlebars in this tutorial demo code.</p>
+<p>&nbsp;</p>
+<p class="segment-header"><span class="black-bold">Problem 1)</span></p>
+<p>Our ultimate goal is to have the bars of the song rendered in a more useful way so that a musician could play the chord changes and imporvise. You want the chords to be displayed more like this:</p>
+<p><img src="images/problem1-0.png" width="863" height="549"></p>
+
+<p>&nbsp;</p>
+<p>The first step is to split up the bars of the song into individual entries of a javascript array.</p>
+<p>Examine the of the following code of the <span class="code">routes/index.js songDetails()</span> function:</p>
+<pre>
+exports.songDetails = function(request, response){
+        
+	    var urlObj = parseURL(request, response);
+        var songID = urlObj.path; //expected form: /song/235
+		songID = songID.substring(songID.lastIndexOf("/")+1, songID.length);
+		
+		var sql = "SELECT id, title, composer, key, bars FROM songs WHERE id=" + songID;
+        console.log("GET SONG DETAILS: " + songID );
+		
+		db.all(sql, function(err, rows){
+ 	      response.render('songDetails', {title: 'Songs Details:', songEntries: rows});
+		});
+
+}
+</pre>
+<p>This code provides a javascript object for the <span class="code">views/songsDetails.hbs</span> handlebars template:</p>
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+   &lt;head&gt; 
+      &lt;title&gt; {{title}} &lt;/title&gt;
+   &lt;/head&gt;
+   &lt;body&gt;
+      &lt;h1&gt;{{title}}&lt;/h1&gt;
+      &lt;div&gt;
+      {{#each songEntries}}
+         &lt;h1&gt;{{this.id}}  title: {{this.title}}&lt;/h1&gt;
+         &lt;p&gt;composer: {{this.composer}}&lt;/p&gt;
+         &lt;p&gt;key: {{this.key}}&lt;/p&gt;
+         &lt;p&gt;bars: {{this.bars}}&lt;/p&gt;
+      {{/each}}
+      &lt;/div&gt;
+   &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+<p>&nbsp;</p>
+<p>In the above template the keyword <span class="code">this</span> refers to the current item, or object, in the &quot;each-iteration&quot;. </p>
+<p>So to start we want to make the bars into individual elements of a javascript array. </p>
+<p>Modify the code at the bottom of the <span class="code">songDetails</span> function to output to the server console the javascript song data currently being sent  to the template:</p>
+<pre>
+exports.songDetails = function(request, response){
+        
+	    var urlObj = parseURL(request, response);
+        var songID = urlObj.path; //expected form: /song/235
+		songID = songID.substring(songID.lastIndexOf("/")+1, songID.length);
+		
+		var sql = "SELECT id, title, composer, key, bars FROM songs WHERE id=" + songID;
+        console.log("GET SONG DETAILS: " + songID );
+		
+		db.all(sql, function(err, rows){
+        <span class="red">console.log('Song Data');
+        console.log(rows);</span>
+ 	      response.render('songDetails', {title: 'Songs Details:', songEntries: rows});
+		});
+
+}
+</pre>
+<p>When you click on a song you should now see that the rows object is an array with one song object in it:</p>
+<p><img src="images/problem1-0B.png" ></p>
+<p>&nbsp;</p>
+<p>Since there will only ever be one song involved in this query change the code both in the javascript and  the .hbs template to only expect one song, not an array of songs:</p>
+<pre>
+exports.songDetails = function(request, response){
+        
+	    var urlObj = parseURL(request, response);
+        var songID = urlObj.path; //expected form: /song/235
+		songID = songID.substring(songID.lastIndexOf("/")+1, songID.length);
+		
+		var sql = "SELECT id, title, composer, key, bars FROM songs WHERE id=" + songID;
+        console.log("GET SONG DETAILS: " + songID );
+		
+		db.all(sql, function(err, rows){
+        <span class="red">let song = rows[0];
+        console.log('Song Data');
+        console.log(song);</span>
+ 	      response.render('songDetails', {title: 'Songs Details:', <span class="red">song: song</span>});
+		});
+
+}
+</pre>
+<p>&nbsp;</p>
+<p><img src="images/problem1-1.png" ></p>
+<p>&nbsp;</p>
+
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+   &lt;head&gt; 
+      &lt;title&gt; {{title}} &lt;/title&gt;
+   &lt;/head&gt;
+   &lt;body&gt;
+      &lt;h1&gt;{{title}}&lt;/h1&gt;
+      &lt;div&gt;
+         &lt;h1&gt;{{song.id}}  title: {{song.title}}&lt;/h1&gt;
+         &lt;p&gt;composer: {{song.composer}}&lt;/p&gt;
+         &lt;p&gt;key: {{song.key}}&lt;/p&gt;
+         &lt;p&gt;bars: {{song.bars}}&lt;/p&gt;
+      &lt;/div&gt;
+   &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<p>&nbsp;</p>
+<p>At this point our javacript code is only passing one object to the template which is no longer looping through an array. It is just rendering the single song object but the bars are still one large string.</p>
+
+<p>&nbsp;</p>
+<p><img src="images/problem1-2.png" width="949" height="448"></p>
+<p class="segment-header"><span class="black-bold">Problem 2)</span></p>
+<p>Next we want to break the song object's <span class="code">bars</span> string into a javascript array with one bar in each array location. To do that you will have to write some javascript code to add an <span class="code">song.individualBars = []</span> item to the <span class="code">song</span> object. and then parse through the <span class="code">songs.bars</span> string and extract each bar's chord information. Bars are separated by either a &quot;|&quot;, a &quot;||&quot;, or a &quot;|]&quot; for the final bar.</p>
+<pre>
+db.all(sql, function(err, rows){
+   let song = rows[0];		  
+   <span class="red">song.individualBars = [];
+   //YOUR PARSING CODE HERE</span>	 
+   console.log('Song Details');
+   console.log(song);
+   response.render('songDetails', {title: 'Songs Details:', song:  song});
+});
+
+
+</pre>
+<p>Modify the .hbs file so that each bar is shown as one row of a <span class="code">&lt;table&gt;</span> html element (we've added some css styling as well):</p>
+<pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt; 
+&lt;title&gt; {{title}} &lt;/title&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+table{
+   border-collapse: collapse;
+   border: 1px solid black;
+   width: 50%;
+   background-color: #EEEEEE;
+   font-size: 20px;
+}
+td {
+   border: 1px solid black;
+   padding: 12px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+   &lt;h1&gt;{{title}}&lt;/h1&gt;
+   &lt;div&gt; 
+      &lt;h1&gt;{{song.id}}  title: {{song.title}}&lt;/h1&gt; 
+      &lt;p&gt;composer: {{song.composer}}&lt;/p&gt; 
+      &lt;p&gt;key: {{song.key}}&lt;/p&gt; 
+      &lt;p&gt;bars: {{song.bars}}&lt;/p&gt; 
+      &lt;table&gt;
+      {{#each song.individualBars}} 
+         &lt;tr&gt;
+         &lt;td&gt;{{this}}&lt;/td&gt; 
+         &lt;/tr&gt;
+      {{/each}} 
+      &lt;/table&gt;
+   &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+<p>&nbsp;</p>
+<p>When the song details are shown the <span class="code">song</span> object should now look like this on the server console:</p>
+<p><img src="images/problem2-1B.png" width="953" height="371"></p>
+<p>&nbsp;</p>
+<p>and like this on the web page:</p>
+<p><img src="images/problem2-1.png" width="898" height="830"></p>
+<p>&nbsp;</p>
+<p class="segment-header"><span class="black-bold">Problem 3)</span></p>
+<p>Finally we want the song's bars to to be displayed four bars per table row so that they can more easily be played by a musician. Modify your javascript code and .hbs template so that the web page looks like the following.</p>
+<p>&nbsp;</p>
+<p><img src="images/problem3-1.png" width="852" height="976"></p>
+
+<p>&nbsp;</p>
+<p class="red">When you have completed these exercises show your results to the TA's to get credit for the tutorial.</p>
+<p>&nbsp;</p>
+<p class="segment-header"><span class="black-bold">Optional)</span></p>
+<p>Finally you will notice in the image above that the very first bar is not really a bar it is just time signature information. Modify the code so this this information is not shown as a bar and that the table starts with the first real bar.</p>
+<p>&nbsp;</p>
+
+</body>
+</html>

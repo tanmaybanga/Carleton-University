@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--
+- Example shows drawing strings on the canvas and
+  dragging individual strings around with the mouse.
+  
+  In this example the HTML elements are not being
+  dragged. The strings are javascript objects.
+  
+  When the canvas reacts to the mouse down event
+  other event handlers will be added to the DOM
+  to handle the mouse move and mouse release
+  
+  Notice in this html file we are no longer including jQuery.
+  The accompanying canvasWithTimer.js file contains no more jquery
+  functions and uses only native Web API javascript.
+  
+
+
+-->
+<html>
+   <head>
+     <title>Canvas Size</title>
+	 <!--
+     <script src="jquery-1.11.3.js"></script>
+     -->    
+      <style> 
+         body {
+            background: #dddddd;
+         }
+		 
+		 /*element selectors: */
+		 canvas {
+		    margin: 20px;
+			/*important here for padding to be 0 for mouse calculations */
+            padding: 0px; 
+		 }
+		 /* class selectors: */
+		 .canvas {            
+            background: #ffffff;
+            border: thin inset #aaaaaa;
+         }
+
+         /*id selectors: */
+		 
+         #canvas1 {
+         }
+		  
+ 
+      </style>
+   </head>
+
+  <body>
+    <canvas id='canvas1' class='canvas' width='600' height='300'>
+      Canvas not supported
+    </canvas> 
+    <!--
+    <form>  
+    <input type = "text"  name = "userTextField"  value="" size = "60" />
+    <input type="button" name="button" value="Submit Request" onClick="handleSubmitButton(this.form)">
+    </form>
+    -->
+    <br>
+    <input type = "text"  id="userTextField" name = "userTextField"  value="" size = "60" />
+    <input type="button" value="Submit Request" onClick="handleSubmitButton()">
+   
+
+    <script src='canvasWithTimer.js'></script>
+  </body>
+</html>

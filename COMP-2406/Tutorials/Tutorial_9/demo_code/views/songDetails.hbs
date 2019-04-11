@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> {{title}} </title>
+<style type="text/css">
+table{
+   border-collapse: collapse;
+   border: 1px solid black;
+   width: 50%;
+   background-color: #EEEEEE;
+   font-size: 20px;
+}
+td {
+   border: 1px solid black;
+   padding: 12px;
+}
+</style>
+</head>
+<body>
+   <h1>{{title}}</h1>
+   <div>
+      <h1>{{song.id}}  title: {{song.title}}</h1>
+      <p>composer: {{song.composer}}</p>
+      <p>key: {{song.key}}</p>
+      <p>bars: {{song.bars}}</p>
+      <table>
+      {{#each song.rows}}
+         <tr>
+		 {{#each this}}
+         <td>{{this}}</td>
+		 {{/each}}
+         </tr>
+      {{/each}}
+      </table>
+   </div>
+</body>
+</html>

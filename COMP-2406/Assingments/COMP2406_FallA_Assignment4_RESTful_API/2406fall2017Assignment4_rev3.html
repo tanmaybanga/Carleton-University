@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>COMP2406</title>
+  <style type="text/css">
+  
+body {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2 {
+	color: #009900;
+}
+p {
+  font-size: large;
+
+}
+.red {
+	color: #F00;
+}
+  .bold {
+	font-weight: bold;
+}
+  .code {
+	font-family: "Courier New", Courier, monospace;
+}
+  </style>
+</head>
+<body>
+<h1>COMP 2406 Fall 2017</h1>
+<h1>Assignment #4: RESTful API of Recipe Data</h1>
+<h1 class="red">Due Date: Friday Dec. 8 by 10:00pm in culearn</h1>
+<hr width="100%">
+<p class="red">REV 3 2017 11 24: Removed some non-ascii characters from the aLaCarteData xml data file (now aLaCarteData_rev3.xml) to keep the data all ascii for simplicity.</p>
+<p class="red">REV 2 2017 11 21: Fixed a couple of recipe titles: aLaCarteData_rev2.xml. Added some sample code recipe_file_line_reader.js to show reading and parsing the xml recipe file into a JSON object and into a SQLite database.</p>
+<p class="red">REV 1 2017 11 20: Fixed XML validation errors in aLaCarteData.xml. replaced it with aLaCarteData_rev1.xml<br>
+  The file was valididated with: 
+    <a href="https://www.w3schools.com/xml/xml_validator.asp">https://www.w3schools.com/xml/xml_validator.asp</a><br>
+</p>
+<p class="red"> Assignment
+  Revisions and Corrections will be noted here. </p>
+<hr>
+<h2>Node.js/Exress.js Recipe API with Database</h2>
+<p>The purpose of this assignment is to give you further practice building an node.js/express.js application that provides an API for accessing recipe information. The app will be based on the express.js framework, and serve data out of its own database. You can use an SQLite or MongoDB database for this assignment.</p>
+<p>This assignment has two parts. Part I is mandatory and if you complete it you get full marks for the assignment. Part II is <span class="bold">optional</span> and the marks obtained from it will be added to any lost marks on other assignments. That is, you only need to do Part I but if you want some extra marks to add to your assignment term marks do Part II.</p>
+<p>This assignment is is based on work started in assignment #3 and the contents of Tutorial 08 and 09 which both illustrate the use of a database with Node.js servers. </p>
+<p>The components are:</p>
+<p >Recipe database based on COMP 1406 XML recipe data. </p>
+<p >MongoDB or SQLite database implementation of the recipe data.</p>
+<p >Express based server providing an API to access recipe data provided to the client as JSON data.</p>
+<p >&nbsp;</p>
+<p class="red">Assignment restrictions: <br>
+</p>
+<p class="red">You are now free to use Express.js and whatever other npm modules you find useful. You database should be either a MongoDB or SQlite database.</p>
+<p class="red"> Note: this, and other assignments, can be done in pairs if you want to work with a partner. Please submit one copy to culearn with both your names on it.</p>
+<hr width="100%">
+<p>This assignment is based on <span class="red">25</span> specific design requirements R1.1-R2.10 and we will be awarding 2 marks for those you are able to satisfy for a total of <span class="red">50 (Only Part I marks are mandatory, the remaining marks for part II are bonus)</span> marks.</p>
+<p>In addition there are some 
+    general programming and good practice requirements that you must satisfy. These 
+    requirements are numbered R0.1, R0.2 .... Be prepared to lose marks if these 
+requirements are not satisfied. If requirement R0.0 or R0.1 is not met the assignment grade will be 0.</p>
+<hr>
+<h2>Good Programming and Good Practice Requirements</h2>
+<p>The following requirements will&nbsp; pertain to all 
+your assignments regardless of what your application is supposed to do (i.e. 
+regardless of the design requirements). These requirements are to ensure that 
+your code is readable and maintainable by other programmers (or readable by TA's 
+in our case), and that your program adopts good practices. You will lose 5 marks from your total 
+assignment mark for each of the following&nbsp; requirements that is not 
+satisfied. If, however, you do not satisfy requirement R0.0 or R0.1 you will get 0 
+for the assignment.</p>
+<p class="red">R0.0) IMPORTANT Uniqueness Requirement. The solution 
+  and code you submit MUST be unique. That is, it cannot be a copy of, or be too 
+  similar to, someone else's code, or other code found elsewhere. A mark of 0 will 
+  be assigned to any assignment that is judged by the instructors or the TA's not 
+  to be unique. (You are free to use any code posted on our course web site as 
+  part of our assignment solution.)</p>
+<p class="red"> R0.1) CODE SUBMISSION ORGANIZATION AND COMPILATION: You should submit an app.js file and whatever directories and data is required. The TA's will then execute your app with node app.js. You must also provide a ReadMe.txt file telling the TA how to setup and run your app. Your ReadMe.txt must tell the TA what OS your developed under and what browser you tested your code with. If you compress your code when submitting to culearn you must use only .zip format (not .rar or .tar or whatever). Though you are permitted to write code on Windows 8, Linux, or Mac OS the code should be generic enough to be OS agnostic. Nevertheless, your ReadMe.txt file must says which OS you developed. Your code must work with at least a current Chrome or Firefox browser.</p>
+<p>R0.2) All of 
+  your variables and functions should have meaningful names that reflect 
+  their purpose. Do not follow the convention common in math courses where they 
+  say things like: &quot;let x be the number of customers and let y be the number of 
+  products...&quot;. Instead call your variables <strong>numberOfCustomers</strong> or <strong>numberOfProducts</strong>. Your program should not have any variables 
+  called &quot;x&quot; unless there is a good reason for them to be called &quot;x&quot;. (One 
+  exception: It's OK to call simple for-loop counters i,j and k etc. when the 
+  context is clear and VERY localized.) Remember javascript does not have typed variables or functions so choosing good names is even more important. Many functions in javascript are annonymous (have no name) and so the name of the variable that refers to them is even more important.</p>
+<p>R0.3) Code Comment Requirements: Comments in your code 
+  must coincide with what the code actually does. It is a very common bug in 
+  industry for people to modify code and forget to modify the comments and so you 
+  end up with comments that say one thing and code that actually does another. By 
+  the way, try not to over-comment your code but instead choose good variable names 
+  and function names that make the code more &quot;self commenting&quot;.</p>
+<p>R0.4) Citation Requirements: If you use code from other sources you should cite the source in comments that appear with the code. If the source is an internet website then put the URL in the comments. You may draw on code from outside sources but this may not form the complete solution you are handing in.</p>
+<p class="red">VERY IMPORTANT: Any 
+  sample code fragments provided may have bugs (although none have been put 
+  there intentionally). It is part of your task to identify errors in the 
+  requirements and sample code.&nbsp; Please report errors so they can be fixed and an assignment 
+  revision noted.</p>
+<hr>
+<h1>Part I: Application Requirements</h1>
+<h2>Background</h2>
+<p>In a recent COMP 1406 java programming assignment the students were asked to build a small app that could collect family recipe data. This app has resulted in a XML file of recipe data (I think there are about 106 recipes.). The recipe data is provided in the file: <span class="code"><span class="red">aLaCarteData_rev3.xml</span></span>. There is a companion file to explain some of the tags: <span class="code">explanation of recipe XML tags.txt</span> </p>
+<p>For this assignment you need to extract the recipe data and put it in a database then provide a server to allow client applications to access the data.</p>
+<p>&nbsp;</p>
+<h2>Application Requirements</h2>
+<h2>1) Server-Side Requirements</h2>
+<p>R1.1) You should provide a parser to extact the XML data and put the recipe data in either a MongoDB or SQlite database. The intent of the assignemnt is that you write a simple javascript string parser to extract the data but you are free to use whatever process you want. If you don't write your own code for this then provide a detailed description of how this was done.</p>
+<p>R1.2) The server should have either a MongoDB or SQLite database that includes all the recipe data from the <span class="code">aLaCarteData_rev3.xml</span> file. The data format of the database is up to you (Presumably JSON data for MongoDB and just text data for an SQLite database.)</p>
+<p>R1.3) Your <span class="code">package.json</span> file should list specific version numbers of the npm modules you install. Don't have it install &quot;the latest&quot; module. You must be specific about the version numbers.</p>
+<p>R1.4) With Express.js and package.json comes new ways of launching your server app. Up until now we have always lauched with the command <span class="code">node myServer.js</span>. Make sure your <span class="code">README.txt</span> file tells us exactly how to launch your app;   the marker will not be expected to try and figure it out. Also include the instructions for installing the npm modules you need and how to test your app in your <span class="code">README.txt</span> file</p>
+<p>R1.5) The server should require clients to provide a userid and password to access the recipe API (you can hard-code some users in the database or provide a way for the users to register). Your README.txt file should tell us what userid-password to use to test your app if it's hard-coded.</p>
+<p>R1.6) The Server should provide its clients with recipe data from the its databaes when asked in the form of a JSON object. (The request could be either a GET or POST request depending on how you organize your application.)</p>
+<p>R1.7) Your server needs to serve the basic web-pages needed to run the app (as was done in assignement #3). If static files are being served you should use the <span class="code">express use(express.static ...) </span><span class="bold">middleware</span>. </p>
+<p>&nbsp;</p>
+<h2>Client-Server Data Exchange</h2>
+<p>R1.8)</font> The recipe data exchanged between client and server should be in the form of JSON object strings. (The initial launch of the client web page will just be the result of a GET request client web page). </p>
+<p>R1.9) The JSON data should account for all the parts of a recipe  contained in the XML recipe data file.</p>
+<p>&nbsp;</p>
+<h2>Client Requirements</h2>
+<p>R1.10) The client should be able to reach the app at <span class="code">http://localhost:3000/recipes</span>. (You could also allow <span class="code">http://localhost:3000</span> as an option.) When reached the client should see a web page that would be appropriate for viewing the recipe data and requesting new recipes. You should again provide search by ingredients and also a search by spices since the xml data has that category. You can add other search criteria if you like.</p>
+<p>R1.11) When the client types an ingredient into a labelled text box and presses the &quot;submit&quot; button (or whatever you want to call it) then a page should be refreshed with new recipe data obtained from the server. The recipes should be presented in an appropriate way (just hyperlinks are fine like in the Tutorial 09 song titles).</p>
+<p>R1.12) When the client types a spice into a labelled text box and presses the &quot;submit&quot; button (or whatever you want to call it) then a page should be refreshed with new recipe data obtained from the server. The recipes should be presented in an appropriate way (just hyperlinks are fine like in the Tutorial 09 song titles).</p>
+<p></p>
+<p>R1.13) A application should allow the user to enter a single ingredient or spice or a list of comma-separated ingredients or spices when requesting recipe data. If several ingredients or spices are listed you should only return recipes that contain all of those items.</p>
+<p>R1.14) The client side javascript should use the JSON recipe data obtained from the server and modify the application web page by manipulating the DOM. That is, add or remove the appropriate HTML elements using client-side javascript (either native javascript or jQuery). This is like you did for assignment #3.</p>
+<p>R1.15) The recipes obtained from a search should be active links. If the user clicks on one of the links then the recipe details should be obtained from the server and shown to the user <span class="bold">in a new browser tab</span>. (Again like was done for A3.)</p>
+<hr width="100%">
+<h1>Part II: Optional (For Extra Marks)</h1>
+<h2>Background</h2>
+<p>Marks obtained for part II will be added to term assignment marks. That way you can use these marks to top up marks lost on other assignments.</p>
+<p>For this optional part we want you to allow the client to edit existing recipes, add new ones and also allow them to upload an image of the recipe to be added to the data maintained by the server.</p>
+<p>Here are the specific requirements</p>
+<p>&nbsp;</p>
+<h2>1) Server-Side Requirements</h2>
+<p>R2.1) The server should provide an API to allow clients to add new recipes or modify the data in existing recipes.</p>
+<p>R2.2) The API for adding or modifying recipes should be based on HTTP verbs. You can stick to POST if you want to or also explore others that might be appropriate. You should NOT use GET requests to modify or add data in the server.</p>
+<p>R2.3) Your server and its associated database should support image files to allow a picture to be associated with a recipe. (Like the recipes in Assignment #3.) Not all recipes will have images associated with them.</p>
+<p>R2.4) The server should add new recipes to its database or modify the contents of existing recipes. Modifying existing recipes should not result in a new recipe but the actuall modification of an existing recipe in the database.</p>
+<p>&nbsp;</p>
+<h2>2) Client-Server Data Exchange</h2>
+<p>R2.5) Aside from the requirements of part I the exchange should allow uploading of image files to the server.</p>
+<p>&nbsp;</p>
+<h2>3) Client Requirements</h2>
+<p>The following requirements are in addition to those found in part I of the assignment.</p>
+<p>R2.6) There should be a button marked &quot;Edit&quot; that would allow a client to edit an existing recipe.</p>
+<p>R2.7) To edit a recipe a cliend should be able to type into a text box which contains the current recipe information and edit its contents.</p>
+<p>R2.8) When editing is complete there should be a &quot;submit&quot; button to send the edited content to the server.</p>
+<p>R2.9) The client interface should provide a &quot;New&quot; button to allow a client to enter a recipe from scratch. The recipe information should be entered and a &quot;Submit&quot; button provide to sent the new recipe to the server. </p>
+<p>R2.10) The client web pages should provide an &quot;Upload Image&quot; button or feature to allow the client to upload an image for the currently selected recipe.</p>
+</body>
+</html>

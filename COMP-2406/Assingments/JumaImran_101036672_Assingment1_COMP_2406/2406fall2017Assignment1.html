@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>COMP2406</title>
+  <style type="text/css">
+  
+body {
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2 {
+	color: #009900;
+}
+p {
+  font-size: large;
+
+}
+.auto-style1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style18 {
+	font-size: large;
+}
+.auto-style19 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.auto-style20 {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style21 {
+	color: #FF0000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style17 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF0000;
+}
+.auto-style22 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.auto-style24 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.auto-style27 {
+	font-size: large;
+	font-weight: bold;
+}
+.auto-style28 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+}
+.auto-style29 {
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF0000;
+}
+.auto-style34 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+	color: #009900;
+}
+.auto-style35 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	color: #009900;
+}
+.auto-style36 {
+	font-family: "Courier New", Courier, monospace;
+}
+.red {
+	color: #F00;
+}
+  .bold {
+	font-weight: bold;
+}
+  .code {
+	font-family: "Courier New", Courier, monospace;
+}
+  </style>
+</head>
+<body>
+<h1>COMP 2406 Fall 2017</h1>
+<h1>Assignment #1: Javascript  Single Page App</h1>
+<h1 class="red">Due Date: Wed Oct 11 by 10:00pm in culearn</h1>
+<hr width="100%">
+<p class="red">Assignment
+Revisions and Corrections will be noted here.
+</p>
+<hr width="100%">
+<h2>Node.js/Javascript based Single Page App</h2>
+<p>In this assignment you are going build a small web app that is based on  just the native capabilties of Node.js and javascript. Specifically you will build an app that allows a user to open a chord pro (chords and lyrics) file hosted by the server and then within their browser drag the words and chord symbols around. When finished they should be able to upload the revised data back to the server which will then store an updated version of the file.</p>
+<p>The components are:</p>
+<p >Server: build with just Node.js and its build in modules (e.g. http, path, fs, url) and whatever javascript you want to write. (We are not allowing extra npm modules yet in this assignment. Only what is built into node.js by default.)</p>
+<p >Client: browser which is provided with a web page from the server consisting of html, css, javascript and jquery. (You can use which ever of these your want.)</p>
+<p>&nbsp;</p>
+<p class="red">Assignment restrictions: <br>
+</p>
+<p class="red">Because each layer of node.js/javascipt-based technologies, like npm modules or the express.js framework, solves many problem you encounter, in this assignment we will not allow their use yet. In later assignments we will bring these in and focus on new challenges. So pay attention to the technology restrictions in the various assignments in the course.</p>
+<p class="red"> Note: this, and other assignments, can be done in pairs if you want to work with a partner. Please submit one copy to culearn with both your names on it. (In the past we have had pairs who each thought the other member would submit and so nothing was submitted. Both will get a zero if this happens.)</p>
+<hr width="100%">
+<p>Marking: This assignment 
+is based on 12 specific numbered design requirements numbered R1.1... R3.5. Two marks each for a total of 24 marks. We will award 2 marks for those requirements that are met and well implemented, 1 mark for those only partly met or met but poorly implmented, and 0 marks for any requirement not met.</p>
+<p>In addition there are some 
+    general programming and good practice requirements that you must satisfy. These 
+    requirements are numbered R0.1, R0.2 .... Be prepared to lose marks if these 
+requirements are not satisfied. If requirement R0.0 or R0.1 is not met the assignment grade will be 0.</p>
+<hr>
+<h2>Good Programming and Good Practice Requirements</h2>
+<p>The following requirements will&nbsp; pertain to all 
+your assignments regardless of what your application is supposed to do (i.e. 
+regardless of the design requirements). These requirements are to ensure that 
+your code is readable and maintainable by other programmers (or readable by TA's 
+in our case), and that your program adopts good practices. You will lose 5 marks from your total 
+assignment mark for each of the following&nbsp; requirements that is not 
+satisfied. If, however, you do not satisfy requirement R0.0 or R0.1 you will get 0 
+for the assignment.</p> 
+<p class="red">R0.0) IMPORTANT Uniqueness Requirement. The solution 
+and code you submit MUST be unique. That is, it cannot be a copy of, or be too 
+similar to, someone else's code, or other code found elsewhere. A mark of 0 will 
+be assigned to any assignment that is judged by the instructors or the TA's not 
+to be unique. (You are free to use any code posted on our course web site as 
+part of our assignment solution.)</p>
+<p class="red">
+R0.1) CODE SUBMISSION ORGANIZATION AND COMPILATION: You should submit an app.js file and whatever directories and data is required. The TA's will then execute your app with node app.js. You must also provide a ReadMe.txt file telling the TA how to setup and run your app. Your ReadMe.txt must tell the TA what OS your developed under and what browser you tested your code with. If you compress your code when submitting to culearn you must use only .zip format (not .rar or .tar or whatever). Though you are permitted to write code on Windows 8, Linux, or Mac OS the code should be generic enough to be OS agnostic. Nevertheless, your ReadMe.txt file must says which OS you developed. Your code must work with at least a current Chrome or Firefox browser.</p>
+<p>R0.2) All of 
+  your variables and functions should have meaningful names that reflect 
+  their purpose. Do not follow the convention common in math courses where they 
+  say things like: &quot;let x be the number of customers and let y be the number of 
+  products...&quot;. Instead call your variables <strong>numberOfCustomers</strong> or
+  <strong>numberOfProducts</strong>. Your program should not have any variables 
+  called &quot;x&quot; unless there is a good reason for them to be called &quot;x&quot;. (One 
+  exception: It's OK to call simple for-loop counters i,j and k etc. when the 
+context is clear and VERY localized.) Remember javascript does not have typed variables or functions so choosing good names is even more important. Many functions in javascript are annonymous (have no name) and so the name of the variable that refers to them is even more important.</p>
+<p>R0.3) Code Comment Requirements: Comments in your code 
+  must coincide with what the code actually does. It is a very common bug in 
+  industry for people to modify code and forget to modify the comments and so you 
+  end up with comments that say one thing and code that actually does another. By 
+  the way, try not to over-comment your code but instead choose good variable names 
+and function names that make the code more &quot;self commenting&quot;.</p>
+<p>R0.4) Citation Requirements: If you use code from other sources you should cite the source in comments that appear with the code. If the source is an internet website then put the URL in the comments. You may draw on code from outside sources but this may not form the complete solution you are handing in.</p>
+<p class="red">VERY IMPORTANT: Any 
+sample code fragments provided may have bugs (although none have been put 
+there intentionally). It is part of your task to identify errors in the 
+requirements and sample code.&nbsp; Please report errors so they can be fixed and an assignment 
+revision noted.</p>
+<hr>
+<h1>Application Requirements</h1>
+<h2>Background</h2>
+<p>In tutorial 02 you will have done an exercise with node.js to open and read a chord pro text file as shown below and display it on the console with the chord symbols displayed above the lyrics (instead of imbedded within them). Below is an example of the chord pro text file and the console display similar to tutorial 02.</p>
+<p>Chord Pro Text File:</p>
+<pre>
+Sister Golden Hair -America
+
+verse1:
+Well i [E] tried to make it sunday but i [G#min] got so damned depressed
+That i [A] set my sights on [E] monday and i [G#min] got myself undressed
+I ain't ready for the alter, but i [C#min] do [G#min] believe there's [A] times
+When a [F#min] woman sure can [A] be a friend of [E] mine [Esus2] [E]
+
+verse2:
+Well i [E] keep on thinkin bout you sister [G#min] golden hair surprise
+That i just can't live without you can't you [G#min] see it in my eyes
+I've been [A] one poor corre[F#min]spondent, i've been [C#min] too too [G#min] hard to [A] find
+But it [F#min] doesn't mean you [A] ain't been on my [E] mind [Esus2] [E]
+
+chorus:
+Will you [B] meet me in the middle will you [A] meet me in the [E] end
+Will you [B] love me just a little just en[A]ough to show you [E] care
+Well i [F#min] tried to fake it i [G#min] don't mind sayin i [A] just can't make it
+
+repeat intro, then verse 2, then chorus, then they do this
+doo-wop thing that uses the chorus (B - A - E) thing
+
+</pre>
+<p>Console Output From Tutorial 02</p>
+<p><img src="images/demo1.png" width="921" height="360" alt="demo1"></p>
+<p>For this assignment we want you to build a client-server single page app so that the chords are displayed above the lyrics in a browser web page. Moreover, once displayed, the user should be able to drag individual words or chord symbols around with the mouse. Then they should be able to submit the altered arrangement back to the server which should store the updated results in the chord pro file format replacing the original data.</p>
+<p>This is intended to be a single page app (where the user just makes one request to a particular URL) but we will not be very strict about it in this assignment.</p>
+<p>To do this assignment you need to be able to do things like the following (much of it will be examined in tutorials 02 and 03 and in lecture demos):</p>
+<p>Open and read files on the server.<br>
+Send JSON objects between browser and server.<br>
+Convert javascript objects to JSON strings and vice versa.
+<br>
+  Send GET or POST requests from client to server and extract the response data.<br>
+  Receive GET or POST requests from the client and formulate a response.
+  <br>
+  Send HTML and javascript to the broswer page to react to mouse events and drag items around.<br>
+Open and write files on the server.</p>
+<p>So the challenge will be to combine these individual capablities to form the application and also solve a few additional problems that inevitably fall through the cracks. You are free to make use of any code we post as demos as part of your assignment solution.</p>
+<p>Note we have given quite a long time (3 weeks) to complete this assignment because there are lots of little bits to figure out and we will be presenting demos over the course of that time in both lectures and tutorials.</p>
+<p>&nbsp;</p>
+<h2>1) Server-Side Requirements</h2>
+<p>R1.1) The server code should use only javascript and node.js with build in modules (not use external npm modules or the express.js framework.</p>
+<p>R1.2) The server should have a directory of chord pro formated text files (use .crd or .txt extension as you prefer). So the server does not store data in an intermediate format like JSON strings.</p>
+<p>R1.3) The server should allow a client, via a browser, to request a particular song.</p>
+<p>R1.4) The server should accept updated data from the client and use that data to overwrite the contents of existing song files.</p>
+<p>R1.5) Server should be hosted on port 3000 and reachable from a browser on the same machine visiting something like <span class="code">http://localhost:3000/assignment1.html</span> or <span class="code">http://localhost:3000/filename.ext</span>. (Your ReadMe.txt file should tell the TA what specific URL to use to test your application.)</p>
+<p>&nbsp;</p>
+<h2>2) Client-Server Data Exchange</h2>
+<p>R2.1)</font> The exchange of chord/lyric data between client and server should be in the form of JSON object strings. (The initial launch of the client web page will just be the result of a GET request for a static file.)</p>
+<p>R2.2) The initial launch of the web app should be either as the result of the client making a request to <span class="code">http://localhost:3000/assignment1.html</span> or to a specific file name instead like <span class="code">http://localhost:3000/sisterGoldenHair.crd</span> Include a ReadMe.txt file to tell the TA's how to test your app from the browser</p>
+<p>&nbsp;</p>
+<h2>3) Client Requirements</h2>
+<p>R3.1)</font> When the user requests a file from the server the chords and lyrics should be displayed in the browser page with the chords properly positioned above the lyrics (like in tutorial 02).</p>
+<p>R3.2) The user should be able to drag the chord symbols and words around with a their mouse.</p>
+<p>R3.3) There should be a &quot;submit&quot; or &quot; update&quot; button to allow the client to submit the moved-around data back to the server which will then overwrite the original file contents in the original file format.</p>
+<p>R3.4) The client-side code will have to figure out from the position of the chord symbols and lyrics which words form a line of text and which chords appear above which words. (This will be the fun part -trying to figure out from the position of words which ones belong to the same line of text.)</p>
+<p>R3.5) The client should be able to request a different file. This could be done with a text field and &quot;open&quot; button or by visiting a different URL.</p>
+<hr width="100%">
+<p>&nbsp;</p>
+<h2>Additional Notes.</h2>
+<p>I've simplified the three test song files provided so they only consist of one verse or chorus of text. That is sufficient for the assignment -you don't need to use long files of the entire song.</p>
+<p>You can use .txt extensions instead of .crd for you test files. This makes them easier to view with other apps or the browser. </p>
+<p>Your app can be a HTML5 canvas app or use individual HTML elements. It is up to you. We will be showing you demo drag and drop code that is mostly oriented to using a canvas.</p>
+<p>If you do your app with a text field and open button your server will probably just have to supply the chord/lyric data as a JSON object. But, if you choose to use a URL request instead you will probably need to provide HTML page content as well. The choice is yours though.</p>
+<p>I've added some chord-pro txt files in a songs directory with this assignment that you can use to test with. You can easily generate chord pro files on the <a href="http://www.chordie.com">http://www.chordie.com/</a> website. On this site you can create a songbook and add songs. When you select songs in your songbook there is an option to edit them which will show you the raw chord pro format which you can cut and paste to a text file.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<hr width="100%">
+</body>
+</html>
